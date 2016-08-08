@@ -20,21 +20,20 @@ theme: minimal
 
 
 # Built with Jekyll 3.2.0
-
-# source
-# source: .
-# destination: ./_site
-# layouts_dir: _layouts
-
 # About/contact
 author:
   name:              Jackson Harter
   url:               https://twitter.com/jacksonharter
   email:             harterj@oregonstate.edu
 
+
+include:
+- stylesheets
+- javascript
+
+# baseurl: /transportGroup/
+
 # Permalinks
-# permalink: /_layouts/default.html
-# permalink: /harterj/
 permalink: pretty
 permalink: /:title/
 
