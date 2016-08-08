@@ -20,7 +20,7 @@ theme: minimal
 
 layout: _layouts
 
-url: https://osuradtransportreactorphysics.github.io/transportGroup/
+url: https://rtrp.github.io/osu-transport/
 
 source: .
 destination: ./_site
