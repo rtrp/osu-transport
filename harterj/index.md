@@ -6,7 +6,6 @@ author: Jackson Harter
 Jackson R. Harter
 ================================
 
-### My name is Jackson.
 I am a 2nd year PhD student at Oregon State. This is our first real attempt at making a
 group website, so please bear with us while we get things up and running. A few things
 about me, because I need to fill some space: I used to be a professional cook. That's a
