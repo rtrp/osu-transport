@@ -20,6 +20,8 @@ theme: minimal
 
 layout: _layouts
 
+url: https://osuradtransportreactorphysics.github.io/transportGroup/
+
 source: .
 destination: ./_site
 layouts_dir: ./_layouts
