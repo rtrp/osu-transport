@@ -6,4 +6,4 @@ author: Jackson Harter
 Jackson R. Harter
 ================================
 
-### Here is a page I created with Git Markdown language.
+### Jackson's personal page.
