@@ -18,6 +18,12 @@ gems:
   - jekyll-paginate
 theme: minimal
 
+layout: _layouts
+
+source: .
+destination: ./_site
+layouts_dir: ./_layouts
+
 
 # Built with Jekyll 3.2.0
 # About/contact
@@ -36,6 +42,8 @@ include:
 # Permalinks
 permalink: pretty
 permalink: /:title/
+permalink: /_layouts/default.html
+permalink: /harterj/
 
 # Set encoding to UTF-8
 encoding: utf-8
