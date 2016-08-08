@@ -1,9 +1,9 @@
 ---
-title: Jackson-personal
+title: Doug-personal
 layout: default
-author: Jackson Harter
+author: Doug Woods
 ---
-Jackson R. Harter
+Doug N. Woods
 ================================
 
 ### Here is a page I created with Git Markdown language.

@@ -1,9 +1,9 @@
 ---
-title: Jackson-personal
+title: Tony-personal
 layout: default
-author: Jackson Harter
+author: Tony Alberti
 ---
-Jackson R. Harter
+Anthony L. Alberti
 ================================
 
 ### Here is a page I created with Git Markdown language.
