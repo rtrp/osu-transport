@@ -1,7 +1,7 @@
 ---
-title: Doug-personal
+title: Todd-personal
 layout: default
-author: Doug Woods
+author: Todd Palmer
 ---
-Doug N. Woods
+Todd S. Palmer
 ================================
