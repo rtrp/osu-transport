@@ -14,6 +14,10 @@ I defended my M.S.[^1] in February 2016, and began work toward my PhD soon after
 
 ***
 
+[https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage](https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage)
+
+***
+
 ## Research interests
 
 Boltzmann transport equation, phonon transport, deterministic methods, quantum mechanics,
