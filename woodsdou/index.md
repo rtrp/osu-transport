@@ -23,9 +23,9 @@ I am beginning my 2nd year as a PhD candidate in Nuclear Engineering in the [Sch
 
 ***
 
-## Research interests
+## Current Research
 
-Radiation transport, deterministic methods, high-order finite element method, diffusion synthetic acceleration (DSA)
+High-order finite element radiation transport using meshes with curved surfaces using the open source finite element library [MFEM](https://mfem.org).
 
 ***
 
@@ -42,8 +42,8 @@ Radiation transport, deterministic methods, high-order finite element method, di
 ***
 
 ### Conferences
-* 
-* American Nuclear Society Winter Meeting, Las Vegas, NV. November 2016
+* American Nuclear Society Summer Meeting, New Orleans, LA, June 2016
+* American Nuclear Society Student Conference, Boston, MA, April 2014
 
 ***
 
