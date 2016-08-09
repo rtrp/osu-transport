@@ -6,8 +6,9 @@ author: Doug Woods
 Doug Woods
 ================================
 
-I am beginning my 2nd year as a PhD student at Oregon State, my major advisor is Todd Palmer and my minor advisor is Alex Greaney.[^1]
-I defended my M.S.[^2] in October 2015, and began work toward my Ph.D. soon after that.
+I am beginning my 2nd year as a PhD candidate in Nuclear Engineering in the school of Nuclear Science and Engineering at Oregon State University. My major advisor is Todd Palmer.[^1]
+
+I defended my M.S.[^2] in February 2016, and began work toward my PhD soon after that.
 
 ***
 
