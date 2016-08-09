@@ -6,9 +6,11 @@ author: Doug Woods
 Doug Woods
 ================================
 
-I am beginning my 2nd year as a PhD candidate in Nuclear Engineering in the school of Nuclear Science and Engineering at Oregon State University. My major advisor is Todd Palmer.[^1]
+https://rtrp.github.io/osu-transport/woodsdou/
 
-I defended my M.S.[^2] in February 2016, and began work toward my PhD soon after that.
+I am beginning my 2nd year as a PhD candidate in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/).
+
+I defended my M.S.[^1] in February 2016, and began work toward my PhD soon after that.
 
 ***
 
@@ -54,5 +56,4 @@ I am.
 
 ***
 
-[^1]: Assistant Professor, Department of Mechanical Engineering and MS&E Program, University of California - Riverside
-[^2]: "Predicting Thermal Conductivity in Nuclear Fuels using Rattlesnake-Based Deterministic Phonon Transport Simulations"
+[^1]: "High Order Finite Elements S$_N$ Transport in X-Y Geometry on Meshes with Curved Surfaces in the Thick Diffusion Limit"
