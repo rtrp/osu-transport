@@ -1,43 +1,57 @@
 ---
-title: Jackson Harter
+title: Jackson-personal
 layout: default
 author: Jackson Harter
 ---
 Jackson R. Harter
 ================================
 
-I am a 2nd year PhD student at Oregon State. This is our first real attempt at making a
-group website, so please bear with us while we get things up and running. A few things
-about me, because I need to fill some space: I used to be a professional cook. That's a
-cook, not a chef. A chef runs a restaurant kitchen. I did not do that. Anyway, I realized
-I couldn't cook forever (I'm a type 1 diabetic (there IS a difference), it was hard to
-manage my health) and I decided to pursue Nuclear Engineering as a career change, and
-in 2009 I enrolled at OSU as a freshman. Now I'm a graduate student and if you asked
-me 10 years ago if I would expected to be doing this, I would have told you you're crazy.
-
-My major advisor is Todd Palmer and my minor advisor is Alex Greaney.
+I am beginning my 2nd year as a PhD student at Oregon State, my major advisor is Todd Palmer and my minor advisor is Alex Greaney.[^1]
+I defended my M.S.[^2] in October 2015, and began work toward my Ph.D. soon after that.
 
 ***
 
-### Alright, so here's a list of things I'm currently working on
+## Research interests
+
+Boltzmann transport equation, phonon transport, deterministic methods, quantum mechanics,
+thermal conductivity, uncertainty quantification, statistical thermophysics and
+nuclear materials
+
+***
+
+## Current projects
 
 * Dissertation
-  * Deterministic phonon transport
-  1. There is plenty to fill this up
-  2. Some-complicated term
-    * can we make sub sub lists?
+  * Currently doing literature review and collecting material for writing my dissertation proposal
+
+
+* Intern at Idaho National Laboratory
+  * I work for Daniel Schwen and Dan Wachs on a variety of projects
+  * Some of this includes [MOOSE](http://mooseframework.org) development, modeling and simulation
 
 ***
 
-What happens now?
+### Upcoming conferences
+* Materials Science & Technology 2016, Salt Lake City, UT. October 2016
+* American Nuclear Society Winter Meeting, Las Vegas, NV. November 2016
 
 ***
 
-> "You know that quote 'blood is thicker than water'? How it's supposed to confirm
-that family is everything?"
->
-> > "Yeah, well the actual quote is: 'The blood of the covenant is thicker than the
-water of the womb.' '"
-> >
-> > > "I bet you didn't know that."
-> > What happens here
+### Publications
+* J. HARTER, P. A. GREANEY, and T. PALMER, "Characterization of Thermal Conductivity using Deterministic Phonon Transport in Rattlesnake," *Transactions of the American Nuclear Society*, **112**, 829–832 (2015).
+
+***
+
+### Personal interests
+I love Oregon and the west coast. I have a lot of interests but these tend to rotate based on the season and how busy
+I am.
+
+***
+
+### Interesting news articles
+* [Scientists discover light could exist in a previously unknown form](http://phys.org/news/2016-08-scientists-previously-unknown.html)
+
+***
+
+[^1]: Assistant Professor, Department of Mechanical Engineering and MS&E Program, University of California - Riverside
+[^2]: "Predicting Thermal Conductivity in Nuclear Fuels using Rattlesnake-Based Deterministic Phonon Transport Simulations"
