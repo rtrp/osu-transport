@@ -3,5 +3,5 @@ title: Doug-personal
 layout: default
 author: Doug Woods
 ---
-Doug N. Woods
+Doug Woods
 ================================
