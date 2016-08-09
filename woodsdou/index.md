@@ -10,7 +10,12 @@ https://rtrp.github.io/osu-transport/woodsdou/
 
 I am beginning my 2nd year as a PhD candidate in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/).
 
-I defended my M.S.[^1] in February 2016, and began work toward my PhD soon after that.
+
+## Education
+
+* Ph.D. Candidate in Nuclear Engineering at Oregon State University, Currently
+* M.S. in Nuclear Engineering[^1] at Oregon State University, February 2016
+* B.S. in Nuclear Engineering at Oregon State University, March 2013
 
 ***
 
@@ -20,9 +25,7 @@ I defended my M.S.[^1] in February 2016, and began work toward my PhD soon after
 
 ## Research interests
 
-Boltzmann transport equation, phonon transport, deterministic methods, quantum mechanics,
-thermal conductivity, uncertainty quantification, statistical thermophysics and
-nuclear materials
+Radiation transport, deterministic methods, high-order finite element method, diffusion synthetic acceleration (DSA)
 
 ***
 
@@ -38,8 +41,8 @@ nuclear materials
 
 ***
 
-### Upcoming conferences
-* Materials Science & Technology 2016, Salt Lake City, UT. October 2016
+### Conferences
+* 
 * American Nuclear Society Winter Meeting, Las Vegas, NV. November 2016
 
 ***
