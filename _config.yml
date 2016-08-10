@@ -28,7 +28,7 @@ layouts_dir: ./_layouts
 
 
 # Built with Jekyll 3.2.0
-# About/contact
+
 author:
   name:              Jackson Harter
   url:               https://twitter.com/jacksonharter
@@ -39,13 +39,10 @@ include:
 - stylesheets
 - javascript
 
-# baseurl: /transportGroup/
-
 # Permalinks
 permalink: pretty
 permalink: /:title/
 permalink: /_layouts/default.html
-permalink: /harterj/
 
 # Set encoding to UTF-8
 encoding: utf-8
