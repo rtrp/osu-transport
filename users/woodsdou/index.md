@@ -13,7 +13,7 @@ I am beginning my 2nd year as a PhD candidate in Nuclear Engineering in the [Sch
 
 ## Education
 
-* Ph.D. Candidate in Nuclear Engineering at Oregon State University, Currently
+* Ph.D. in Nuclear Engineering at Oregon State University, Candidate
 * M.S. in Nuclear Engineering[^1] at Oregon State University, February 2016
 * B.S. in Nuclear Engineering at Oregon State University, March 2013
 
