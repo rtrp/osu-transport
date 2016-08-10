@@ -6,16 +6,26 @@ author: Doug Woods
 Doug Woods
 ================================
 
-I am beginning my 2nd year as a PhD student at Oregon State, my major advisor is Todd Palmer and my minor advisor is Alex Greaney.[^1]
-I defended my M.S.[^2] in October 2015, and began work toward my Ph.D. soon after that.
+https://rtrp.github.io/osu-transport/woodsdou/
+
+I am beginning my 2nd year as a PhD candidate in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/).
+
+
+## Education
+
+* Ph.D. Candidate in Nuclear Engineering at Oregon State University, Currently
+* M.S. in Nuclear Engineering[^1] at Oregon State University, February 2016
+* B.S. in Nuclear Engineering at Oregon State University, March 2013
 
 ***
 
-## Research interests
+[https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage](https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage)
 
-Boltzmann transport equation, phonon transport, deterministic methods, quantum mechanics,
-thermal conductivity, uncertainty quantification, statistical thermophysics and
-nuclear materials
+***
+
+## Current Research
+
+High-order finite element radiation transport using meshes with curved surfaces using the open source finite element library [MFEM](https://mfem.org).
 
 ***
 
@@ -31,9 +41,9 @@ nuclear materials
 
 ***
 
-### Upcoming conferences
-* Materials Science & Technology 2016, Salt Lake City, UT. October 2016
-* American Nuclear Society Winter Meeting, Las Vegas, NV. November 2016
+### Conferences
+* American Nuclear Society Summer Meeting, New Orleans, LA, June 2016
+* American Nuclear Society Student Conference, Boston, MA, April 2014
 
 ***
 
@@ -53,5 +63,4 @@ I am.
 
 ***
 
-[^1]: Assistant Professor, Department of Mechanical Engineering and MS&E Program, University of California - Riverside
-[^2]: "Predicting Thermal Conductivity in Nuclear Fuels using Rattlesnake-Based Deterministic Phonon Transport Simulations"
+[^1]: "High Order Finite Elements S$_N$ Transport in X-Y Geometry on Meshes with Curved Surfaces in the Thick Diffusion Limit"
