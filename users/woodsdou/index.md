@@ -28,7 +28,7 @@ With mesh refinement and/or increasing the finite element order, we see solution
 
 <img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/plotConvergenceRates_15.png" width="400">
 
-Diffusion limit calbulations can exhibit unphyiscial oscillations in the boundadry layer solution. If the solution is near zero, the oscillations will cause the solution to drop below zero as seen by white space in the image below[^1]. In the context of thermal radiation transport, negative fluxes mean negative temperatures, which can lead to the equations of state to calculate negative densities and pressures.
+Diffusion limit calculations can exhibit unphyisical oscillations in the boundary layer solution. If the solution is near zero, the oscillations will cause the solution to drop below zero as seen by white space in the image below[^1]. In the context of thermal radiation transport, negative fluxes mean negative temperatures, which can lead to the equations of state to calculate negative densities and pressures.
 
 <img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/TP1Log.png" width="500">
 
