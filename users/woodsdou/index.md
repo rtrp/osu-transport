@@ -3,9 +3,12 @@ title: Doug-personal
 layout: default
 author: Doug Woods
 ---
-<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/11541011_10154096689326002_8621302457130562662_n.jpg" width="200">
+
 Doug Woods
 ==============
+
+<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/11541011_10154096689326002_8621302457130562662_n.jpg" width="200">
+
 woodsdou@oregonstate.edu
 
 https://rtrp.github.io/osu-transport/users/woodsdou/
