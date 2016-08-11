@@ -3,19 +3,14 @@ title: Doug-personal
 layout: default
 author: Doug Woods
 ---
+<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/11541011_10154096689326002_8621302457130562662_n.jpg" width="200">
 Doug Woods
-================================
+==============
+woodsdou@oregonstate.edu
 
-https://rtrp.github.io/osu-transport/woodsdou/
+https://rtrp.github.io/osu-transport/users/woodsdou/
 
-I am beginning my 2nd year as a PhD candidate in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/).
-
-
-## Education
-
-* Ph.D. in Nuclear Engineering at Oregon State University, Candidate
-* M.S. in Nuclear Engineering[^1] at Oregon State University, February 2016
-* B.S. in Nuclear Engineering at Oregon State University, March 2013
+I am a Ph.D. candidate in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/). I am also a licenced reactor operator for the [Oregon State TRIGA Reactor](http://radiationcenter.oregonstate.edu/oregon-state-triga-reactor-0).
 
 ***
 
@@ -23,44 +18,43 @@ I am beginning my 2nd year as a PhD candidate in Nuclear Engineering in the [Sch
 
 ***
 
-## Current Research
+## Research
 
-High-order finite element radiation transport using meshes with curved surfaces using the open source finite element library [MFEM](https://mfem.org).
+We have demonstrated the feasibility of high-order finite element radiation transport using meshes with curved surfaces using the open source finite element library [MFEM](https://mfem.org). The image below[^1] illustrates a mesh with 3<sup>rd</sup> order polynomial curved surfaces.
+
+<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/AdamsDiff2DwMeshBlue.png" width="450">
+
+With mesh refinement and/or increasing the finite element order, we see solutions converging to the analytic solution. The data points on the following image[^1] show errors between the DGFEM transport solution and the analytic MMS solution. Lines connect data points calculated using the same finite element order.
+
+<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/plotConvergenceRates_15.png" width="400">
+
+Diffusion limit calculations can exhibit unphyisical oscillations in the boundary layer solution. If the solution is near zero, the oscillations will cause the solution to drop below zero as seen by white space in the image below[^1]. In the context of thermal radiation transport, negative fluxes mean negative temperatures, which can lead to the equations of state to calculate negative densities and pressures.
+
+<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/TP1Log.png" width="500">
+
+These oscillations can also be seen in problems with varying material opacities. The image below[^1] is the solution to a multi-material problem with opacities ranging several orders of magnitude, similar to thermal radiation transport problems of practical interest. Oscillations can be seen in various regions of the problem.
+
+<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/TP3.png" width="450">
 
 ***
 
-## Current projects
-
-* Dissertation
-  * Currently doing literature review and collecting material for writing my dissertation proposal
-
-
-* Intern at Idaho National Laboratory
-  * I work for Daniel Schwen and Dan Wachs on a variety of projects
-  * Some of this includes [MOOSE](http://mooseframework.org) development, modeling and simulation
-
-***
-
-### Conferences
+## Conferences
 * American Nuclear Society Summer Meeting, New Orleans, LA, June 2016
-* American Nuclear Society Student Conference, Boston, MA, April 2014
+* ANS Student Conference, Boston, MA, April 2013
+* ANS Student Conference, Las Vegas, NV, April 2012
 
 ***
 
-### Publications
-* J. HARTER, P. A. GREANEY, and T. PALMER, "Characterization of Thermal Conductivity using Deterministic Phonon Transport in Rattlesnake," *Transactions of the American Nuclear Society*, **112**, 829–832 (2015).
+## Publications
+[^1] Douglas N. Woods, Thomas A. Brunner, and Todd S. Palmer, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **114**, 377–380 (2016).
+
+[^2] Douglas N. Woods, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces in the Thick Diffusion Limit", Masters Thesis (2016).
 
 ***
 
-### Personal interests
-I love Oregon and the west coast. I have a lot of interests but these tend to rotate based on the season and how busy
-I am.
+## Personal interests
+Soccer, snowboarding, hiking, camping, rock climbing, reading, traveling, sailing
 
 ***
 
-### Interesting news articles
-* [Scientists discover light could exist in a previously unknown form](http://phys.org/news/2016-08-scientists-previously-unknown.html)
-
-***
-
-[^1]: "High Order Finite Elements S$_N$ Transport in X-Y Geometry on Meshes with Curved Surfaces in the Thick Diffusion Limit"
+## Interesting news articles
