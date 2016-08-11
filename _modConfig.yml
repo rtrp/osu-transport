@@ -1,0 +1,53 @@
+github: [metadata]
+
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  input: GFM
+  hard_wrap: false
+
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
+theme: minimal
+
+layout: _layouts
+
+# url: https://rtrp.github.io/osu-transport/
+
+source: .
+destination: ./_site
+layouts_dir: ./_layouts
+
+
+# Built with Jekyll 3.2.0
+
+author:
+  name:              Jackson Harter
+  url:               https://twitter.com/jacksonharter
+  email:             harterj@oregonstate.edu
+
+
+include:
+- stylesheets
+- javascript
+
+# Permalinks
+permalink: pretty
+permalink: /:title/
+permalink: /_layouts/default.html
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
