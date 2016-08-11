@@ -5,18 +5,12 @@ author: Doug Woods
 ---
 <img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/11541011_10154096689326002_8621302457130562662_n.jpg" width="200">
 Doug Woods
-================================
+==============
+woodsdou@oregonstate.edu
 
 https://rtrp.github.io/osu-transport/woodsdou/
 
-I am beginning my 2nd year as a PhD candidate in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/).
-
-
-## Education
-
-* Ph.D. in Nuclear Engineering at Oregon State University, Candidate
-* M.S. in Nuclear Engineering[^1] at Oregon State University, February 2016
-* B.S. in Nuclear Engineering at Oregon State University, March 2013
+I am a Ph.D. candidate in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/).
 
 ***
 
@@ -33,14 +27,6 @@ High-order finite element radiation transport using meshes with curved surfaces 
 ## Current projects
 
 * Dissertation
-  * Currently doing literature review and collecting material for writing my dissertation proposal
-
-
-* Intern at Idaho National Laboratory
-  * I work for Daniel Schwen and Dan Wachs on a variety of projects
-  * Some of this includes [MOOSE](http://mooseframework.org) development, modeling and simulation
-
-***
 
 ### Conferences
 * American Nuclear Society Summer Meeting, New Orleans, LA, June 2016
