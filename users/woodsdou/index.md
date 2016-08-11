@@ -32,7 +32,7 @@ Diffusion limit calculations can exhibit unphyisical oscillations in the boundar
 
 <img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/TP1Log.png" width="500">
 
-These oscillatios can also be seen in problems with varying material opacities. The image below[^1] is the solution to a multi-material problem with opacities ranging several orders of magnitude, similar to thermal radiation transport problems of practical interest. Oscillations can be seen in various regions of the problem.
+These oscillations can also be seen in problems with varying material opacities. The image below[^1] is the solution to a multi-material problem with opacities ranging several orders of magnitude, similar to thermal radiation transport problems of practical interest. Oscillations can be seen in various regions of the problem.
 
 <img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/TP3.png" width="450">
 
