@@ -7,7 +7,7 @@ author: Doug Woods
 Doug Woods
 ==============
 
-<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/11541011_10154096689326002_8621302457130562662_n.jpg" width="200">
+<img src="https://github.com/rtrp/osu-transport/blob/gh-pages/users/woodsdou/images/Doug%20Woods%20Three%205%20to%207%20crop.JPG" width="200">
 
 woodsdou@oregonstate.edu
 
@@ -25,19 +25,19 @@ I am a Ph.D. candidate in Nuclear Engineering in the [School of Nuclear Science 
 
 We have demonstrated the feasibility of high-order finite element radiation transport using meshes with curved surfaces using the open source finite element library [MFEM](https://mfem.org). The image below[^1] illustrates a mesh with 3<sup>rd</sup> order polynomial curved surfaces.
 
-<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/AdamsDiff2DwMeshBlue.png" width="450">
+<img src="https://github.com/rtrp/osu-transport/blob/gh-pages/users/woodsdou/images/AdamsDiff2DwMeshBlue.png" width="450">
 
 With mesh refinement and/or increasing the finite element order, we see solutions converging to the analytic solution. The data points on the following image[^1] show errors between the DGFEM transport solution and the analytic MMS solution. Lines connect data points calculated using the same finite element order.
 
-<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/plotConvergenceRates_15.png" width="400">
+<img src="https://github.com/rtrp/osu-transport/blob/gh-pages/users/woodsdou/images/plotConvergenceRates_15.png" width="400">
 
 Diffusion limit calculations can exhibit unphyisical oscillations in the boundary layer solution. If the solution is near zero, the oscillations will cause the solution to drop below zero as seen by white space in the image below[^1]. In the context of thermal radiation transport, negative fluxes mean negative temperatures, which can lead to the equations of state to calculate negative densities and pressures.
 
-<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/TP1Log.png" width="500">
+<img src="https://github.com/rtrp/osu-transport/blob/gh-pages/users/woodsdou/images/TP1Log.png" width="500">
 
 These oscillations can also be seen in problems with varying material opacities. The image below[^1] is the solution to a multi-material problem with opacities ranging several orders of magnitude, similar to thermal radiation transport problems of practical interest. Oscillations can be seen in various regions of the problem.
 
-<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/TP3.png" width="450">
+<img src="https://github.com/rtrp/osu-transport/blob/gh-pages/users/woodsdou/images/TP3.png" width="450">
 
 ***
 
