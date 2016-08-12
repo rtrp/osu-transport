@@ -7,7 +7,7 @@ author: Doug Woods
 Doug Woods
 ==============
 
-<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/11541011_10154096689326002_8621302457130562662_n.jpg" width="200">
+<img src="https://github.com/rtrp/osu-transport/blob/woods-edits/users/woodsdou/images/Doug%20Woods%20Three%205%20to%207%20crop.JPG" width="200">
 
 woodsdou@oregonstate.edu
 
