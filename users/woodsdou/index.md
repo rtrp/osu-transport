@@ -9,6 +9,8 @@ Doug Woods
 
 <img src="https://github.com/rtrp/osu-transport/blob/gh-pages/users/woodsdou/images/Doug%20Woods%20Three%205%20to%207%20crop.JPG" width="200">
 
+<img src="{{ site.url }}users/woodsdou/images/Doug%20Woods%20Three%205%20to%207%20crop.JPG" width="200">
+
 woodsdou@oregonstate.edu
 
 https://rtrp.github.io/osu-transport/users/woodsdou/
