@@ -30,3 +30,5 @@ I have interned at Idaho National Laboratory (INL) in Idaho Falls, ID in the sum
 
 ### Other Interests
 Rock climbing, frontcountry and backcountry camping, hiking, grilling, off roading, and general outdoors adventures.  Music. Lots of music.  I'm a beginner in woodworking and enjoy doing minor auto repairs on my '99 4Runner. I also enjoy casual sport shooting. Traveling and just generally exploring new places is also something I genuinely enjoy doing.
+
+[seems like Disney is doing right by Star Wars](https://www.youtube.com/watch?v=frdj1zb9sMY)
