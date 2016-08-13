@@ -58,7 +58,7 @@ These oscillations can also be seen in problems with varying material opacities.
 ***
 
 ## Personal interests
-Soccer, snowboarding, hiking, camping, rock climbing, reading, traveling, sailing
+Soccer, snowboarding, motorcycling, sailing, rock climbing, hiking, camping, reading, traveling
 
 ***
 
