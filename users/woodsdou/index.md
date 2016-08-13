@@ -61,3 +61,8 @@ Soccer, snowboarding, hiking, camping, rock climbing, reading, traveling, sailin
 ***
 
 ## Interesting news articles
+
+## Other Projects
+
+* [OpenCL and OpenGL particle system]({{ site.url }}users/woodsdou/ParticleSystem/ParticleSystem.md)
+* [Inverse transport/diffusion problem]({{ site.url }}users/woodsdou/InverseProblem/InverseProblem.md)
