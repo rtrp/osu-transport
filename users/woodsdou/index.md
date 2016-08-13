@@ -37,8 +37,10 @@ These oscillations can also be seen in problems with varying material opacities.
 
 ***
 
-## Conferences
+## Presentations
 * American Nuclear Society Summer Meeting, New Orleans, LA, June 2016
+* OSU Graduate Research Expo, Portland, OR, March 2016
+* OSU Graduate Research Expo, Portland, OR, March 2015
 * ANS Student Conference, Boston, MA, April 2013
 * ANS Student Conference, Las Vegas, NV, April 2012
 
