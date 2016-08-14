@@ -37,6 +37,20 @@ These oscillations can also be seen in problems with varying material opacities.
 
 ***
 
+## Personal interests
+Soccer, snowboarding, motorcycling, sailing, rock climbing, hiking, camping, reading, traveling
+
+***
+
+## Interesting news articles
+
+## Other Projects
+
+* [OpenCL and OpenGL particle system]({{ site.url }}users/woodsdou/ParticleSystem/ParticleSystem.md)
+* [Inverse transport/diffusion problem]({{ site.url }}users/woodsdou/InverseProblem/InverseProblem.md)
+
+***
+
 ## Presentations
 * American Nuclear Society Summer Meeting, New Orleans, LA, June 2016
 * OSU Graduate Research Expo, Portland, OR, March 2016
@@ -54,17 +68,3 @@ These oscillations can also be seen in problems with varying material opacities.
 [^1] Douglas N. Woods, Thomas A. Brunner, and Todd S. Palmer, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **114**, 377–380 (2016).
 
 [^2] Douglas N. Woods, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces in the Thick Diffusion Limit", Masters Thesis (2016).
-
-***
-
-## Personal interests
-Soccer, snowboarding, motorcycling, sailing, rock climbing, hiking, camping, reading, traveling
-
-***
-
-## Interesting news articles
-
-## Other Projects
-
-* [OpenCL and OpenGL particle system]({{ site.url }}users/woodsdou/ParticleSystem/ParticleSystem.md)
-* [Inverse transport/diffusion problem]({{ site.url }}users/woodsdou/InverseProblem/InverseProblem.md)
