@@ -46,7 +46,7 @@ Soccer, snowboarding, motorcycling, sailing, rock climbing, hiking, camping, rea
 
 ## Other Projects
 
-* [OpenCL and OpenGL particle system](./ParticleSystem/ParticleSystem.md)
+* [OpenCL and OpenGL particle system](./ParticleSystem/index.md)
 * [Inverse transport/diffusion problem](./InverseProblem/InverseProblem.md)
 
 ***
