@@ -7,17 +7,13 @@ author: Doug Woods
 Doug Woods
 ==============
 
-<img src="{{ site.url }}users/woodsdou/images/Doug%20Woods%20Three%205%20to%207%20crop.JPG" width="200">
-
 woodsdou@oregonstate.edu
 
-https://rtrp.github.io/osu-transport/users/woodsdou/
+[comment]: # ([https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage](https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage))
+
+<img src="{{ site.url }}users/woodsdou/images/Doug%20Woods%20Three%205%20to%207%20crop.JPG" width="200">
 
 I am a Ph.D. candidate in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/). I am also a licenced reactor operator for the [Oregon State TRIGA Reactor](http://radiationcenter.oregonstate.edu/oregon-state-triga-reactor-0).
-
-***
-
-[https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage](https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage)
 
 ***
 
@@ -41,10 +37,16 @@ These oscillations can also be seen in problems with varying material opacities.
 
 ***
 
-## Conferences
+## Presentations
 * American Nuclear Society Summer Meeting, New Orleans, LA, June 2016
+* OSU Graduate Research Expo, Portland, OR, March 2016
+* OSU ANS Winter Conference, Corvallis, OR, February 2016
+* LLNL Summer Intern, Livermore, CA, September 2015
+* OSU Graduate Research Expo, Portland, OR, March 2015
 * ANS Student Conference, Boston, MA, April 2013
+* OSU ANS Winter Conference, Corvallis, OR, February 2013
 * ANS Student Conference, Las Vegas, NV, April 2012
+* OSU ANS Winter Conference, Corvallis, OR, February 2012
 
 ***
 
@@ -56,8 +58,13 @@ These oscillations can also be seen in problems with varying material opacities.
 ***
 
 ## Personal interests
-Soccer, snowboarding, hiking, camping, rock climbing, reading, traveling, sailing
+Soccer, snowboarding, motorcycling, sailing, rock climbing, hiking, camping, reading, traveling
 
 ***
 
 ## Interesting news articles
+
+## Other Projects
+
+* [OpenCL and OpenGL particle system]({{ site.url }}users/woodsdou/ParticleSystem/ParticleSystem.md)
+* [Inverse transport/diffusion problem]({{ site.url }}users/woodsdou/InverseProblem/InverseProblem.md)
