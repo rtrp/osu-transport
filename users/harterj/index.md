@@ -17,9 +17,12 @@ Email: <a href="mailto:harterj@oregonstate.edu" target="top"> harterj@oregonstat
 
 ## Research
 We are interested in simulating deterministic phonon transport using the code Rattlesnake (written in the
-<a href="http://mooseframework.org/" target="blank">MOOSE</a> framework) to predict thermal conductivity in nuclear fuels operating at high temperatures with isotopic defects and constantly evolving microstructures. We are developing a framework to bridge the gap between the atomistic and engineering scale, and collaborate with <a href="http://www.engr.ucr.edu/faculty/me/AlexanderGreaney.html" target="blank">Dr. Alex Greaney</a> of UC Riverside to this end.
+<a href="http://mooseframework.org/" target="blank">MOOSE</a> framework) to predict thermal conductivity in nuclear fuels operating at high temperatures with isotopic defects and evolving microstructures. We are developing a framework to bridge the gap between the atomistic and engineering scale, and collaborate with <a href="http://www.engr.ucr.edu/faculty/me/AlexanderGreaney.html" target="blank">Dr. Alex Greaney</a> of UC Riverside and <a href="https://github.com/dschwen" target="blank">Daniel Schwen</a> of
+<a href="https://www.inl.gov/" target="blank">Idaho National Laboratory</a>.
 
-We have shown Rattlesnake to be an effective and efficient engine for simulating homogeneous phonon transport; it solves the frequency independent equation of phonon radiative transfer in the Self-Adjoin Angular Flux formulation using the single mode relaxation time approximation. However, we are interested in phonon transport at high temperatures and therefore must implement multifrequency transport to model these physics effectively, in addition to considering contributions from 3- and 4-phonon processes and other anharmonic effects.
+
+
+We have shown Rattlesnake to be an effective and efficient engine for simulating homogeneous phonon transport; it solves the frequency independent equation of phonon radiative transfer in the Self-Adjoint Angular Flux formulation using the single mode relaxation time approximation. However, we are interested in phonon transport at high temperatures and therefore must implement multifrequency transport to model these physics effectively, in addition to considering contributions from 3- and 4-phonon processes and other anharmonic effects.
 
 ***
 
