@@ -8,7 +8,7 @@ Jackson R. Harter
 
 <img src="{{ site.url }}users/harterj/images/jrh-sit.jpg" height="375" width="600">
 
-I am beginning my 2nd year as a PhD student at Oregon State, my major advisor is Todd Palmer and my minor advisor is Alex Greaney[^1].
+I am beginning my 2nd year as a PhD student at Oregon State. My major advisor is Todd Palmer and my minor advisor is Alex Greaney[^1].
 I defended my M.S.[^2] in October 2015, and began work toward my Ph.D. soon after that.
 
 Email: <a href="mailto:harterj@oregonstate.edu" target="top"> harterj@oregonstate.edu </a>
@@ -45,7 +45,7 @@ We have shown Rattlesnake to be an effective and efficient engine for simulating
 ***
 
 ### Publications
-* J. HARTER, P. A. GREANEY, and T. PALMER, "Quantifying the Uncertainty in Deterministic Phonon Transport Calculations of Thermal Conductivity using Polynomial Chaos Expansions," 2016 American Nuclear Society Winter Meeting, **in Review**.
+* J. HARTER, P. A. GREANEY, and T. PALMER, "Quantifying the Uncertainty in Deterministic Phonon Transport Calculations of Thermal Conductivity using Polynomial Chaos Expansions," 2016 American Nuclear Society Winter Meeting. **In Review**.
 
 * J. HARTER, P. A. GREANEY, and T. PALMER, "Characterization of Thermal Conductivity using Deterministic Phonon Transport in Rattlesnake," *Transactions of the American Nuclear Society*, **112**, 829–832 (2015).
 
@@ -58,6 +58,7 @@ I am.
 ***
 
 ### Interesting news articles
+* [Shifting the Conversation - A New Era of Nuclear Dialogue](http://ansnuclearcafe.org/2015/12/10/shifting-the-conversation-a-new-era-of-nuclear-dialogue/#sthash.v1NPlNvq.dpbs)
 * [Scientists discover light could exist in a previously unknown form](http://phys.org/news/2016-08-scientists-previously-unknown.html)
 
 ***
