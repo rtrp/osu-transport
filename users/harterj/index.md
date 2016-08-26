@@ -8,7 +8,7 @@ Jackson R. Harter
 
 <img src="{{ site.url }}users/harterj/images/jrh-sit.jpg" height="375" width="600">
 
-I am beginning my 2nd year as a PhD student at Oregon State, my major advisor is Todd Palmer and my minor advisor is Alex Greaney[^1].
+I am beginning my 2nd year as a PhD student at Oregon State. My major advisor is Todd Palmer and my minor advisor is Alex Greaney[^1].
 I defended my M.S.[^2] in October 2015, and began work toward my Ph.D. soon after that.
 
 Email: <a href="mailto:harterj@oregonstate.edu" target="top"> harterj@oregonstate.edu </a>
