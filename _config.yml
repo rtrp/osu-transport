@@ -16,7 +16,7 @@ kramdown:
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
-theme: minimal
+theme: minima
 
 layout: _layouts
 
