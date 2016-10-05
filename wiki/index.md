@@ -11,6 +11,7 @@ Some software available through [Citrix](http://it.engineering.oregonstate.edu/c
 
 ## Simulation Tools
 (some export controlled software)
+
 * Attila (rogue: reactor physics)
 * CASMO (rogue: reactor phyiscs)
 * SIMULATE (rogue: reactor physics)
@@ -32,7 +33,3 @@ Some software available through [Citrix](http://it.engineering.oregonstate.edu/c
 * [BibDesk](http://bibdesk.sourceforge.net)
 * [Beamer Presentation Example](../users/woodsdou/DougsDefense.zip)
 * [LaTeX Demo](../users/woodsdou/LatexDemo.zip)
-
-
-
-
