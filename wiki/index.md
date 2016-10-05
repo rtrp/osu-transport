@@ -31,5 +31,9 @@ Some software available through [Citrix](http://it.engineering.oregonstate.edu/c
 * [Texmaker](http://www.xm1math.net/texmaker/)
 * [ShareLaTeX](https://www.sharelatex.com)
 * [BibDesk](http://bibdesk.sourceforge.net)
+* [Authorea](http://www.authorea.com)
 * [Beamer Presentation Example](../users/woodsdou/DougsDefense.zip)
 * [LaTeX Demo](../users/woodsdou/LatexDemo.zip)
+
+## Other
+* [GitHub](http://www.github.com)
