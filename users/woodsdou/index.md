@@ -37,17 +37,11 @@ These oscillations can also be seen in problems with varying material opacities.
 
 ***
 
-## Personal interests
-Soccer, snowboarding, motorcycling, sailing, rock climbing, hiking, camping, reading, traveling
+## Publications
 
-***
+1. <a name="ANS1"></a>Douglas N. Woods, Thomas A. Brunner, and Todd S. Palmer, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **114**, 377–380 (2016).
 
-## Interesting news articles
-
-## Other Projects
-
-* [OpenCL and OpenGL particle system](./ParticleSystem/)
-* [Inverse transport/diffusion problem](./InverseProblem/)
+2. Douglas N. Woods, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces in the Thick Diffusion Limit", Masters Thesis (2016).
 
 ***
 
@@ -64,8 +58,16 @@ Soccer, snowboarding, motorcycling, sailing, rock climbing, hiking, camping, rea
 
 ***
 
-## Publications
+## Other Projects
 
-1. <a name="ANS1"></a>Douglas N. Woods, Thomas A. Brunner, and Todd S. Palmer, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **114**, 377–380 (2016).
+* [OpenCL and OpenGL particle system](./ParticleSystem/)
+* [Inverse transport/diffusion problem](./InverseProblem/)
 
-2. Douglas N. Woods, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces in the Thick Diffusion Limit", Masters Thesis (2016).
+***
+
+## Interesting news articles
+
+***
+
+## Personal interests
+Soccer, snowboarding, motorcycling, sailing, rock climbing, hiking, camping, reading, traveling
