@@ -63,3 +63,7 @@ There are *countless* text editors out there. It's really just finding which one
   - Really great to use once you learn how to use it. But it does have a fairly steep learning curve.
 * [VIM](http://www.vim.org/)
   - A standard command line based editor.
+  
+## Visualization Tools
+* [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit/)
+  - Open source.
