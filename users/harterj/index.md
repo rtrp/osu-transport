@@ -27,12 +27,18 @@ We have shown Rattlesnake to be an effective and efficient engine for simulating
 ## Current projects
 * Dissertation
   * Performing literature review and collecting material to write my dissertation proposal
+* Research
+  * Implementing thermal boundary resistance physics model
+  * Frequency dependent phonon transport capability
+  * Higher-order scattering moments to model anharmonic phonon interactions
 
 ***
 
 ### Upcoming conferences
-* Materials Science & Technology 2016, Salt Lake City, UT. October 2016
 * American Nuclear Society Winter Meeting, Las Vegas, NV. November 2016
+  * "Quantifying the Uncertainty in Deterministic Phonon Transport Calculations of Thermal Conductivity using Polynomial Chaos Expansions"
+* Materials Research Society Spring Meeting, Phoenix, AZ. April 2017
+  * "Deterministic Simulation of Frequency Dependent Phonon Transport in Nuclear Materials"
 
 ***
 
@@ -68,4 +74,3 @@ I am.
 ***
 
 [^1]: Assistant Professor, Department of Mechanical Engineering and MS&E Program, University of California - Riverside
-[^2]: "Predicting Thermal Conductivity in Nuclear Fuels using Rattlesnake-Based Deterministic Phonon Transport Simulations"
