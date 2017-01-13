@@ -3,8 +3,6 @@ title: Events
 layout: default
 author: Doug, Jackson, & Tony
 ---
-More coming soon...
-================================
 
 # Upcoming Conferences
 * 17 January 2017 - American Nuclear Society: Oregon State University Student Section Winter Conference
