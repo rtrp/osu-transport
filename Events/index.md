@@ -7,7 +7,7 @@ More coming soon...
 ================================
 
 # Upcoming Conferences
-* 17 January 2017 - American Nuclear Society: Oregon State University Chapter Winter Conference
+* 17 January 2017 - American Nuclear Society: Oregon State University Student Section Winter Conference
   - Abstract due 15 Jan
 * 11-15 June 2017 - American Nuclear Society Annual Meeting ([ANS](http://ansannual.org))
   - Summary due 25 Jan
