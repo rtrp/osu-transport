@@ -1,5 +1,5 @@
 ---
-title: Wiki
+title: Events
 layout: default
 author: Doug, Jackson, & Tony
 ---
