@@ -7,13 +7,16 @@ More coming soon...
 ================================
 
 # Upcoming Conferences
-* 17 January 2017 - OSU ANS Winter Conference
+* 17 January 2017 - American Nuclear Society: Oregon State University Chapter Winter Conference
   - Abstract due 15 Jan
-* June 2017 - [ANS Annual Meeting](ansannual.org)
+* 11-15 June 2017 - American Nuclear Society Annual Meeting ([ANS](http://ansannual.org))
   - Summary due 25 Jan
+* 16-20 October 2017 - 25th International Conference on Transport Theory ([ICTT-25](https://ictt-2017.llnl.gov))
+  
 
-# Past Events
-* Engineering Out Loud [Season 1: Episode 5](http://engineering.oregonstate.edu/episode-5-odds-ends)
+# Engineering Out Loud
+
+* [Season 1: Episode 5](http://engineering.oregonstate.edu/episode-5-odds-ends)
 
   The Monte Carlo method conjures images of a suave gambler beating the house in Monaco. In reality, Monte Carlo methods are computational algorithms that use randomness to solve problems. 
 
