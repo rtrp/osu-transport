@@ -35,8 +35,6 @@ We have shown Rattlesnake to be an effective and efficient engine for simulating
 ***
 
 ### Upcoming conferences
-* American Nuclear Society Winter Meeting, Las Vegas, NV. November 2016
-  * "Quantifying the Uncertainty in Deterministic Phonon Transport Calculations of Thermal Conductivity using Polynomial Chaos Expansions"
 * Materials Research Society Spring Meeting, Phoenix, AZ. April 2017
   * "Deterministic Simulation of Frequency Dependent Phonon Transport in Nuclear Materials"
 
@@ -45,7 +43,7 @@ We have shown Rattlesnake to be an effective and efficient engine for simulating
 ### Publications
 * J. HARTER, T. PALMER, and P.A. GREANEY, "Deterministic Phonon Transport Predictions of Thermal Conductivity in Uranium Dioxide with Xenon Impurities", *Journal of Heat Transfer*, **in review**.
 
-* J. HARTER, P. A. GREANEY, and T. PALMER, "Quantifying the Uncertainty in Deterministic Phonon Transport Calculations of Thermal Conductivity using Polynomial Chaos Expansions", *Trans. Am. Nucl. Soc*, **115**, to appear (2016).
+* J. HARTER, P. A. GREANEY, and T. PALMER, "Quantifying the Uncertainty in Deterministic Phonon Transport Calculations of Thermal Conductivity using Polynomial Chaos Expansions", *Trans. Am. Nucl. Soc*, **115**, 611-614 (2016).
 
 * J. HARTER, P. A. GREANEY, and T. PALMER, "Characterization of Thermal Conductivity using Deterministic Phonon Transport in Rattlesnake," *Trans. Am. Nucl. Soc*, **112**, 829–832 (2015).
 
