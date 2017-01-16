@@ -6,7 +6,7 @@ author: Doug, Jackson, & Tony
 
 # Upcoming Conferences
 * 17 January 2017 - American Nuclear Society: Oregon State University Student Section Winter Conference
-  - Abstract due 15 Jan
+  - Abstract due 16 Jan
 * 17 February 2017 - Oregon State University [College of Engineering Graduate Research Showcase](http://engineering.oregonstate.edu/graduate-research-showcase-student-information-and-registration)
   - Poster due 7 Feb
 * 11-15 June 2017 - American Nuclear Society Annual Meeting ([ANS](http://ansannual.org))
