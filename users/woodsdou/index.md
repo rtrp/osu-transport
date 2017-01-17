@@ -6,8 +6,6 @@ author: Doug Woods
 Doug Woods
 ==============
 
-My change.
-
 woodsdou@oregonstate.edu
 
 [comment]: # ([https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage](https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage))
