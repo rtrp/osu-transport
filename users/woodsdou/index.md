@@ -3,9 +3,10 @@ title: Doug-personal
 layout: default
 author: Doug Woods
 ---
-
 Doug Woods
 ==============
+
+My change.
 
 woodsdou@oregonstate.edu
 
