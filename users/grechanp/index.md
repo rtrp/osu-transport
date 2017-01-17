@@ -5,4 +5,5 @@ author: Pavel Grechanuk
 ---
 Pavel Grechanuk
 ================================
-hallo.
+I am a senior in nuclear engineering with a mind geared towards reactor physics. 
+Woot Woot.
