@@ -8,7 +8,7 @@ Aaron Tamashiro
 
 <img src="{{ site.url }}users/tamashia/images/ME.jpg" width="200">
 
-I am a first year M.S. and Ph.D. student in Nuclear Engineering in the [School of NUclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/).
+I am a first year M.S. and Ph.D. student in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/).
 
 Email: <a href="mailto:tamashia@oregonstate.edu" target="top"> tamashia@oregonstate.edu </a>
 
@@ -28,7 +28,7 @@ Email: <a href="mailto:tamashia@oregonstate.edu" target="top"> tamashia@oregonst
 ### Work and Research Experience
 
 * Graduate Research Assistant: September 2016 - Present
-  *Working on a research project with Oak Ridge National Laboratory on Multi-group Monte Carlo.
+  *Working on a research project with Oak Ridge National Laboratory on multigroup Monte Carlo.
   *The focus is depletion in reactor physics problems.
 
 * Undergraduate Research Intern at Lawrence Livermore National Laboratory: June 2016 – September 2016
