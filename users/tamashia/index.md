@@ -20,7 +20,7 @@ Email: <a href="mailto:tamashia@oregonstate.edu" target="top"> tamashia@oregonst
   * Connect the multigroup transport option to the ORIGEN depletion capability within Shift
   * In collaboration with ORNL staff, define a set of verification test problems and evaluation metrics.
   *  Investigate the impact of energy group structure on the accuracy and efficiency of depletion calculations in comparison with results from a) Shift continuous energy depletion, b) SERPENT, and c) VESTA.
-  * Investigate the relative performance of various depletion time-stepping options using the multigroup Monte Carlo
+  * Investigate the relative performance of various time-stepping options using multigroup Monte Carlo
   * Employ the multigroup Monte Carlo/depletion option as a predictor step with the continuous energy option at the corrector as a higher order predictor/corrector depletion approach. Evaluate accuracy and efficiency in comparison with the existing predictor/correction method that involves only the continuous energy Monte Carlo coupled with ORIGEN for depletion.
 
 ***
