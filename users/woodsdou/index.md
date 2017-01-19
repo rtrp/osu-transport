@@ -6,7 +6,7 @@ author: Doug Woods
 Doug Woods
 ==============
 
-woodsdou@oregonstate.edu
+<a href="mailto:woodsdouoregonstate.edu" target="top"> woodsdou@oregonstate.edu </a>
 
 [comment]: # ([https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage](https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage))
 
