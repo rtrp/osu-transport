@@ -74,9 +74,9 @@ Email: <a href="mailto:tamashia@oregonstate.edu" target="top"> tamashia@oregonst
 ***
 
 ### Skills
-**Programing Languages:** MATLAB, Python, C/C++/ROOT...
-**Tools and Utilities:** Google Sketch up, Solid works, Microsoft Word, Microsoft Excel, and Adobe Photoshop...
-**Skills**: Circuits, Vacuum systems, Oscilloscope, High Voltage, and Liquid Nitrogen.
+* **Programing Languages:** MATLAB, Python, C/C++/ROOT
+* **Tools and Utilities:** Google Sketch up, Solid works, Microsoft Word, Microsoft Excel, and Adobe Photoshop
+* **Skills**: Circuits, Vacuum systems, Oscilloscope, High Voltage, and Liquid Nitrogen.
 
 ***
 
