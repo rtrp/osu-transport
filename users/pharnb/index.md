@@ -17,7 +17,6 @@ I am a first year Master's student here at Oregon State University, having compl
 
 I dream of seeing a world powered by nuclear energy.  To that end, I have decided to focus on nuclear security and safeguards in order to help advance my dream
 
-# Research
 
 I work under Todd Palmer, and I am currently working on a project to help develop safeguards for small modular reactors for Idaho National Laboratory.
 
