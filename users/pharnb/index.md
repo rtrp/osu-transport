@@ -25,7 +25,7 @@ I work under Todd Palmer, and I am currently working on a project to help develo
 
 * American Nuclear Society: September 2012 - Present
   * Member
-  * Local Chapter Webmaster September 2015 - June 2016
+  * Local Section Webmaster September 2015 - June 2016
 
 * Institute of Nuclear Materials Management: September 2015 - Present
   * Member
