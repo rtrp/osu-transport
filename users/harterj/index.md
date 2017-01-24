@@ -6,12 +6,12 @@ author: Jackson Harter
 Jackson R. Harter
 ================================
 
-<img src="{{ site.url }}users/harterj/images/jrh-sit.jpg" height="375" width="600">
+<img src="{{ site.url }}users/harterj/images/jrhIdaho.jpg" height="500" width="500">
 
-I am in my 2nd year as a PhD student at Oregon State. My advisor is Todd Palmer and my co-advisor is Alex Greaney[^1].
+I am in my 2nd year as a PhD student at Oregon State University. My advisor is Todd Palmer and my co-advisor is Alex Greaney[^1].
 
 Email: <a href="mailto:harterj@oregonstate.edu" target="top"> harterj@oregonstate.edu </a>
-You can find my resume [here](./files/jacksonResume.pdf).
+  You can find my resume [here](./files/jacksonResume.pdf).
 
 ***
 
@@ -38,7 +38,7 @@ We have shown Rattlesnake to be an effective and efficient engine for simulating
 ### Upcoming conferences
 * Materials Research Society Spring Meeting, Phoenix, AZ. April 2017
   * "Deterministic Simulation of Frequency Dependent Phonon Transport in Nuclear Materials"
-* American Nuclear Society Annual Meeting, San Francisco, CA, June 2017
+* American Nuclear Society Annual Meeting, San Francisco, CA. June 2017
   * "Multi-frequency Deterministic Phonon Transport in Silicon using Rattlesnake"
 
 ***
