@@ -38,6 +38,6 @@ I am a huge fan of pop culture and would be a valuable asset to any trivia team.
 
 ### Curriculum Vitae
 
-<a href="{{ site.url }}users/schicklr/files/schicklerCV.pdf">Click here for CV</a>
+<a href="files/schicklerCV.pdf">Click here for CV</a>
 
 ***
