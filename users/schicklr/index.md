@@ -5,7 +5,7 @@ author: Robert Schickler
 ---
 Robert Schickler
 ================================
-<img src="/images/schickler.jpg">
+<img src="users/schicklr/images/schickler.jpg">
 
 I have been at Oregon State University since 2008, when I was initially hired at the Radiation Center to be a Nuclear Reactor Operator.  I am now a Reactor Engineer; my main duties involve performing various analyses on our 1 MW TRIGA research reactor.  I also have a Senior Reactor Operator license.  I obtained my master's degree in Nuclear Engineering in the fall of 2012 and am currently in my 2nd year as a Nuclear Engineering PhD student.  My advisor is Dr. Todd Palmer.
 
