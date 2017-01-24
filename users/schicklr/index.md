@@ -13,7 +13,7 @@ Email: <a href="mailto:robert.schickler@oregonstate.edu" target="top"> robert.sc
 
 ***
 
-## Current projects
+## Current Projects
 
 * Dissertation
   * Performing literature review during summer 2017 in anticipation of completing the preliminary examination in fall 2017
@@ -24,7 +24,7 @@ Email: <a href="mailto:robert.schickler@oregonstate.edu" target="top"> robert.sc
 
 ***
 
-### Upcoming conferences
+### Upcoming Conferences
 
 * Training, Research and Test Reactor (TRTR) Conference, San Diego, CA, August 2017
   "Installation of a Second CLICIT Facility at the Oregon State TRIGA Reactor"
