@@ -6,12 +6,12 @@ author: Jackson Harter
 Jackson R. Harter
 ================================
 
-<img src="{{ site.url }}users/harterj/images/jrhIdaho.jpg" height="500" width="500">
+<img src="{{ site.url }}users/harterj/images/jrhIdaho.jpg" height="375" width="375">
 
 I am in my 2nd year as a PhD student at Oregon State University. My advisor is Todd Palmer and my co-advisor is Alex Greaney[^1].
 
-Email: <a href="mailto:harterj@oregonstate.edu" target="top"> harterj@oregonstate.edu </a>
-  You can find my resume [here](./files/jacksonResume.pdf).
+Email: <a href="mailto:harterj@oregonstate.edu" target="top"> harterj@oregonstate.edu </a>  
+You can find my resume [here](./files/jacksonResume.pdf).
 
 ***
 
