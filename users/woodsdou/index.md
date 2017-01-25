@@ -6,7 +6,8 @@ author: Doug Woods
 Doug Woods
 ==============
 
-<a href="mailto:woodsdouoregonstate.edu" target="top"> woodsdou@oregonstate.edu </a>
+<a href="mailto:woodsdouoregonstate.edu" target="top"> woodsdou@oregonstate.edu </a>  
+You can find my resume [here](./files/Resume_Public.pdf).
 
 [comment]: # ([https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage](https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage))
 
