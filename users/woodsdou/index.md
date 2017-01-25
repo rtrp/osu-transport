@@ -7,7 +7,7 @@ Doug Woods
 ==============
 
 <a href="mailto:woodsdouoregonstate.edu" target="top"> woodsdou@oregonstate.edu </a>  
-You can find my resume [here](./files/Resume_Public.pdf).
+You can find my resume [here](./Resume_Public.pdf).
 
 [comment]: # ([https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage](https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage))
 
