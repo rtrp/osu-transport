@@ -10,8 +10,7 @@ Ben Pharn
 
 I am a first year Master's student here at Oregon State University, having completed my undergraduate degree here as well.  I was born and raised in Southern California, where the majority of my family still resides.
 
-[Email]<a href="mailto:pharnb@oregonstate.edu" target="top"> pharnb@oregonstate.edu </a> (pharnb@oregonstate.edu)
-/n [Resume](./files/resume.pdf)
+[Email]<a href="mailto:pharnb@oregonstate.edu" target="top"> pharnb@oregonstate.edu </a> (pharnb@oregonstate.edu)  [Resume](./files/resume.pdf)
 
 # Focus
 
