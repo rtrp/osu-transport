@@ -8,7 +8,7 @@ author: Tony Alberti
 
 <img src="{{ site.url }}users/albertia/images/NUC16.jpg" width="450">
 
-I am a 3rd year graduate student here at OSU in Corvallis, OR working under the guidance of Todd Palmer. I began graduate school in January of 2014 and have been a full time student since. I defended my Masters of Science degree in October of 2015 and published by Masters thesis (see publications below) shortly thereafter.
+I am a 3rd year graduate student here at OSU in Corvallis, OR working under the guidance of Todd Palmer. I began graduate school in January of 2014 and have been a full time student since. I defended my Masters of Science degree in October of 2015 and published my Masters thesis (see publications below) shortly thereafter.
 
 Since then, I have been pursuing my Doctoral degree in a priori parametric model reduction. In spite of progress made in mathematical methods and computer science, many problems in Nuclear Engineering suffer from what is known as the "curse of dimensionality". In standard grid based discretization techniques (such as finite elements or finite differences), the number of degrees of freedom scale exponentially.
 
