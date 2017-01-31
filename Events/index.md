@@ -8,7 +8,7 @@ author: Doug, Jackson, & Tony
 * 17 February 2017 - Oregon State University [College of Engineering Graduate Research Showcase](http://engineering.oregonstate.edu/graduate-research-showcase-student-information-and-registration)
   - Poster due 7 Feb
 * 11-15 June 2017 - American Nuclear Society Annual Meeting ([ANS](http://ansannual.org))
-  - Summary due 25 Jan
+  - Summary due 1 Feb
 * 16-20 October 2017 - 25th International Conference on Transport Theory ([ICTT-25](https://ictt-2017.llnl.gov))
   
 
