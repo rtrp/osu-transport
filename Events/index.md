@@ -6,7 +6,6 @@ author: Doug, Jackson, & Tony
 
 # Upcoming Conferences
 * 17 February 2017 - Oregon State University [College of Engineering Graduate Research Showcase](http://engineering.oregonstate.edu/graduate-research-showcase-student-information-and-registration)
-  - Poster due 7 Feb.
 * 11-15 June 2017 - [2017 American Nuclear Society Annual Meeting](http://ansannual.org)
   - Summary due 8 Feb.
 * 6-9 April 2017 - [2017 American Nuclear Society Student Conference](https://www.ansstudentconference2017.com)
