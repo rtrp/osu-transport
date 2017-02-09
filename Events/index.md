@@ -5,13 +5,13 @@ author: Doug, Jackson, & Tony
 ---
 
 # Upcoming Conferences
-* 17 February 2017 - Oregon State University [College of Engineering Graduate Research Showcase](http://engineering.oregonstate.edu/graduate-research-showcase-student-information-and-registration)
-* 11-15 June 2017 - [2017 American Nuclear Society Annual Meeting](http://ansannual.org)
-* 6-9 April 2017 - [2017 American Nuclear Society Student Conference](https://www.ansstudentconference2017.com)
+* February 17, 2017 - Oregon State University [College of Engineering Graduate Research Showcase](http://engineering.oregonstate.edu/graduate-research-showcase-student-information-and-registration)
+* June 11-15, 2017 - [2017 American Nuclear Society Annual Meeting](http://ansannual.org)
+* April 6-9, 2017 - [2017 American Nuclear Society Student Conference](https://www.ansstudentconference2017.com)
   - Summary/Innovation due 15 Feb. (final extension)
-* 16-20 October 2017 - 25th International Conference on Transport Theory ([ICTT-25](https://ictt-2017.llnl.gov))
+* October 16-20, 2017 - 25th International Conference on Transport Theory ([ICTT-25](https://ictt-2017.llnl.gov))
   - Abstract due TBD
-* 29 Oct. - 2 Nov. 2017 - [2017 American Nuclear Society Winter Meeting](http://www.ans.org/meetings/c_1)
+* October 29-November 2, 2017 - [2017 American Nuclear Society Winter Meeting](http://www.ans.org/meetings/c_1)
   
 
 # Engineering Out Loud
