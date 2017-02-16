@@ -39,9 +39,11 @@ These oscillations can also be seen in problems with varying material opacities.
 
 ## Publications
 
-1. <a name="ANS1"></a>Douglas N. Woods, Thomas A. Brunner, and Todd S. Palmer, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **114**, 377–380 (2016).
+1. <a name="ANS_DSA"></a>Douglas N. Woods and Todd S. Palmer, "Diffusion Synthetic Acceleration for High Order *S<sub>N</sub>* Transport on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **In Review**.
 
-2. Douglas N. Woods, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces in the Thick Diffusion Limit", Masters Thesis (2016).
+2. <a name="ANS1"></a>Douglas N. Woods, Thomas A. Brunner, and Todd S. Palmer, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **114**, 377–380 (2016).
+
+3. Douglas N. Woods, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces in the Thick Diffusion Limit", Masters Thesis (2016).
 
 ***
 
