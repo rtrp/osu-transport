@@ -32,14 +32,18 @@ We have shown Rattlesnake to be an effective and efficient engine for simulating
   * Implementing thermal boundary resistance physics model
   * Frequency dependent phonon transport capability
   * Higher-order scattering moments to model anharmonic phonon interactions
+  * LaTeX in kramdown
+  $$
+  \begin{align*}
+  \Lambda \hat{\vec{\Omega}} \cdot \psi = \phi^{0} - \psi
+  \end{align*}
+  $$
 
 ***
 
 ### Upcoming conferences
 * Materials Research Society Spring Meeting, Phoenix, AZ. April 2017
   * "Deterministic Simulation of Frequency Dependent Phonon Transport in Nuclear Materials"
-* American Nuclear Society Annual Meeting, San Francisco, CA. June 2017
-  * "Multi-frequency Deterministic Phonon Transport in Silicon using Rattlesnake"
 
 ***
 
