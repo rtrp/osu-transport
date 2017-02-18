@@ -32,12 +32,12 @@ We have shown Rattlesnake to be an effective and efficient engine for simulating
   * Implementing thermal boundary resistance physics model
   * Frequency dependent phonon transport capability
   * Higher-order scattering moments to model anharmonic phonon interactions
-  * LaTeX in kramdown
-  $$
-  \begin{align*}
-  \Lambda \hat{\vec{\Omega}} \cdot \psi = \phi^{0} - \psi
-  \end{align*}
-  $$
+* Multi-frequency phonon transport equation in SAAF form with implicit temperature dependence in equilibrium phonon distribution
+$$
+\begin{align*}
+-\Lambda\left(\omega,p\right) \vec{\Omega}\cdot \left[\Lambda\left(\omega,p)\vec{\Omega}\cdot \vec{\nabla} \psi\left(\vec{r},\vec{\Omega},\omega,p\right)\right] + \psi\left(\vec{r},\vec{\Omega},\omega,p\right) = -\Lambda\left(\omega,p\right)\vec{\Omega}\cdot \vec{\nabla}\phi^{0}\left(\vec{r},\omega,T,p\right) + \phi^{0}\left(\vec{r},\omega,T,p\right)
+\end{align*}
+$$
 
 ***
 
