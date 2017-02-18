@@ -34,9 +34,7 @@ We have shown Rattlesnake to be an effective and efficient engine for simulating
   * Higher-order scattering moments to model anharmonic phonon interactions
 * Multi-frequency phonon transport equation in SAAF form with implicit temperature dependence in equilibrium phonon distribution
 $$
-\begin{align*}
--\Lambda\left(\omega,p\right) \vec{\Omega}\cdot \left[\Lambda\left(\omega,p)\vec{\Omega}\cdot \vec{\nabla} \psi\left(\vec{r},\vec{\Omega},\omega,p\right)\right] + \psi\left(\vec{r},\vec{\Omega},\omega,p\right) = -\Lambda\left(\omega,p\right)\vec{\Omega}\cdot \vec{\nabla}\phi^{0}\left(\vec{r},\omega,T,p\right) + \phi^{0}\left(\vec{r},\omega,T,p\right)
-\end{align*}
+-\Lambda\left(\omega,p\right) \vec{\Omega}\cdot \left[\Lambda\left(\omega,p\right)\vec{\Omega}\cdot \vec{\nabla} \psi\left(\vec{r},\vec{\Omega},\omega,p\right)\right] + \psi\left(\vec{r},\vec{\Omega},\omega,p\right) = -\Lambda\left(\omega,p\right)\vec{\Omega}\cdot \vec{\nabla}\phi^{0}\left(\vec{r},\omega,T,p\right) + \phi^{0}\left(\vec{r},\omega,T,p\right)
 $$
 
 ***
