@@ -7,7 +7,7 @@ Doug Woods
 ==============
 
 <a href="mailto:woodsdouoregonstate.edu" target="top"> woodsdou@oregonstate.edu </a>  
-You can find my resume [here](./Resume_Public.pdf).
+[Resume](./Resume_Public.pdf).
 
 [comment]: # ([https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage](https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage))
 
@@ -48,6 +48,7 @@ These oscillations can also be seen in problems with varying material opacities.
 ***
 
 ## Presentations
+* OSU College of Engineering Graduate Research Showcase, Corvallis, OR, February 2017
 * American Nuclear Society Summer Meeting, New Orleans, LA, June 2016
 * OSU Graduate Research Expo, Portland, OR, March 2016
 * OSU ANS Winter Conference, Corvallis, OR, February 2016
