@@ -12,7 +12,7 @@ I am a 3rd year graduate student here at OSU in Corvallis, OR working under the 
 
 Since then, I have been pursuing my Doctoral degree in *a priori* parametric model reduction. In spite of progress made in mathematical methods and computer science, many problems in Nuclear Engineering suffer from what is known as the "curse of dimensionality".
 
-One relevant example is the solution of a nuclear reactor dynamics problem with deterministic treatments of each of the phase space variables. The solution, neutron population as a function of time, has 7 unknowns; 3 in space, 2 in direction of flight, 1 in energy, and 1 in time. Couple that with a coarse mesh of say, $10^3$, and the solution has $10^21$ degrees of freedom.
+One relevant example is the solution of a nuclear reactor dynamics problem with deterministic treatments of each of the phase space variables. The solution, neutron population as a function of time, has 7 unknowns; 3 in space, 2 in direction of flight, 1 in energy, and 1 in time. Couple that with a coarse mesh of say, $$ 10^3 $$, and the solution has $$ 10^21 $$ degrees of freedom.
 
 I have interned at Idaho National Laboratory (INL) in Idaho Falls, ID in the summer of 2015 and 2016. At INL I worked with the Rattlesnake/MAMMOTH Reactor Physics and Analysis group, specifically under the guidance of Javier Ortensi.
 
