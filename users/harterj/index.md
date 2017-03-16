@@ -40,7 +40,7 @@ We have previously developed the capability of phonon transport in a gray approa
 Here we show thermal conductivity from our transport simulations ($$\kappa$$) compared to thermal conductivity predicted by the mechanistic relation $$\hat{\kappa} = \frac{1}{3}C_{v}v_{g}\Lambda$$, where $$C_{v}$$ is specific heat capacity at constant volume, $$v_{g}$$ is phonon group velocity and $$\Lambda$$ is phonon mean free path. In all plots, *p* is polarization and *g* is group.
 <img src="{{ site.url }}users/harterj/images/kappaCompare.bmp">
 
-Here we show the dispersion relation in silicon. Due to the isotropy of silicon, some of the modes overlap, and here we have collapsed all optic modes into one (TA = transverse acoustic, LA = longitudinal acoustic, O = optic).
+Here we show the dispersion relation in silicon. Due to the isotropy of silicon some of the modes overlap (TA = transverse acoustic, LA = longitudinal acoustic, TO = transverse optic, LO = longitudinal optic).
 <img src="{{ site.url }}users/harterj/images/dispersion.bmp">
 
 Here we show the acoustic thickness of each of the groups and polarizations. It is clear that some of the groups are quite acoustically "thick" and slow down the convergence properties in the overall band. It may be advantageous to "cut off" some of these highly thick modes, as they have a low group velocity and thus do not contribute much to overall thermal conductivity of the material. We are investigating the convergence acceleration of our transport simulations.
