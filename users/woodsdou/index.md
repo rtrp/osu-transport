@@ -19,7 +19,7 @@ I am a Ph.D. candidate in Nuclear Engineering in the [School of Nuclear Science 
 
 ## Research
 
-We have demonstrated the feasibility of high-order dicontinuous Galkergin finite element (DGFEM) radiation transport using meshes with curved surfaces using the open source finite element library [MFEM](https://mfem.org). The image below illustrates a mesh with 3<sup>rd</sup> order polynomial curved surfaces.
+We have demonstrated the feasibility of high-order discontinuous Galerkin finite element (DGFEM) radiation transport using meshes with curved surfaces using the open source finite element library [MFEM](https://mfem.org). The image below illustrates a mesh with 3<sup>rd</sup> order polynomial curved surfaces.
 
 <img src="{{ site.url }}users/woodsdou/images/AdamsDiff2DwMeshBlue.png" width="450">
 
@@ -35,7 +35,7 @@ Diffusion limit calculations can exhibit unphysical oscillations. If the solutio
 
 <img src="{{ site.url }}users/woodsdou/images/TP1Log.png" width="500">
 
-These oscillations can also be seen in problems with varying material cross sections. The image below is the solution to a heterogeneous problem with cross sections ranging several orders of magnitude, similar to thermal radiation transport problems of practical interest. Oscillations are primarily seen in highly a absorbing region.
+These oscillations can also be seen in problems with varying material cross sections. The image below is the solution to a heterogeneous problem with cross sections ranging several orders of magnitude, similar to thermal radiation transport problems of practical interest. Oscillations are primarily seen in highly absorbing region.
 
 <img src="{{ site.url }}users/woodsdou/images/TP3.png" width="450">
 
