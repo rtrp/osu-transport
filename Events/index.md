@@ -5,11 +5,12 @@ author: Doug, Jackson, & Tony
 ---
 
 # Upcoming Conferences
-* June 11-15, 2017 - [2017 American Nuclear Society Annual Meeting](http://ansannual.org)
 * April 6-9, 2017 - [2017 American Nuclear Society Student Conference](https://www.ansstudentconference2017.com)
+* June 11-15, 2017 - [2017 American Nuclear Society Annual Meeting](http://ansannual.org)
 * October 16-20, 2017 - 25th International Conference on Transport Theory ([ICTT-25](https://ictt-2017.llnl.gov))
-  - Abstract due TBD
+  - Abstract due July 7
 * October 29-November 2, 2017 - [2017 American Nuclear Society Winter Meeting](http://www.ans.org/meetings/c_1)
+  - Abstract due May 31
   
 
 # Engineering Out Loud
