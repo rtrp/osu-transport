@@ -7,7 +7,9 @@ Doug Woods
 ==============
 
 <a href="mailto:woodsdouoregonstate.edu" target="top"> woodsdou@oregonstate.edu </a>  
-[Resume](./Resume_Public.pdf).
+[Resume](./Resume_Public.pdf)
+
+[ORCID](http://orcid.org/0000-0003-4683-4791)
 
 [comment]: # ([https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage](https://web.engr.oregonstate.edu/~woodsdou/wiki/HomePage))
 
