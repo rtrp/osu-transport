@@ -4,6 +4,11 @@ layout: default
 author: Doug, Jackson, & Tony
 ---
 
+# General
+It's time to find a cure for type 1 diabetes (T1D). Please join our team and help raise money so JDRF can make this possible.
+* May 20, 2017 - [Walk for T1D: For a world without type 1 diabetes](http://www2.jdrf.org/site/TR/TeamJDRF/OregonSWWashingtonChapter4532?pg=entry&fr_id=6480)
+
+
 # Upcoming Conferences
 * June 11-15, 2017 - [2017 American Nuclear Society Annual Meeting](http://ansannual.org)
 * October 16-20, 2017 - 25th International Conference on Transport Theory ([ICTT-25](https://ictt-2017.llnl.gov))
