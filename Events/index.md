@@ -4,14 +4,17 @@ layout: default
 author: Doug, Jackson, & Tony
 ---
 
+# General
+It's time to find a cure for type 1 diabetes (T1D). Please join our team and help raise money so JDRF can make this possible.
+* May 20, 2017 - [Walk for T1D: For a world without type 1 diabetes](http://www2.jdrf.org/site/TR/TeamJDRF/OregonSWWashingtonChapter4532?pg=entry&fr_id=6480)
+
+
 # Upcoming Conferences
-* February 17, 2017 - Oregon State University [College of Engineering Graduate Research Showcase](http://engineering.oregonstate.edu/graduate-research-showcase-student-information-and-registration)
 * June 11-15, 2017 - [2017 American Nuclear Society Annual Meeting](http://ansannual.org)
-* April 6-9, 2017 - [2017 American Nuclear Society Student Conference](https://www.ansstudentconference2017.com)
-  - Summary/Innovation due 15 Feb. (final extension)
 * October 16-20, 2017 - 25th International Conference on Transport Theory ([ICTT-25](https://ictt-2017.llnl.gov))
-  - Abstract due TBD
+  - Abstract due July 7
 * October 29-November 2, 2017 - [2017 American Nuclear Society Winter Meeting](http://www.ans.org/meetings/c_1)
+  - Summary due May 31
   
 
 # Engineering Out Loud

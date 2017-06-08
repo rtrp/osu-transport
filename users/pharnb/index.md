@@ -10,8 +10,8 @@ Ben Pharn
 
 I am a first year Master's student here at Oregon State University, having completed my undergraduate degree here as well.  I was born and raised in Southern California, where the majority of my family still resides.
 
-[Email] <a href="mailto:pharnb@oregonstate.edu" target="top"> pharnb@oregonstate.edu </a> (pharnb@oregonstate.edu)
-[Resume] (./files/resume.pdf)
+<a href="mailto:pharnb@oregonstate.edu" target="top"> Email</a>  
+[Resume](./files/resume.pdf)
 
 # Focus
 
@@ -31,4 +31,4 @@ I work under Todd Palmer, and I am currently working on a project to help develo
 
 ## Personal Interests
 
-* I like to read in my spare time, and generally listen to music whenever I am doing work.  I am also a avid player of Dungeons and Dragons and other tabletop games.  
+* I like to read in my spare time, and generally listen to music whenever I am doing work.  I am also an avid player of Dungeons and Dragons and other tabletop games.  
