@@ -51,7 +51,7 @@ The source iteration (SI) method converges arbitrarily slowly for highly scatter
 
 ## Publications
 
-1. <a name="ANS_DSA"></a>Douglas N. Woods and Todd S. Palmer, "Diffusion Synthetic Acceleration for High Order *S<sub>N</sub>* Transport on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **In Review**.
+1. <a name="ANS_DSA"></a>Douglas N. Woods and Todd S. Palmer, "Diffusion Synthetic Acceleration for High Order *S<sub>N</sub>* Transport on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **116**, 639-642 (2017).
 
 2. <a name="ANS1"></a>Douglas N. Woods, Thomas A. Brunner, and Todd S. Palmer, "High Order Finite Elements *S<sub>N</sub>* Transport in X-Y Geometry on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **114**, 377–380 (2016).
 
