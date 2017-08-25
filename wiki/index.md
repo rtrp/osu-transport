@@ -10,6 +10,7 @@ More coming soon...
 Some software available through [Citrix](http://it.engineering.oregonstate.edu/citrix).
 
 ## Code Reference Resources
+* [Unix Shell](http://swcarpentry.github.io/shell-novice/)
 * [C++](http://www.learncpp.com/)
 * [Python3](https://docs.python.org/3/), [Python2](https://docs.python.org/2/)
 * [MATLAB](http://www.mathworks.com/help/matlab/)
