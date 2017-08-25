@@ -7,7 +7,7 @@ author: Doug, Jackson, & Tony
 # Community Outreach
 The First Annual [Walk for T1D: For a world without type 1 diabetes](http://www2.jdrf.org/site/TR/TeamJDRF/OregonSWWashingtonChapter4532?pg=entry&fr_id=6480) on May 20th in Corvallis was a huge success and great community event!  The RTRP group was part of over 300 people and we all raised $79,413 to fund scientific research to treat, prevent and cure type 1 diabetes. [Corvallis Type One Diabetes Walk on Facebook](https://www.facebook.com/CorvallisWalk4T1D/)
 
-<img src="{{ site.url }}Events/2017-05-20 11.11.41.jpg" width="450">
+<img src="{{ site.url }}Events/2017-05-20 11.11.41.jpg" width="450" rotate="90">
 
 
 # Upcoming Conferences
