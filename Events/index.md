@@ -10,7 +10,7 @@ The First Annual [Walk for T1D: For a world without type 1 diabetes](http://www2
 <br>
 <br>
 <br>
-<img src="{{ site.url }}Events/2017-05-20 11.11.41.jpg" width="450" height="500" style="-webkit-transform:rotate(90deg);">
+<img src="{{ site.url }}Events/2017-05-20 11.11.41.jpg" width="450" style="-webkit-transform:rotate(90deg);">
 <br>
 <br>
 <br>
