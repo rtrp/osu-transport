@@ -41,6 +41,7 @@ A brief and non-exhaustive list of software NSE has access to. Please note that 
   - Fantastic software for typing technical documents. A local favorite in regards to editing GUI's is [Texmaker](http://www.xm1math.net/texmaker/).
   - When you are feeling collaborative (or are forced to for course work) and still want to use LaTeX, [ShareLaTeX](https://www.sharelatex.com) is another great resource.
   - Doug Woods has been kind enough to supply a [LaTeX Demo](../users/woodsdou/LatexDemo.zip) for new users to learn tex.
+  - Doug Woods provides his [MS Thesis in LaTeX](../woodsdou/DougsMSThesis.zip) to use as a template. Execute pdflatex on MS_Thesis.tex to generate the pdf.
 * [Beamer](https://www.ctan.org/pkg/beamer?lang=en)
   - A tool to create technical presentations that is based on LaTeX.
   - If you want to get into beamer, feel free to check out this [reference](./references/beameruserguide.pdf) and the [example](../users/woodsdou/DougsDefense.zip) that Doug Woods has provided.
