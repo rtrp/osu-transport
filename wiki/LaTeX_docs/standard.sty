@@ -14,6 +14,11 @@
 %% Graphics Packages
 \usepackage{graphicx} % import graphics package
 \usepackage{epstopdf} %allow for eps files to be put in pdf
+\usepackage{pgfgantt} % Gantt chart
+\usepackage{tikz} % the money maker.
+\usepackage{tikz-3dplot} % advanced money maker
+\usetikzlibrary{patterns, shapes.geometric, arrows,calc} % makes the money maker prettier
+\usepackage{pgfplots} % the money maker mk. II
 
 %% Define colors
 \usepackage{color}
@@ -22,23 +27,18 @@
 % Page Layout
 \usepackage[left=1in,right=1in,top=1.2in,bottom=1.2in]{geometry}
 
-% Doug's additions
-\usepackage{hyperref} % clickable hyperlinks to sections and figures/tables
+% Formatting
+\usepackage{hyperref} % clickable hyperlinks to sections and figures/tables and using \url{}
 \usepackage[section]{placeins} % to use /FloatBarrier which puts a physical barrier on floats relative to the text
-\usepackage{pgfgantt} % Gantt chart
 \usepackage{multicol} % to use columns
-\usepackage{tikz} % the money maker.
-\usepackage{tikz-3dplot} % advanced money maker
-\usetikzlibrary{patterns, shapes.geometric, arrows,calc} % makes the money maker prettier
-\usepackage{pgfplots} % the money maker mk. II
 \usepackage{threeparttable} % Can use footnotes inside a table
 \usepackage{multirow} % to have a table entry span multiple rows
 \usepackage{fancyhdr} % for header formatting
-\lhead{left header}
-\chead{center header}
+\lhead{} % left header
+\chead{} % center header
 \rhead{\thepage} % puts page number in right header
-\lfoot{left footer}
-\cfoot{center footer}
-\rfoot{right footer}
+\lfoot{} % left footer
+\cfoot{} % center footer
+\rfoot{} % right footer
 \renewcommand\headrule{} % removes the line across the header
 
