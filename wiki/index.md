@@ -22,7 +22,7 @@ Some software available through [Citrix](http://it.engineering.oregonstate.edu/c
 ## Simulation Tools
 A brief and non-exhaustive list of software NSE has access to. Please note that some of these are export controlled software and require proper permissions. If you need access to them, just ask.
 
-##### Rogue (NSE Linux Workstation)
+##### [Rogue](https://it.engineering.oregonstate.edu/nuclear-science-and-engineering-computing-support) (NSE Linux Workstation)
 * [Attila](https://www.varian.com/x-ray-imaging-components/products/security-industrial-imaging/attila-software-suite) - Radiation Transport
 * [CASMO/SIMULATE](http://www.studsvik.com/sv/Verksamhetsomraden/Bransle--och-materialteknik/Programvara-for-bransleoptimering/In-Core-Fuel-Management/CASMO5/) - LWR Lattice Physics and Fuel Management
 * [MCNP 5/6/X](https://mcnp.lanl.gov/) - General Monte Carlo Transport
