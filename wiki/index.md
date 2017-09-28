@@ -39,12 +39,17 @@ A brief and non-exhaustive list of software NSE has access to. Please note that 
 ## Documentation Tools
 * [LaTeX](https://www.latex-project.org/)
   - Fantastic software for typing technical documents. A local favorite in regards to editing GUI's is [Texmaker](http://www.xm1math.net/texmaker/).
-  - When you are feeling collaborative (or are forced to for course work) and still want to use LaTeX, [ShareLaTeX](https://www.sharelatex.com) is another great resource.
-  - Doug Woods has been kind enough to supply a [LaTeX Demo](../users/woodsdou/LatexDemo.zip) for new users to learn tex.
-  - Doug Woods provides his [MS Thesis in LaTeX](../woodsdou/DougsMSThesis.zip) to use as a template. Execute pdflatex on MS_Thesis.tex to generate the pdf.
-* [Beamer](https://www.ctan.org/pkg/beamer?lang=en)
-  - A tool to create technical presentations that is based on LaTeX.
-  - If you want to get into beamer, feel free to check out this [reference](./references/beameruserguide.pdf) and the [example](../users/woodsdou/DougsDefense.zip) that Doug Woods has provided.
+  - When you are feeling collaborative (or are forced to for course work) and still want to use LaTeX, [ShareLaTeX](https://www.sharelatex.com) and [Overleaf](https://www.overleaf.com/) are great resources. This year, [the two joined forces](https://www.sharelatex.com/blog/2017/07/20/sharelatex-joins-overleaf.html) so eventually they may(?) be one in the same.
+
+    #### LaTeX Examples
+    * Basic style file:
+      - Here is a [basic style file](./LaTeX_docs/standard.sty) that is used to format a LaTeX file.
+      - Doug Woods has been kind enough to supply a [LaTeX Demo](./LaTeX_docs/LatexDemo.zip) for new users to learn tex.
+    * MS Thesis
+      - You can use his [MS Thesis in LaTeX](./LaTeX_docs/DougsMSThesis.zip) as a template. Execute pdflatex on MS_Thesis.tex to generate the pdf.
+    * [Beamer](https://www.ctan.org/pkg/beamer?lang=en)
+      - A tool to create technical presentations that is based on LaTeX.
+      - If you want to get into beamer, feel free to check out this [reference](./references/beameruserguide.pdf) and the [example](./LaTeX_docs/DougsDefense.zip) that Doug Woods has provided.
 * [BibDesk](http://bibdesk.sourceforge.net)
   - Bibliography manager. It was developed to be used in sync with LaTeX.
 * [Authorea](http://www.authorea.com)
@@ -65,7 +70,7 @@ There are *countless* text editors out there. It's really just finding which one
   - Really great to use once you learn how to use it. But it does have a fairly steep learning curve.
 * [VIM](http://www.vim.org/)
   - A standard command line based editor.
-  
+
 ## Visualization Tools
 * [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit/)
   - Open source.
