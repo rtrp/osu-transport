@@ -69,12 +69,12 @@ Under Construction 8/4/17
 ### Affiliations
 * **OSU Rifle Team:** September 2013 - Present
   * Vice President, Member
+  
+* **OSU EPIC Movement:** Septemeber 2012 - Present
+  * Leader, Outreach
 
 * **American Nuclear Society:** September 2012 - Present
   * Member
-
-* **OSU EPIC Movement:** Septemeber 2012 - Present
-  * Leader, Outreach
 
 ***
 
@@ -91,5 +91,5 @@ Under Construction 8/4/17
 ***
 
 ### Personal interests
-Working on cars, volleyball, basketball, soccer, softball, lifting, gaming, and reading.
+Cars, lifting, and reading.
 
