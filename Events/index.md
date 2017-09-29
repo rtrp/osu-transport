@@ -8,6 +8,10 @@ author: Doug, Jackson, & Tony
 * October 16-20, 2017 - 25th International Conference on Transport Theory ([ICTT-25](https://ictt-2017.llnl.gov))
 * October 29-November 2, 2017 - [2017 American Nuclear Society Winter Meeting](http://www.ans.org/meetings/c_1)
 
+# Trainings and Workshops
+* October 17 - [Introduction to Git](http://guides.library.oregonstate.edu/Library-Workshops-for-Grad-Students-Faculty)
+  - Registration required
+
 # Community Outreach
 The First Annual [Walk for T1D: For a world without type 1 diabetes](http://www2.jdrf.org/site/TR/TeamJDRF/OregonSWWashingtonChapter4532?pg=entry&fr_id=6480) on May 20th in Corvallis was a huge success and great community event!  The RTRP group was part of over 300 people and we all raised $79,413 to fund scientific research to treat, prevent and cure type 1 diabetes. [Corvallis Type One Diabetes Walk on Facebook](https://www.facebook.com/CorvallisWalk4T1D/)
 
