@@ -9,6 +9,11 @@ author: Doug, Jackson, & Tony
 * October 29-November 2, 2017 - [2017 American Nuclear Society Winter Meeting](http://www.ans.org/meetings/c_1)
 * June 17-21, 2017 - [2018 American Nuclear Society Annual Meeting](http://www.ans.org/meetings/file/766)
   - Summaries due January 12, 2018
+* January, 2018 - 2018 Oregon State University Student Winter Conference
+  - Abstracts due December, 2017
+* April 5-7, 2018 - [2018 American Nuclear Society Student Conference](http://www.ansstudentconference2018.com/)
+  - Abstracts due (typically January)
+
 
 # Trainings and Workshops
 * October 17 - [Introduction to Git](http://guides.library.oregonstate.edu/Library-Workshops-for-Grad-Students-Faculty)
