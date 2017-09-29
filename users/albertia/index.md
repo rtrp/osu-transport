@@ -8,11 +8,11 @@ author: Tony Alberti
 
 <img src="{{ site.url }}users/albertia/images/NUC16.jpg" width="450">
 
-I am a 3rd year graduate student here at OSU in Corvallis, OR working under the guidance of Todd Palmer. I began graduate school in January of 2014 and have been a full time student since. I defended my Masters of Science degree in October of 2015 and published my Masters thesis (see publications below) shortly thereafter.
+I am a 4th year graduate student here at OSU in Corvallis, OR working under the guidance of Todd Palmer. I began graduate school in January of 2014 and have been a full time student since. I defended my Masters of Science degree in October of 2015 and published my Masters thesis (see publications below) shortly thereafter.
 
 Since then, I have been pursuing my Doctoral degree in *a priori* parametric model reduction. In spite of progress made in mathematical methods and computer science, many problems in Nuclear Engineering suffer from what is known as the "curse of dimensionality".
 
-One relevant example is the solution of a nuclear reactor dynamics problem with deterministic treatments of each of the phase space variables. The solution, neutron population as a function of time, has 7 unknowns; 3 in space, 2 in direction of flight, 1 in energy, and 1 in time. Couple that with a coarse mesh of say, $$ 10^3 $$, and the solution has $$ 10^{21} $$ degrees of freedom. 
+One relevant example is the solution of a nuclear reactor dynamics problem with deterministic treatments of each of the phase space variables. The solution, neutron population as a function of time, has 7 unknowns; 3 in space, 2 in direction of flight, 1 in energy, and 1 in time. Couple that with a coarse mesh of say, $$ 10^3 $$, and the solution has $$ 10^{21} $$ degrees of freedom.
 
 You can find a short, two page abstract of this work [here](./files/SIAM_DR17_Abstract_Alberti.pdf).
 
