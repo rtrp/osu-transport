@@ -44,8 +44,8 @@ A brief and non-exhaustive list of software NSE has access to. Please note that 
     #### LaTeX Examples
     * Basic style file:
       - Here is a [basic style file](./LaTeX_docs/standard.sty) that is used to format a LaTeX file.
-    * MS Thesis
       - Doug Woods has been kind enough to supply a [LaTeX Demo](./LaTeX_docs/LatexDemo.zip) for new users to learn tex.
+    * MS Thesis
       - You can use his [MS Thesis in LaTeX](./LaTeX_docs/DougsMSThesis.zip) as a template. Execute pdflatex on MS_Thesis.tex to generate the pdf.
     * [Beamer](https://www.ctan.org/pkg/beamer?lang=en)
       - A tool to create technical presentations that is based on LaTeX.
