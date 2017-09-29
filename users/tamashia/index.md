@@ -54,6 +54,11 @@ Under Construction 8/4/17
 
 ***
 
+### Publications
+1. R.O. Hughes, J.T. Burke, R.J. Casperson, S. Ota, 1, S. Fisher, J. Parker, C.W. Beausang, M. Dag, P. Humby, J. Koglin, E. McCleskey, A.B. McIntosh, A. Saastamoinen, A.S. Tamashiro, E. Wilson, T.C. Wu, "The hyperion particle-&gamma detector array", Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, **856**, 47-52 (2017).
+
+***
+
 ### Past Projects
 * **Evaluation of U-238 Fission Product Yields:** June 2017 - August 2017
   * Used C/C++/ROOT programming to analyze gamma ray peaks to evaluate fission product yields of specific isotopes.
