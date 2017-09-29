@@ -7,6 +7,8 @@ author: Doug, Jackson, & Tony
 # Upcoming Conferences
 * October 16-20, 2017 - 25th International Conference on Transport Theory ([ICTT-25](https://ictt-2017.llnl.gov))
 * October 29-November 2, 2017 - [2017 American Nuclear Society Winter Meeting](http://www.ans.org/meetings/c_1)
+* June 17-21, 2017 - [2018 American Nuclear Society Annual Meeting](http://www.ans.org/meetings/file/766)
+  - Summaries due January 12, 2018
 
 # Trainings and Workshops
 * October 17 - [Introduction to Git](http://guides.library.oregonstate.edu/Library-Workshops-for-Grad-Students-Faculty)
