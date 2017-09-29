@@ -27,7 +27,7 @@ You can reach me via email at albertia@oregonstate.edu
 3.  Nuclear fuels analysis
 
 ### Conference Attendance
-1.  Intention of submitting to [SIAM DR17](http://www.siam.org/meetings/dr17/) (Pittsburgh, PA).
+1.  Poster presenter at [SIAM DR17](http://www.siam.org/meetings/dr17/) (Pittsburgh, PA).
 2.  Intention of submitting to [ICTT 2017](https://ictt-2017.llnl.gov/) (Monterey, CA).
 3.  Presenter - PHYSOR 2016 (Sun Valley, ID).
 
