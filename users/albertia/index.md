@@ -25,7 +25,6 @@ You can reach me via email at albertia@oregonstate.edu
 1.  Reactor analysis and methods
 2.  Reduced order modeling
 3.  Nuclear fuels analysis
-4.  Optimization techniques
 
 ### Conference Attendance
 1.  Intention of submitting to [SIAM DR17](http://www.siam.org/meetings/dr17/) (Pittsburgh, PA).
