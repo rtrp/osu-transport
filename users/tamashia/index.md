@@ -8,7 +8,7 @@ Aaron Tamashiro
 
 <img src="{{ site.url }}users/tamashia/images/ME.jpg" width="200">
 
-I am a first year M.S. and Ph.D. student in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/).
+I am a second year M.S. and Ph.D. student in Nuclear Engineering in the [School of Nuclear Science and Engineering](https://ne.oregonstate.edu) at [Oregon State University](https://oregonstate.edu). My major advisor is [Todd Palmer](https://rtrp.github.io/osu-transport/palmerts/).
 
 Email: <a href="mailto:tamashia@oregonstate.edu" target="top"> tamashia@oregonstate.edu </a>
 
@@ -16,18 +16,25 @@ Email: <a href="mailto:tamashia@oregonstate.edu" target="top"> tamashia@oregonst
 
 ## Research
 
-* In collaboration with Oak Ridge National Laboratory (ORNL), the following tasks will be accomplished:
-  * Connect the multigroup transport option to the ORIGEN depletion capability within Shift
-  * In collaboration with ORNL staff, define a set of verification test problems and evaluation metrics.
-  *  Investigate the impact of energy group structure on the accuracy and efficiency of depletion calculations in comparison with results from a) Shift continuous energy depletion, b) SERPENT, and c) VESTA.
-  * Investigate the relative performance of various time-stepping options using multigroup Monte Carlo
-  * Employ the multigroup Monte Carlo/depletion option as a predictor step with the continuous energy option at the corrector as a higher order predictor/corrector depletion approach. Evaluate accuracy and efficiency in comparison with the existing predictor/correction method that involves only the continuous energy Monte Carlo coupled with ORIGEN for depletion.
+Under Construction 8/4/17
 
 ***
 
+### Education
+
+* **Bachelor's of Science in Nuclear Engineering:** September 2012 - June 2016
+* **Bachelor's of Science in Mathematics:** September 2012 - June 2016
+  * Option: Applied and Computational Mathematics
+
 ### Work and Research Experience
 
-* **Graduate Research Assistant:** September 2016 - Present
+* **Glenn T. Seaborg Institute Nuclear Forensics Intern at Lawrence Livermore National Laboratory:** June 2017 – August 2017
+  * Performed data analysis using C/C++/ROOT programming.
+  * Evaluation of fission product yields from experimental data.
+  * Presented a poster on the research done this summer.
+  * Attended various seminars.
+
+* **Graduate Research Assistant:** September 2016 - June 2017
   * Working on a research project with Oak Ridge National Laboratory on multigroup Monte Carlo.
   * The focus is depletion in reactor physics problems.
 
@@ -48,6 +55,9 @@ Email: <a href="mailto:tamashia@oregonstate.edu" target="top"> tamashia@oregonst
 ***
 
 ### Past Projects
+* **Evaluation of U-238 Fission Product Yields:** June 2017 - August 2017
+  * Used C/C++/ROOT programming to analyze gamma ray peaks to evaluate fission product yields of specific isotopes.
+
 * **Evaluation of U-235 Fission Product Yields:** June 2016 - September 2016
   * Used C/C++/ROOT programming to analyze gamma ray peaks to evaluate fission product yields of specific isotopes.
 
@@ -57,29 +67,29 @@ Email: <a href="mailto:tamashia@oregonstate.edu" target="top"> tamashia@oregonst
 ***
 
 ### Affiliations
-* **American Nuclear Society:** September 2012 - Present
-  * Member
-
+* **OSU Rifle Team:** September 2013 - Present
+  * Vice President, Member
+  
 * **OSU EPIC Movement:** Septemeber 2012 - Present
   * Leader, Outreach
 
-* **OSU Rifle Team:** September 2013 - June 2014
+* **American Nuclear Society:** September 2012 - Present
   * Member
 
 ***
 
 ### Licenses
-* **DOE Certificate of Core Radiological Training:** June 2015 - June 2017
+* **DOE Certificate of Core Radiological Training:** June 2015 - Present
 
 ***
 
 ### Skills
-* **Programing Languages:** MATLAB, Python, C/C++/ROOT
-* **Tools and Utilities:** Google Sketch up, Solid works, Microsoft Word, Microsoft Excel, and Adobe Photoshop
+* **Programing Languages:** MATLAB, Python, C/C++/ROOT, and Latex
+* **Tools and Utilities:** MCNP, Google Sketch up, Solid works, Microsoft Word, Microsoft Excel, Microsoft Powerpoint, and Adobe Photoshop
 * **Skills**: Circuits, Vacuum systems, Oscilloscope, High Voltage, and Liquid Nitrogen.
 
 ***
 
 ### Personal interests
-Volleyball, basketball, soccer, softball, lifting, gaming, and reading.
+Cars, lifting, and reading.
 
