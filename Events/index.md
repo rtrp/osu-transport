@@ -11,6 +11,7 @@ author: Doug, Jackson, & Tony
   - Summaries due January 12, 2018
 * January, 2018 - 2018 Oregon State University Student Winter Conference
   - Abstracts due December, 2017
+* February 8, 2018 - [2018 Graduate Research Showcase](http://engineering.oregonstate.edu/2018-graduate-research-showcase)
 * April 5-7, 2018 - [2018 American Nuclear Society Student Conference](http://www.ansstudentconference2018.com/)
   - Abstracts due (typically January)
 
