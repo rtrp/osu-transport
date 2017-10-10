@@ -31,8 +31,6 @@ Phonons crossing a material interface experience a phenomenon known as *thermal 
 #### Multi-frequency phonon transport
 We have previously developed the capability of phonon transport in the gray approximation -- analogous to one-speed thermal radiation transport. This approach is beneficial in the rapid development of methodologies but falls short in highly resolved predictions of heat flux and thermal conductivity. We leverage the multi-group capability present in Rattlesnake to simulate multi-frequency phonon transport. We take data generated through *ab-initio* density functional theory (DFT) simulations by our colleagues at the UC Riverside campus and integrate it into our Boltzmann phonon transport simulations. While this capability is still in development, we have simulated temperature gradients, heat flux and thermal conductivity in silicon. We can show the contribution to overall thermal conductivity from each phonon polarization, mode, frequency and predict an average value of $$\kappa$$ in the material.
 
-<!-- Here we show thermal conductivity from our transport simulations ($$\kappa$$) compared to thermal conductivity predicted by the mechanistic relation $$\hat{\kappa} = \frac{1}{3}C_{v}v_{g}\Lambda$$, where $$C_{v}$$ is specific heat capacity at constant volume, $$v_{g}$$ is phonon group velocity and $$\Lambda$$ is phonon mean free path. In all plots, *p* is polarization and *g* is group. -->
-
 ***
 
 ### Current projects
