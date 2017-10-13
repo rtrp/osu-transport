@@ -20,7 +20,7 @@ You can reach me via email at albertia@oregonstate.edu
 [Resume](./files/Alberti_Resume_Public.pdf)
 
 ### Research Interests
-1. Computational Radiation Transport
+1. Computational radiation transport
 2. Reduced order modeling
 3. Nuclear reactor analysis
 4. Nuclear fuels analysis
