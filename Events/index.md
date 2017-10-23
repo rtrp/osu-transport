@@ -16,6 +16,14 @@ author: Doug, Jackson, & Tony
 
 
 # Trainings and Workshops
+* October 17: 2:00 - 4:00 pm - [Introduction to Git](http://guides.library.oregonstate.edu/Library-Workshops-for-Grad-Students-Faculty)
+  - Registration required
+* October 18: 4:00 - 5:00 pm - [Showcasing Your Research](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_4HCFqK9PaIqfIvH)
+* Octboer 23: 4:00 - 5:00 pm - [Intro to Zotero: Source Citation](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_8IJaSpJGGi8jbmY)
+* October 23: 5:00 - 6:00 pm - [Intermediate/Advanced Zotero](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_869CvPKnJfTO6Fu)
+* October 31: 3:00 - 4:00 pm - [Preservation of Data: Storage/Control](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_cvGraQiUBGff6Fn)
+* October 31: 4:00 - 5:00 pm - [Preservation of Data: Organization/Metadata](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_cvGraQiUBGff6Fn)
+
 
 # Community Outreach
 

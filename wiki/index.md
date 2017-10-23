@@ -35,6 +35,7 @@ A brief and non-exhaustive list of software NSE has access to. Please note that 
 ## Math Tools
 * [MATLAB](http://it.engineering.oregonstate.edu/site-license-matlab)
 * [MFEM](mfem.org) - finite element library
+* [Mathematica and Wolfram Alpha Pro](http://is.oregonstate.edu/service/software/mathematica) - 
 
 ## Documentation Tools
 * [LaTeX](https://www.latex-project.org/)
