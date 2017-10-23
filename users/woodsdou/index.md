@@ -60,6 +60,7 @@ The source iteration (SI) method converges arbitrarily slowly for highly scatter
 ***
 
 ## Presentations
+* [ICTT-25](https://ictt-2017.llnl.gov), Monterey, CA, October 2017
 * ANS Summer Meeting, San Francisco, CA, June 2017
 * OSU College of Engineering Graduate Research Showcase, Corvallis, OR, February 2017
 * American Nuclear Society Summer Meeting, New Orleans, LA, June 2016
