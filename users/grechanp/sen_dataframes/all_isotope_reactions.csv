@@ -1,0 +1,2065 @@
+0,s
+1001.80c elastic,0
+1001.80c inelastic,0
+1001.80c fission,0
+1001.80c n2n,0
+1001.80c ngamma,0
+1001.80c np,0
+1001.80c nd,0
+1001.80c nt,0
+1001.80c n3he,0
+1001.80c nalpha,0
+1001.80c total nu,0
+1001.80c fission chi,0
+6000.80c elastic,0
+6000.80c inelastic,0
+6000.80c fission,0
+6000.80c n2n,0
+6000.80c ngamma,0
+6000.80c np,0
+6000.80c nd,0
+6000.80c nt,0
+6000.80c n3he,0
+6000.80c nalpha,0
+6000.80c total nu,0
+6000.80c fission chi,0
+7014.80c elastic,0
+7014.80c inelastic,0
+7014.80c fission,0
+7014.80c n2n,0
+7014.80c ngamma,0
+7014.80c np,0
+7014.80c nd,0
+7014.80c nt,0
+7014.80c n3he,0
+7014.80c nalpha,0
+7014.80c total nu,0
+7014.80c fission chi,0
+8016.80c elastic,0
+8016.80c inelastic,0
+8016.80c fission,0
+8016.80c n2n,0
+8016.80c ngamma,0
+8016.80c np,0
+8016.80c nd,0
+8016.80c nt,0
+8016.80c n3he,0
+8016.80c nalpha,0
+8016.80c total nu,0
+8016.80c fission chi,0
+8017.80c elastic,0
+8017.80c inelastic,0
+8017.80c fission,0
+8017.80c n2n,0
+8017.80c ngamma,0
+8017.80c np,0
+8017.80c nd,0
+8017.80c nt,0
+8017.80c n3he,0
+8017.80c nalpha,0
+8017.80c total nu,0
+8017.80c fission chi,0
+13027.80c elastic,0
+13027.80c inelastic,0
+13027.80c fission,0
+13027.80c n2n,0
+13027.80c ngamma,0
+13027.80c np,0
+13027.80c nd,0
+13027.80c nt,0
+13027.80c n3he,0
+13027.80c nalpha,0
+13027.80c total nu,0
+13027.80c fission chi,0
+25055.80c elastic,0
+25055.80c inelastic,0
+25055.80c fission,0
+25055.80c n2n,0
+25055.80c ngamma,0
+25055.80c np,0
+25055.80c nd,0
+25055.80c nt,0
+25055.80c n3he,0
+25055.80c nalpha,0
+25055.80c total nu,0
+25055.80c fission chi,0
+26054.80c elastic,0
+26054.80c inelastic,0
+26054.80c fission,0
+26054.80c n2n,0
+26054.80c ngamma,0
+26054.80c np,0
+26054.80c nd,0
+26054.80c nt,0
+26054.80c n3he,0
+26054.80c nalpha,0
+26054.80c total nu,0
+26054.80c fission chi,0
+26056.80c elastic,0
+26056.80c inelastic,0
+26056.80c fission,0
+26056.80c n2n,0
+26056.80c ngamma,0
+26056.80c np,0
+26056.80c nd,0
+26056.80c nt,0
+26056.80c n3he,0
+26056.80c nalpha,0
+26056.80c total nu,0
+26056.80c fission chi,0
+26057.80c elastic,0
+26057.80c inelastic,0
+26057.80c fission,0
+26057.80c n2n,0
+26057.80c ngamma,0
+26057.80c np,0
+26057.80c nd,0
+26057.80c nt,0
+26057.80c n3he,0
+26057.80c nalpha,0
+26057.80c total nu,0
+26057.80c fission chi,0
+26058.80c elastic,0
+26058.80c inelastic,0
+26058.80c fission,0
+26058.80c n2n,0
+26058.80c ngamma,0
+26058.80c np,0
+26058.80c nd,0
+26058.80c nt,0
+26058.80c n3he,0
+26058.80c nalpha,0
+26058.80c total nu,0
+26058.80c fission chi,0
+79197.80c elastic,0
+79197.80c inelastic,0
+79197.80c fission,0
+79197.80c n2n,0
+79197.80c ngamma,0
+79197.80c np,0
+79197.80c nd,0
+79197.80c nt,0
+79197.80c n3he,0
+79197.80c nalpha,0
+79197.80c total nu,0
+79197.80c fission chi,0
+92234.80c elastic,0
+92234.80c inelastic,0
+92234.80c fission,0
+92234.80c n2n,0
+92234.80c ngamma,0
+92234.80c np,0
+92234.80c nd,0
+92234.80c nt,0
+92234.80c n3he,0
+92234.80c nalpha,0
+92234.80c total nu,0
+92234.80c fission chi,0
+92235.80c elastic,0
+92235.80c inelastic,0
+92235.80c fission,0
+92235.80c n2n,0
+92235.80c ngamma,0
+92235.80c np,0
+92235.80c nd,0
+92235.80c nt,0
+92235.80c n3he,0
+92235.80c nalpha,0
+92235.80c total nu,0
+92235.80c fission chi,0
+92236.80c elastic,0
+92236.80c inelastic,0
+92236.80c fission,0
+92236.80c n2n,0
+92236.80c ngamma,0
+92236.80c np,0
+92236.80c nd,0
+92236.80c nt,0
+92236.80c n3he,0
+92236.80c nalpha,0
+92236.80c total nu,0
+92236.80c fission chi,0
+92238.80c elastic,0
+92238.80c inelastic,0
+92238.80c fission,0
+92238.80c n2n,0
+92238.80c ngamma,0
+92238.80c np,0
+92238.80c nd,0
+92238.80c nt,0
+92238.80c n3he,0
+92238.80c nalpha,0
+92238.80c total nu,0
+92238.80c fission chi,0
+16032.80c elastic,0
+16032.80c inelastic,0
+16032.80c fission,0
+16032.80c n2n,0
+16032.80c ngamma,0
+16032.80c np,0
+16032.80c nd,0
+16032.80c nt,0
+16032.80c n3he,0
+16032.80c nalpha,0
+16032.80c total nu,0
+16032.80c fission chi,0
+grph.20t elastic,0
+grph.20t inelastic,0
+grph.20t fission,0
+grph.20t n2n,0
+grph.20t ngamma,0
+grph.20t np,0
+grph.20t nd,0
+grph.20t nt,0
+grph.20t n3he,0
+grph.20t nalpha,0
+grph.20t total nu,0
+grph.20t fission chi,0
+lwtr.20t elastic,0
+lwtr.20t inelastic,0
+lwtr.20t fission,0
+lwtr.20t n2n,0
+lwtr.20t ngamma,0
+lwtr.20t np,0
+lwtr.20t nd,0
+lwtr.20t nt,0
+lwtr.20t n3he,0
+lwtr.20t nalpha,0
+lwtr.20t total nu,0
+lwtr.20t fission chi,0
+poly.20t elastic,0
+poly.20t inelastic,0
+poly.20t fission,0
+poly.20t n2n,0
+poly.20t ngamma,0
+poly.20t np,0
+poly.20t nd,0
+poly.20t nt,0
+poly.20t n3he,0
+poly.20t nalpha,0
+poly.20t total nu,0
+poly.20t fission chi,0
+74182.80c elastic,0
+74182.80c inelastic,0
+74182.80c fission,0
+74182.80c n2n,0
+74182.80c ngamma,0
+74182.80c np,0
+74182.80c nd,0
+74182.80c nt,0
+74182.80c n3he,0
+74182.80c nalpha,0
+74182.80c total nu,0
+74182.80c fission chi,0
+74183.80c elastic,0
+74183.80c inelastic,0
+74183.80c fission,0
+74183.80c n2n,0
+74183.80c ngamma,0
+74183.80c np,0
+74183.80c nd,0
+74183.80c nt,0
+74183.80c n3he,0
+74183.80c nalpha,0
+74183.80c total nu,0
+74183.80c fission chi,0
+74184.80c elastic,0
+74184.80c inelastic,0
+74184.80c fission,0
+74184.80c n2n,0
+74184.80c ngamma,0
+74184.80c np,0
+74184.80c nd,0
+74184.80c nt,0
+74184.80c n3he,0
+74184.80c nalpha,0
+74184.80c total nu,0
+74184.80c fission chi,0
+74186.80c elastic,0
+74186.80c inelastic,0
+74186.80c fission,0
+74186.80c n2n,0
+74186.80c ngamma,0
+74186.80c np,0
+74186.80c nd,0
+74186.80c nt,0
+74186.80c n3he,0
+74186.80c nalpha,0
+74186.80c total nu,0
+74186.80c fission chi,0
+28058.80c elastic,0
+28058.80c inelastic,0
+28058.80c fission,0
+28058.80c n2n,0
+28058.80c ngamma,0
+28058.80c np,0
+28058.80c nd,0
+28058.80c nt,0
+28058.80c n3he,0
+28058.80c nalpha,0
+28058.80c total nu,0
+28058.80c fission chi,0
+28060.80c elastic,0
+28060.80c inelastic,0
+28060.80c fission,0
+28060.80c n2n,0
+28060.80c ngamma,0
+28060.80c np,0
+28060.80c nd,0
+28060.80c nt,0
+28060.80c n3he,0
+28060.80c nalpha,0
+28060.80c total nu,0
+28060.80c fission chi,0
+28061.80c elastic,0
+28061.80c inelastic,0
+28061.80c fission,0
+28061.80c n2n,0
+28061.80c ngamma,0
+28061.80c np,0
+28061.80c nd,0
+28061.80c nt,0
+28061.80c n3he,0
+28061.80c nalpha,0
+28061.80c total nu,0
+28061.80c fission chi,0
+28062.80c elastic,0
+28062.80c inelastic,0
+28062.80c fission,0
+28062.80c n2n,0
+28062.80c ngamma,0
+28062.80c np,0
+28062.80c nd,0
+28062.80c nt,0
+28062.80c n3he,0
+28062.80c nalpha,0
+28062.80c total nu,0
+28062.80c fission chi,0
+28064.80c elastic,0
+28064.80c inelastic,0
+28064.80c fission,0
+28064.80c n2n,0
+28064.80c ngamma,0
+28064.80c np,0
+28064.80c nd,0
+28064.80c nt,0
+28064.80c n3he,0
+28064.80c nalpha,0
+28064.80c total nu,0
+28064.80c fission chi,0
+4009.80c elastic,0
+4009.80c inelastic,0
+4009.80c fission,0
+4009.80c n2n,0
+4009.80c ngamma,0
+4009.80c np,0
+4009.80c nd,0
+4009.80c nt,0
+4009.80c n3he,0
+4009.80c nalpha,0
+4009.80c total nu,0
+4009.80c fission chi,0
+14028.80c elastic,0
+14028.80c inelastic,0
+14028.80c fission,0
+14028.80c n2n,0
+14028.80c ngamma,0
+14028.80c np,0
+14028.80c nd,0
+14028.80c nt,0
+14028.80c n3he,0
+14028.80c nalpha,0
+14028.80c total nu,0
+14028.80c fission chi,0
+14029.80c elastic,0
+14029.80c inelastic,0
+14029.80c fission,0
+14029.80c n2n,0
+14029.80c ngamma,0
+14029.80c np,0
+14029.80c nd,0
+14029.80c nt,0
+14029.80c n3he,0
+14029.80c nalpha,0
+14029.80c total nu,0
+14029.80c fission chi,0
+14030.80c elastic,0
+14030.80c inelastic,0
+14030.80c fission,0
+14030.80c n2n,0
+14030.80c ngamma,0
+14030.80c np,0
+14030.80c nd,0
+14030.80c nt,0
+14030.80c n3he,0
+14030.80c nalpha,0
+14030.80c total nu,0
+14030.80c fission chi,0
+22046.80c elastic,0
+22046.80c inelastic,0
+22046.80c fission,0
+22046.80c n2n,0
+22046.80c ngamma,0
+22046.80c np,0
+22046.80c nd,0
+22046.80c nt,0
+22046.80c n3he,0
+22046.80c nalpha,0
+22046.80c total nu,0
+22046.80c fission chi,0
+22047.80c elastic,0
+22047.80c inelastic,0
+22047.80c fission,0
+22047.80c n2n,0
+22047.80c ngamma,0
+22047.80c np,0
+22047.80c nd,0
+22047.80c nt,0
+22047.80c n3he,0
+22047.80c nalpha,0
+22047.80c total nu,0
+22047.80c fission chi,0
+22048.80c elastic,0
+22048.80c inelastic,0
+22048.80c fission,0
+22048.80c n2n,0
+22048.80c ngamma,0
+22048.80c np,0
+22048.80c nd,0
+22048.80c nt,0
+22048.80c n3he,0
+22048.80c nalpha,0
+22048.80c total nu,0
+22048.80c fission chi,0
+22049.80c elastic,0
+22049.80c inelastic,0
+22049.80c fission,0
+22049.80c n2n,0
+22049.80c ngamma,0
+22049.80c np,0
+22049.80c nd,0
+22049.80c nt,0
+22049.80c n3he,0
+22049.80c nalpha,0
+22049.80c total nu,0
+22049.80c fission chi,0
+22050.80c elastic,0
+22050.80c inelastic,0
+22050.80c fission,0
+22050.80c n2n,0
+22050.80c ngamma,0
+22050.80c np,0
+22050.80c nd,0
+22050.80c nt,0
+22050.80c n3he,0
+22050.80c nalpha,0
+22050.80c total nu,0
+22050.80c fission chi,0
+24050.80c elastic,0
+24050.80c inelastic,0
+24050.80c fission,0
+24050.80c n2n,0
+24050.80c ngamma,0
+24050.80c np,0
+24050.80c nd,0
+24050.80c nt,0
+24050.80c n3he,0
+24050.80c nalpha,0
+24050.80c total nu,0
+24050.80c fission chi,0
+24052.80c elastic,0
+24052.80c inelastic,0
+24052.80c fission,0
+24052.80c n2n,0
+24052.80c ngamma,0
+24052.80c np,0
+24052.80c nd,0
+24052.80c nt,0
+24052.80c n3he,0
+24052.80c nalpha,0
+24052.80c total nu,0
+24052.80c fission chi,0
+24053.80c elastic,0
+24053.80c inelastic,0
+24053.80c fission,0
+24053.80c n2n,0
+24053.80c ngamma,0
+24053.80c np,0
+24053.80c nd,0
+24053.80c nt,0
+24053.80c n3he,0
+24053.80c nalpha,0
+24053.80c total nu,0
+24053.80c fission chi,0
+24054.80c elastic,0
+24054.80c inelastic,0
+24054.80c fission,0
+24054.80c n2n,0
+24054.80c ngamma,0
+24054.80c np,0
+24054.80c nd,0
+24054.80c nt,0
+24054.80c n3he,0
+24054.80c nalpha,0
+24054.80c total nu,0
+24054.80c fission chi,0
+42092.80c elastic,0
+42092.80c inelastic,0
+42092.80c fission,0
+42092.80c n2n,0
+42092.80c ngamma,0
+42092.80c np,0
+42092.80c nd,0
+42092.80c nt,0
+42092.80c n3he,0
+42092.80c nalpha,0
+42092.80c total nu,0
+42092.80c fission chi,0
+42094.80c elastic,0
+42094.80c inelastic,0
+42094.80c fission,0
+42094.80c n2n,0
+42094.80c ngamma,0
+42094.80c np,0
+42094.80c nd,0
+42094.80c nt,0
+42094.80c n3he,0
+42094.80c nalpha,0
+42094.80c total nu,0
+42094.80c fission chi,0
+42095.80c elastic,0
+42095.80c inelastic,0
+42095.80c fission,0
+42095.80c n2n,0
+42095.80c ngamma,0
+42095.80c np,0
+42095.80c nd,0
+42095.80c nt,0
+42095.80c n3he,0
+42095.80c nalpha,0
+42095.80c total nu,0
+42095.80c fission chi,0
+42096.80c elastic,0
+42096.80c inelastic,0
+42096.80c fission,0
+42096.80c n2n,0
+42096.80c ngamma,0
+42096.80c np,0
+42096.80c nd,0
+42096.80c nt,0
+42096.80c n3he,0
+42096.80c nalpha,0
+42096.80c total nu,0
+42096.80c fission chi,0
+42097.80c elastic,0
+42097.80c inelastic,0
+42097.80c fission,0
+42097.80c n2n,0
+42097.80c ngamma,0
+42097.80c np,0
+42097.80c nd,0
+42097.80c nt,0
+42097.80c n3he,0
+42097.80c nalpha,0
+42097.80c total nu,0
+42097.80c fission chi,0
+42098.80c elastic,0
+42098.80c inelastic,0
+42098.80c fission,0
+42098.80c n2n,0
+42098.80c ngamma,0
+42098.80c np,0
+42098.80c nd,0
+42098.80c nt,0
+42098.80c n3he,0
+42098.80c nalpha,0
+42098.80c total nu,0
+42098.80c fission chi,0
+42100.80c elastic,0
+42100.80c inelastic,0
+42100.80c fission,0
+42100.80c n2n,0
+42100.80c ngamma,0
+42100.80c np,0
+42100.80c nd,0
+42100.80c nt,0
+42100.80c n3he,0
+42100.80c nalpha,0
+42100.80c total nu,0
+42100.80c fission chi,0
+be.20t elastic,0
+be.20t inelastic,0
+be.20t fission,0
+be.20t n2n,0
+be.20t ngamma,0
+be.20t np,0
+be.20t nd,0
+be.20t nt,0
+be.20t n3he,0
+be.20t nalpha,0
+be.20t total nu,0
+be.20t fission chi,0
+9019.80c elastic,0
+9019.80c inelastic,0
+9019.80c fission,0
+9019.80c n2n,0
+9019.80c ngamma,0
+9019.80c np,0
+9019.80c nd,0
+9019.80c nt,0
+9019.80c n3he,0
+9019.80c nalpha,0
+9019.80c total nu,0
+9019.80c fission chi,0
+29063.80c elastic,0
+29063.80c inelastic,0
+29063.80c fission,0
+29063.80c n2n,0
+29063.80c ngamma,0
+29063.80c np,0
+29063.80c nd,0
+29063.80c nt,0
+29063.80c n3he,0
+29063.80c nalpha,0
+29063.80c total nu,0
+29063.80c fission chi,0
+29065.80c elastic,0
+29065.80c inelastic,0
+29065.80c fission,0
+29065.80c n2n,0
+29065.80c ngamma,0
+29065.80c np,0
+29065.80c nd,0
+29065.80c nt,0
+29065.80c n3he,0
+29065.80c nalpha,0
+29065.80c total nu,0
+29065.80c fission chi,0
+be-o.20t elastic,0
+be-o.20t inelastic,0
+be-o.20t fission,0
+be-o.20t n2n,0
+be-o.20t ngamma,0
+be-o.20t np,0
+be-o.20t nd,0
+be-o.20t nt,0
+be-o.20t n3he,0
+be-o.20t nalpha,0
+be-o.20t total nu,0
+be-o.20t fission chi,0
+o-be.20t elastic,0
+o-be.20t inelastic,0
+o-be.20t fission,0
+o-be.20t n2n,0
+o-be.20t ngamma,0
+o-be.20t np,0
+o-be.20t nd,0
+o-be.20t nt,0
+o-be.20t n3he,0
+o-be.20t nalpha,0
+o-be.20t total nu,0
+o-be.20t fission chi,0
+5010.80c elastic,0
+5010.80c inelastic,0
+5010.80c fission,0
+5010.80c n2n,0
+5010.80c ngamma,0
+5010.80c np,0
+5010.80c nd,0
+5010.80c nt,0
+5010.80c n3he,0
+5010.80c nalpha,0
+5010.80c total nu,0
+5010.80c fission chi,0
+5011.80c elastic,0
+5011.80c inelastic,0
+5011.80c fission,0
+5011.80c n2n,0
+5011.80c ngamma,0
+5011.80c np,0
+5011.80c nd,0
+5011.80c nt,0
+5011.80c n3he,0
+5011.80c nalpha,0
+5011.80c total nu,0
+5011.80c fission chi,0
+74180.80c elastic,0
+74180.80c inelastic,0
+74180.80c fission,0
+74180.80c n2n,0
+74180.80c ngamma,0
+74180.80c np,0
+74180.80c nd,0
+74180.80c nt,0
+74180.80c n3he,0
+74180.80c nalpha,0
+74180.80c total nu,0
+74180.80c fission chi,0
+12024.80c elastic,0
+12024.80c inelastic,0
+12024.80c fission,0
+12024.80c n2n,0
+12024.80c ngamma,0
+12024.80c np,0
+12024.80c nd,0
+12024.80c nt,0
+12024.80c n3he,0
+12024.80c nalpha,0
+12024.80c total nu,0
+12024.80c fission chi,0
+12025.80c elastic,0
+12025.80c inelastic,0
+12025.80c fission,0
+12025.80c n2n,0
+12025.80c ngamma,0
+12025.80c np,0
+12025.80c nd,0
+12025.80c nt,0
+12025.80c n3he,0
+12025.80c nalpha,0
+12025.80c total nu,0
+12025.80c fission chi,0
+12026.80c elastic,0
+12026.80c inelastic,0
+12026.80c fission,0
+12026.80c n2n,0
+12026.80c ngamma,0
+12026.80c np,0
+12026.80c nd,0
+12026.80c nt,0
+12026.80c n3he,0
+12026.80c nalpha,0
+12026.80c total nu,0
+12026.80c fission chi,0
+1002.80c elastic,0
+1002.80c inelastic,0
+1002.80c fission,0
+1002.80c n2n,0
+1002.80c ngamma,0
+1002.80c np,0
+1002.80c nd,0
+1002.80c nt,0
+1002.80c n3he,0
+1002.80c nalpha,0
+1002.80c total nu,0
+1002.80c fission chi,0
+7015.80c elastic,0
+7015.80c inelastic,0
+7015.80c fission,0
+7015.80c n2n,0
+7015.80c ngamma,0
+7015.80c np,0
+7015.80c nd,0
+7015.80c nt,0
+7015.80c n3he,0
+7015.80c nalpha,0
+7015.80c total nu,0
+7015.80c fission chi,0
+23050.80c elastic,0
+23050.80c inelastic,0
+23050.80c fission,0
+23050.80c n2n,0
+23050.80c ngamma,0
+23050.80c np,0
+23050.80c nd,0
+23050.80c nt,0
+23050.80c n3he,0
+23050.80c nalpha,0
+23050.80c total nu,0
+23050.80c fission chi,0
+23051.80c elastic,0
+23051.80c inelastic,0
+23051.80c fission,0
+23051.80c n2n,0
+23051.80c ngamma,0
+23051.80c np,0
+23051.80c nd,0
+23051.80c nt,0
+23051.80c n3he,0
+23051.80c nalpha,0
+23051.80c total nu,0
+23051.80c fission chi,0
+82204.80c elastic,0
+82204.80c inelastic,0
+82204.80c fission,0
+82204.80c n2n,0
+82204.80c ngamma,0
+82204.80c np,0
+82204.80c nd,0
+82204.80c nt,0
+82204.80c n3he,0
+82204.80c nalpha,0
+82204.80c total nu,0
+82204.80c fission chi,0
+82206.80c elastic,0
+82206.80c inelastic,0
+82206.80c fission,0
+82206.80c n2n,0
+82206.80c ngamma,0
+82206.80c np,0
+82206.80c nd,0
+82206.80c nt,0
+82206.80c n3he,0
+82206.80c nalpha,0
+82206.80c total nu,0
+82206.80c fission chi,0
+82207.80c elastic,0
+82207.80c inelastic,0
+82207.80c fission,0
+82207.80c n2n,0
+82207.80c ngamma,0
+82207.80c np,0
+82207.80c nd,0
+82207.80c nt,0
+82207.80c n3he,0
+82207.80c nalpha,0
+82207.80c total nu,0
+82207.80c fission chi,0
+82208.80c elastic,0
+82208.80c inelastic,0
+82208.80c fission,0
+82208.80c n2n,0
+82208.80c ngamma,0
+82208.80c np,0
+82208.80c nd,0
+82208.80c nt,0
+82208.80c n3he,0
+82208.80c nalpha,0
+82208.80c total nu,0
+82208.80c fission chi,0
+48106.80c elastic,0
+48106.80c inelastic,0
+48106.80c fission,0
+48106.80c n2n,0
+48106.80c ngamma,0
+48106.80c np,0
+48106.80c nd,0
+48106.80c nt,0
+48106.80c n3he,0
+48106.80c nalpha,0
+48106.80c total nu,0
+48106.80c fission chi,0
+48108.80c elastic,0
+48108.80c inelastic,0
+48108.80c fission,0
+48108.80c n2n,0
+48108.80c ngamma,0
+48108.80c np,0
+48108.80c nd,0
+48108.80c nt,0
+48108.80c n3he,0
+48108.80c nalpha,0
+48108.80c total nu,0
+48108.80c fission chi,0
+48110.80c elastic,0
+48110.80c inelastic,0
+48110.80c fission,0
+48110.80c n2n,0
+48110.80c ngamma,0
+48110.80c np,0
+48110.80c nd,0
+48110.80c nt,0
+48110.80c n3he,0
+48110.80c nalpha,0
+48110.80c total nu,0
+48110.80c fission chi,0
+48111.80c elastic,0
+48111.80c inelastic,0
+48111.80c fission,0
+48111.80c n2n,0
+48111.80c ngamma,0
+48111.80c np,0
+48111.80c nd,0
+48111.80c nt,0
+48111.80c n3he,0
+48111.80c nalpha,0
+48111.80c total nu,0
+48111.80c fission chi,0
+48112.80c elastic,0
+48112.80c inelastic,0
+48112.80c fission,0
+48112.80c n2n,0
+48112.80c ngamma,0
+48112.80c np,0
+48112.80c nd,0
+48112.80c nt,0
+48112.80c n3he,0
+48112.80c nalpha,0
+48112.80c total nu,0
+48112.80c fission chi,0
+48113.80c elastic,0
+48113.80c inelastic,0
+48113.80c fission,0
+48113.80c n2n,0
+48113.80c ngamma,0
+48113.80c np,0
+48113.80c nd,0
+48113.80c nt,0
+48113.80c n3he,0
+48113.80c nalpha,0
+48113.80c total nu,0
+48113.80c fission chi,0
+48114.80c elastic,0
+48114.80c inelastic,0
+48114.80c fission,0
+48114.80c n2n,0
+48114.80c ngamma,0
+48114.80c np,0
+48114.80c nd,0
+48114.80c nt,0
+48114.80c n3he,0
+48114.80c nalpha,0
+48114.80c total nu,0
+48114.80c fission chi,0
+48116.80c elastic,0
+48116.80c inelastic,0
+48116.80c fission,0
+48116.80c n2n,0
+48116.80c ngamma,0
+48116.80c np,0
+48116.80c nd,0
+48116.80c nt,0
+48116.80c n3he,0
+48116.80c nalpha,0
+48116.80c total nu,0
+48116.80c fission chi,0
+30064.80c elastic,0
+30064.80c inelastic,0
+30064.80c fission,0
+30064.80c n2n,0
+30064.80c ngamma,0
+30064.80c np,0
+30064.80c nd,0
+30064.80c nt,0
+30064.80c n3he,0
+30064.80c nalpha,0
+30064.80c total nu,0
+30064.80c fission chi,0
+30066.80c elastic,0
+30066.80c inelastic,0
+30066.80c fission,0
+30066.80c n2n,0
+30066.80c ngamma,0
+30066.80c np,0
+30066.80c nd,0
+30066.80c nt,0
+30066.80c n3he,0
+30066.80c nalpha,0
+30066.80c total nu,0
+30066.80c fission chi,0
+30067.80c elastic,0
+30067.80c inelastic,0
+30067.80c fission,0
+30067.80c n2n,0
+30067.80c ngamma,0
+30067.80c np,0
+30067.80c nd,0
+30067.80c nt,0
+30067.80c n3he,0
+30067.80c nalpha,0
+30067.80c total nu,0
+30067.80c fission chi,0
+30068.80c elastic,0
+30068.80c inelastic,0
+30068.80c fission,0
+30068.80c n2n,0
+30068.80c ngamma,0
+30068.80c np,0
+30068.80c nd,0
+30068.80c nt,0
+30068.80c n3he,0
+30068.80c nalpha,0
+30068.80c total nu,0
+30068.80c fission chi,0
+30070.80c elastic,0
+30070.80c inelastic,0
+30070.80c fission,0
+30070.80c n2n,0
+30070.80c ngamma,0
+30070.80c np,0
+30070.80c nd,0
+30070.80c nt,0
+30070.80c n3he,0
+30070.80c nalpha,0
+30070.80c total nu,0
+30070.80c fission chi,0
+11023.80c elastic,0
+11023.80c inelastic,0
+11023.80c fission,0
+11023.80c n2n,0
+11023.80c ngamma,0
+11023.80c np,0
+11023.80c nd,0
+11023.80c nt,0
+11023.80c n3he,0
+11023.80c nalpha,0
+11023.80c total nu,0
+11023.80c fission chi,0
+27059.80c elastic,0
+27059.80c inelastic,0
+27059.80c fission,0
+27059.80c n2n,0
+27059.80c ngamma,0
+27059.80c np,0
+27059.80c nd,0
+27059.80c nt,0
+27059.80c n3he,0
+27059.80c nalpha,0
+27059.80c total nu,0
+27059.80c fission chi,0
+47107.80c elastic,0
+47107.80c inelastic,0
+47107.80c fission,0
+47107.80c n2n,0
+47107.80c ngamma,0
+47107.80c np,0
+47107.80c nd,0
+47107.80c nt,0
+47107.80c n3he,0
+47107.80c nalpha,0
+47107.80c total nu,0
+47107.80c fission chi,0
+47109.80c elastic,0
+47109.80c inelastic,0
+47109.80c fission,0
+47109.80c n2n,0
+47109.80c ngamma,0
+47109.80c np,0
+47109.80c nd,0
+47109.80c nt,0
+47109.80c n3he,0
+47109.80c nalpha,0
+47109.80c total nu,0
+47109.80c fission chi,0
+51121.80c elastic,0
+51121.80c inelastic,0
+51121.80c fission,0
+51121.80c n2n,0
+51121.80c ngamma,0
+51121.80c np,0
+51121.80c nd,0
+51121.80c nt,0
+51121.80c n3he,0
+51121.80c nalpha,0
+51121.80c total nu,0
+51121.80c fission chi,0
+51123.80c elastic,0
+51123.80c inelastic,0
+51123.80c fission,0
+51123.80c n2n,0
+51123.80c ngamma,0
+51123.80c np,0
+51123.80c nd,0
+51123.80c nt,0
+51123.80c n3he,0
+51123.80c nalpha,0
+51123.80c total nu,0
+51123.80c fission chi,0
+83209.80c elastic,0
+83209.80c inelastic,0
+83209.80c fission,0
+83209.80c n2n,0
+83209.80c ngamma,0
+83209.80c np,0
+83209.80c nd,0
+83209.80c nt,0
+83209.80c n3he,0
+83209.80c nalpha,0
+83209.80c total nu,0
+83209.80c fission chi,0
+51000.42c elastic,0
+51000.42c inelastic,0
+51000.42c fission,0
+51000.42c n2n,0
+51000.42c ngamma,0
+51000.42c np,0
+51000.42c nd,0
+51000.42c nt,0
+51000.42c n3he,0
+51000.42c nalpha,0
+51000.42c total nu,0
+51000.42c fission chi,0
+47107.66c elastic,0
+47107.66c inelastic,0
+47107.66c fission,0
+47107.66c n2n,0
+47107.66c ngamma,0
+47107.66c np,0
+47107.66c nd,0
+47107.66c nt,0
+47107.66c n3he,0
+47107.66c nalpha,0
+47107.66c total nu,0
+47107.66c fission chi,0
+47109.66c elastic,0
+47109.66c inelastic,0
+47109.66c fission,0
+47109.66c n2n,0
+47109.66c ngamma,0
+47109.66c np,0
+47109.66c nd,0
+47109.66c nt,0
+47109.66c n3he,0
+47109.66c nalpha,0
+47109.66c total nu,0
+47109.66c fission chi,0
+83209.66c elastic,0
+83209.66c inelastic,0
+83209.66c fission,0
+83209.66c n2n,0
+83209.66c ngamma,0
+83209.66c np,0
+83209.66c nd,0
+83209.66c nt,0
+83209.66c n3he,0
+83209.66c nalpha,0
+83209.66c total nu,0
+83209.66c fission chi,0
+20040.80c elastic,0
+20040.80c inelastic,0
+20040.80c fission,0
+20040.80c n2n,0
+20040.80c ngamma,0
+20040.80c np,0
+20040.80c nd,0
+20040.80c nt,0
+20040.80c n3he,0
+20040.80c nalpha,0
+20040.80c total nu,0
+20040.80c fission chi,0
+20042.80c elastic,0
+20042.80c inelastic,0
+20042.80c fission,0
+20042.80c n2n,0
+20042.80c ngamma,0
+20042.80c np,0
+20042.80c nd,0
+20042.80c nt,0
+20042.80c n3he,0
+20042.80c nalpha,0
+20042.80c total nu,0
+20042.80c fission chi,0
+20043.80c elastic,0
+20043.80c inelastic,0
+20043.80c fission,0
+20043.80c n2n,0
+20043.80c ngamma,0
+20043.80c np,0
+20043.80c nd,0
+20043.80c nt,0
+20043.80c n3he,0
+20043.80c nalpha,0
+20043.80c total nu,0
+20043.80c fission chi,0
+20044.80c elastic,0
+20044.80c inelastic,0
+20044.80c fission,0
+20044.80c n2n,0
+20044.80c ngamma,0
+20044.80c np,0
+20044.80c nd,0
+20044.80c nt,0
+20044.80c n3he,0
+20044.80c nalpha,0
+20044.80c total nu,0
+20044.80c fission chi,0
+20046.80c elastic,0
+20046.80c inelastic,0
+20046.80c fission,0
+20046.80c n2n,0
+20046.80c ngamma,0
+20046.80c np,0
+20046.80c nd,0
+20046.80c nt,0
+20046.80c n3he,0
+20046.80c nalpha,0
+20046.80c total nu,0
+20046.80c fission chi,0
+20048.80c elastic,0
+20048.80c inelastic,0
+20048.80c fission,0
+20048.80c n2n,0
+20048.80c ngamma,0
+20048.80c np,0
+20048.80c nd,0
+20048.80c nt,0
+20048.80c n3he,0
+20048.80c nalpha,0
+20048.80c total nu,0
+20048.80c fission chi,0
+18036.80c elastic,0
+18036.80c inelastic,0
+18036.80c fission,0
+18036.80c n2n,0
+18036.80c ngamma,0
+18036.80c np,0
+18036.80c nd,0
+18036.80c nt,0
+18036.80c n3he,0
+18036.80c nalpha,0
+18036.80c total nu,0
+18036.80c fission chi,0
+18038.80c elastic,0
+18038.80c inelastic,0
+18038.80c fission,0
+18038.80c n2n,0
+18038.80c ngamma,0
+18038.80c np,0
+18038.80c nd,0
+18038.80c nt,0
+18038.80c n3he,0
+18038.80c nalpha,0
+18038.80c total nu,0
+18038.80c fission chi,0
+18040.80c elastic,0
+18040.80c inelastic,0
+18040.80c fission,0
+18040.80c n2n,0
+18040.80c ngamma,0
+18040.80c np,0
+18040.80c nd,0
+18040.80c nt,0
+18040.80c n3he,0
+18040.80c nalpha,0
+18040.80c total nu,0
+18040.80c fission chi,0
+3006.80c elastic,0
+3006.80c inelastic,0
+3006.80c fission,0
+3006.80c n2n,0
+3006.80c ngamma,0
+3006.80c np,0
+3006.80c nd,0
+3006.80c nt,0
+3006.80c n3he,0
+3006.80c nalpha,0
+3006.80c total nu,0
+3006.80c fission chi,0
+3007.80c elastic,0
+3007.80c inelastic,0
+3007.80c fission,0
+3007.80c n2n,0
+3007.80c ngamma,0
+3007.80c np,0
+3007.80c nd,0
+3007.80c nt,0
+3007.80c n3he,0
+3007.80c nalpha,0
+3007.80c total nu,0
+3007.80c fission chi,0
+hwtr.20t elastic,0
+hwtr.20t inelastic,0
+hwtr.20t fission,0
+hwtr.20t n2n,0
+hwtr.20t ngamma,0
+hwtr.20t np,0
+hwtr.20t nd,0
+hwtr.20t nt,0
+hwtr.20t n3he,0
+hwtr.20t nalpha,0
+hwtr.20t total nu,0
+hwtr.20t fission chi,0
+17035.80c elastic,0
+17035.80c inelastic,0
+17035.80c fission,0
+17035.80c n2n,0
+17035.80c ngamma,0
+17035.80c np,0
+17035.80c nd,0
+17035.80c nt,0
+17035.80c n3he,0
+17035.80c nalpha,0
+17035.80c total nu,0
+17035.80c fission chi,0
+17037.80c elastic,0
+17037.80c inelastic,0
+17037.80c fission,0
+17037.80c n2n,0
+17037.80c ngamma,0
+17037.80c np,0
+17037.80c nd,0
+17037.80c nt,0
+17037.80c n3he,0
+17037.80c nalpha,0
+17037.80c total nu,0
+17037.80c fission chi,0
+15031.80c elastic,0
+15031.80c inelastic,0
+15031.80c fission,0
+15031.80c n2n,0
+15031.80c ngamma,0
+15031.80c np,0
+15031.80c nd,0
+15031.80c nt,0
+15031.80c n3he,0
+15031.80c nalpha,0
+15031.80c total nu,0
+15031.80c fission chi,0
+16033.80c elastic,0
+16033.80c inelastic,0
+16033.80c fission,0
+16033.80c n2n,0
+16033.80c ngamma,0
+16033.80c np,0
+16033.80c nd,0
+16033.80c nt,0
+16033.80c n3he,0
+16033.80c nalpha,0
+16033.80c total nu,0
+16033.80c fission chi,0
+16034.80c elastic,0
+16034.80c inelastic,0
+16034.80c fission,0
+16034.80c n2n,0
+16034.80c ngamma,0
+16034.80c np,0
+16034.80c nd,0
+16034.80c nt,0
+16034.80c n3he,0
+16034.80c nalpha,0
+16034.80c total nu,0
+16034.80c fission chi,0
+16036.80c elastic,0
+16036.80c inelastic,0
+16036.80c fission,0
+16036.80c n2n,0
+16036.80c ngamma,0
+16036.80c np,0
+16036.80c nd,0
+16036.80c nt,0
+16036.80c n3he,0
+16036.80c nalpha,0
+16036.80c total nu,0
+16036.80c fission chi,0
+31069.80c elastic,0
+31069.80c inelastic,0
+31069.80c fission,0
+31069.80c n2n,0
+31069.80c ngamma,0
+31069.80c np,0
+31069.80c nd,0
+31069.80c nt,0
+31069.80c n3he,0
+31069.80c nalpha,0
+31069.80c total nu,0
+31069.80c fission chi,0
+31071.80c elastic,0
+31071.80c inelastic,0
+31071.80c fission,0
+31071.80c n2n,0
+31071.80c ngamma,0
+31071.80c np,0
+31071.80c nd,0
+31071.80c nt,0
+31071.80c n3he,0
+31071.80c nalpha,0
+31071.80c total nu,0
+31071.80c fission chi,0
+40090.80c elastic,0
+40090.80c inelastic,0
+40090.80c fission,0
+40090.80c n2n,0
+40090.80c ngamma,0
+40090.80c np,0
+40090.80c nd,0
+40090.80c nt,0
+40090.80c n3he,0
+40090.80c nalpha,0
+40090.80c total nu,0
+40090.80c fission chi,0
+40091.80c elastic,0
+40091.80c inelastic,0
+40091.80c fission,0
+40091.80c n2n,0
+40091.80c ngamma,0
+40091.80c np,0
+40091.80c nd,0
+40091.80c nt,0
+40091.80c n3he,0
+40091.80c nalpha,0
+40091.80c total nu,0
+40091.80c fission chi,0
+40092.80c elastic,0
+40092.80c inelastic,0
+40092.80c fission,0
+40092.80c n2n,0
+40092.80c ngamma,0
+40092.80c np,0
+40092.80c nd,0
+40092.80c nt,0
+40092.80c n3he,0
+40092.80c nalpha,0
+40092.80c total nu,0
+40092.80c fission chi,0
+40094.80c elastic,0
+40094.80c inelastic,0
+40094.80c fission,0
+40094.80c n2n,0
+40094.80c ngamma,0
+40094.80c np,0
+40094.80c nd,0
+40094.80c nt,0
+40094.80c n3he,0
+40094.80c nalpha,0
+40094.80c total nu,0
+40094.80c fission chi,0
+40096.80c elastic,0
+40096.80c inelastic,0
+40096.80c fission,0
+40096.80c n2n,0
+40096.80c ngamma,0
+40096.80c np,0
+40096.80c nd,0
+40096.80c nt,0
+40096.80c n3he,0
+40096.80c nalpha,0
+40096.80c total nu,0
+40096.80c fission chi,0
+64152.80c elastic,0
+64152.80c inelastic,0
+64152.80c fission,0
+64152.80c n2n,0
+64152.80c ngamma,0
+64152.80c np,0
+64152.80c nd,0
+64152.80c nt,0
+64152.80c n3he,0
+64152.80c nalpha,0
+64152.80c total nu,0
+64152.80c fission chi,0
+64154.80c elastic,0
+64154.80c inelastic,0
+64154.80c fission,0
+64154.80c n2n,0
+64154.80c ngamma,0
+64154.80c np,0
+64154.80c nd,0
+64154.80c nt,0
+64154.80c n3he,0
+64154.80c nalpha,0
+64154.80c total nu,0
+64154.80c fission chi,0
+64155.80c elastic,0
+64155.80c inelastic,0
+64155.80c fission,0
+64155.80c n2n,0
+64155.80c ngamma,0
+64155.80c np,0
+64155.80c nd,0
+64155.80c nt,0
+64155.80c n3he,0
+64155.80c nalpha,0
+64155.80c total nu,0
+64155.80c fission chi,0
+64156.80c elastic,0
+64156.80c inelastic,0
+64156.80c fission,0
+64156.80c n2n,0
+64156.80c ngamma,0
+64156.80c np,0
+64156.80c nd,0
+64156.80c nt,0
+64156.80c n3he,0
+64156.80c nalpha,0
+64156.80c total nu,0
+64156.80c fission chi,0
+64157.80c elastic,0
+64157.80c inelastic,0
+64157.80c fission,0
+64157.80c n2n,0
+64157.80c ngamma,0
+64157.80c np,0
+64157.80c nd,0
+64157.80c nt,0
+64157.80c n3he,0
+64157.80c nalpha,0
+64157.80c total nu,0
+64157.80c fission chi,0
+64158.80c elastic,0
+64158.80c inelastic,0
+64158.80c fission,0
+64158.80c n2n,0
+64158.80c ngamma,0
+64158.80c np,0
+64158.80c nd,0
+64158.80c nt,0
+64158.80c n3he,0
+64158.80c nalpha,0
+64158.80c total nu,0
+64158.80c fission chi,0
+64160.80c elastic,0
+64160.80c inelastic,0
+64160.80c fission,0
+64160.80c n2n,0
+64160.80c ngamma,0
+64160.80c np,0
+64160.80c nd,0
+64160.80c nt,0
+64160.80c n3he,0
+64160.80c nalpha,0
+64160.80c total nu,0
+64160.80c fission chi,0
+92233.80c elastic,0
+92233.80c inelastic,0
+92233.80c fission,0
+92233.80c n2n,0
+92233.80c ngamma,0
+92233.80c np,0
+92233.80c nd,0
+92233.80c nt,0
+92233.80c n3he,0
+92233.80c nalpha,0
+92233.80c total nu,0
+92233.80c fission chi,0
+41093.80c elastic,0
+41093.80c inelastic,0
+41093.80c fission,0
+41093.80c n2n,0
+41093.80c ngamma,0
+41093.80c np,0
+41093.80c nd,0
+41093.80c nt,0
+41093.80c n3he,0
+41093.80c nalpha,0
+41093.80c total nu,0
+41093.80c fission chi,0
+50112.80c elastic,0
+50112.80c inelastic,0
+50112.80c fission,0
+50112.80c n2n,0
+50112.80c ngamma,0
+50112.80c np,0
+50112.80c nd,0
+50112.80c nt,0
+50112.80c n3he,0
+50112.80c nalpha,0
+50112.80c total nu,0
+50112.80c fission chi,0
+50114.80c elastic,0
+50114.80c inelastic,0
+50114.80c fission,0
+50114.80c n2n,0
+50114.80c ngamma,0
+50114.80c np,0
+50114.80c nd,0
+50114.80c nt,0
+50114.80c n3he,0
+50114.80c nalpha,0
+50114.80c total nu,0
+50114.80c fission chi,0
+50115.80c elastic,0
+50115.80c inelastic,0
+50115.80c fission,0
+50115.80c n2n,0
+50115.80c ngamma,0
+50115.80c np,0
+50115.80c nd,0
+50115.80c nt,0
+50115.80c n3he,0
+50115.80c nalpha,0
+50115.80c total nu,0
+50115.80c fission chi,0
+50116.80c elastic,0
+50116.80c inelastic,0
+50116.80c fission,0
+50116.80c n2n,0
+50116.80c ngamma,0
+50116.80c np,0
+50116.80c nd,0
+50116.80c nt,0
+50116.80c n3he,0
+50116.80c nalpha,0
+50116.80c total nu,0
+50116.80c fission chi,0
+50117.80c elastic,0
+50117.80c inelastic,0
+50117.80c fission,0
+50117.80c n2n,0
+50117.80c ngamma,0
+50117.80c np,0
+50117.80c nd,0
+50117.80c nt,0
+50117.80c n3he,0
+50117.80c nalpha,0
+50117.80c total nu,0
+50117.80c fission chi,0
+50118.80c elastic,0
+50118.80c inelastic,0
+50118.80c fission,0
+50118.80c n2n,0
+50118.80c ngamma,0
+50118.80c np,0
+50118.80c nd,0
+50118.80c nt,0
+50118.80c n3he,0
+50118.80c nalpha,0
+50118.80c total nu,0
+50118.80c fission chi,0
+50119.80c elastic,0
+50119.80c inelastic,0
+50119.80c fission,0
+50119.80c n2n,0
+50119.80c ngamma,0
+50119.80c np,0
+50119.80c nd,0
+50119.80c nt,0
+50119.80c n3he,0
+50119.80c nalpha,0
+50119.80c total nu,0
+50119.80c fission chi,0
+50120.80c elastic,0
+50120.80c inelastic,0
+50120.80c fission,0
+50120.80c n2n,0
+50120.80c ngamma,0
+50120.80c np,0
+50120.80c nd,0
+50120.80c nt,0
+50120.80c n3he,0
+50120.80c nalpha,0
+50120.80c total nu,0
+50120.80c fission chi,0
+50122.80c elastic,0
+50122.80c inelastic,0
+50122.80c fission,0
+50122.80c n2n,0
+50122.80c ngamma,0
+50122.80c np,0
+50122.80c nd,0
+50122.80c nt,0
+50122.80c n3he,0
+50122.80c nalpha,0
+50122.80c total nu,0
+50122.80c fission chi,0
+50124.80c elastic,0
+50124.80c inelastic,0
+50124.80c fission,0
+50124.80c n2n,0
+50124.80c ngamma,0
+50124.80c np,0
+50124.80c nd,0
+50124.80c nt,0
+50124.80c n3he,0
+50124.80c nalpha,0
+50124.80c total nu,0
+50124.80c fission chi,0
+19039.80c elastic,0
+19039.80c inelastic,0
+19039.80c fission,0
+19039.80c n2n,0
+19039.80c ngamma,0
+19039.80c np,0
+19039.80c nd,0
+19039.80c nt,0
+19039.80c n3he,0
+19039.80c nalpha,0
+19039.80c total nu,0
+19039.80c fission chi,0
+19040.80c elastic,0
+19040.80c inelastic,0
+19040.80c fission,0
+19040.80c n2n,0
+19040.80c ngamma,0
+19040.80c np,0
+19040.80c nd,0
+19040.80c nt,0
+19040.80c n3he,0
+19040.80c nalpha,0
+19040.80c total nu,0
+19040.80c fission chi,0
+19041.80c elastic,0
+19041.80c inelastic,0
+19041.80c fission,0
+19041.80c n2n,0
+19041.80c ngamma,0
+19041.80c np,0
+19041.80c nd,0
+19041.80c nt,0
+19041.80c n3he,0
+19041.80c nalpha,0
+19041.80c total nu,0
+19041.80c fission chi,0
+33075.80c elastic,0
+33075.80c inelastic,0
+33075.80c fission,0
+33075.80c n2n,0
+33075.80c ngamma,0
+33075.80c np,0
+33075.80c nd,0
+33075.80c nt,0
+33075.80c n3he,0
+33075.80c nalpha,0
+33075.80c total nu,0
+33075.80c fission chi,0
+72174.80c elastic,0
+72174.80c inelastic,0
+72174.80c fission,0
+72174.80c n2n,0
+72174.80c ngamma,0
+72174.80c np,0
+72174.80c nd,0
+72174.80c nt,0
+72174.80c n3he,0
+72174.80c nalpha,0
+72174.80c total nu,0
+72174.80c fission chi,0
+72176.80c elastic,0
+72176.80c inelastic,0
+72176.80c fission,0
+72176.80c n2n,0
+72176.80c ngamma,0
+72176.80c np,0
+72176.80c nd,0
+72176.80c nt,0
+72176.80c n3he,0
+72176.80c nalpha,0
+72176.80c total nu,0
+72176.80c fission chi,0
+72177.80c elastic,0
+72177.80c inelastic,0
+72177.80c fission,0
+72177.80c n2n,0
+72177.80c ngamma,0
+72177.80c np,0
+72177.80c nd,0
+72177.80c nt,0
+72177.80c n3he,0
+72177.80c nalpha,0
+72177.80c total nu,0
+72177.80c fission chi,0
+72178.80c elastic,0
+72178.80c inelastic,0
+72178.80c fission,0
+72178.80c n2n,0
+72178.80c ngamma,0
+72178.80c np,0
+72178.80c nd,0
+72178.80c nt,0
+72178.80c n3he,0
+72178.80c nalpha,0
+72178.80c total nu,0
+72178.80c fission chi,0
+72179.80c elastic,0
+72179.80c inelastic,0
+72179.80c fission,0
+72179.80c n2n,0
+72179.80c ngamma,0
+72179.80c np,0
+72179.80c nd,0
+72179.80c nt,0
+72179.80c n3he,0
+72179.80c nalpha,0
+72179.80c total nu,0
+72179.80c fission chi,0
+72180.80c elastic,0
+72180.80c inelastic,0
+72180.80c fission,0
+72180.80c n2n,0
+72180.80c ngamma,0
+72180.80c np,0
+72180.80c nd,0
+72180.80c nt,0
+72180.80c n3he,0
+72180.80c nalpha,0
+72180.80c total nu,0
+72180.80c fission chi,0
+45103.80c elastic,0
+45103.80c inelastic,0
+45103.80c fission,0
+45103.80c n2n,0
+45103.80c ngamma,0
+45103.80c np,0
+45103.80c nd,0
+45103.80c nt,0
+45103.80c n3he,0
+45103.80c nalpha,0
+45103.80c total nu,0
+45103.80c fission chi,0
+94238.80c elastic,0
+94238.80c inelastic,0
+94238.80c fission,0
+94238.80c n2n,0
+94238.80c ngamma,0
+94238.80c np,0
+94238.80c nd,0
+94238.80c nt,0
+94238.80c n3he,0
+94238.80c nalpha,0
+94238.80c total nu,0
+94238.80c fission chi,0
+94239.80c elastic,0
+94239.80c inelastic,0
+94239.80c fission,0
+94239.80c n2n,0
+94239.80c ngamma,0
+94239.80c np,0
+94239.80c nd,0
+94239.80c nt,0
+94239.80c n3he,0
+94239.80c nalpha,0
+94239.80c total nu,0
+94239.80c fission chi,0
+94240.80c elastic,0
+94240.80c inelastic,0
+94240.80c fission,0
+94240.80c n2n,0
+94240.80c ngamma,0
+94240.80c np,0
+94240.80c nd,0
+94240.80c nt,0
+94240.80c n3he,0
+94240.80c nalpha,0
+94240.80c total nu,0
+94240.80c fission chi,0
+94241.80c elastic,0
+94241.80c inelastic,0
+94241.80c fission,0
+94241.80c n2n,0
+94241.80c ngamma,0
+94241.80c np,0
+94241.80c nd,0
+94241.80c nt,0
+94241.80c n3he,0
+94241.80c nalpha,0
+94241.80c total nu,0
+94241.80c fission chi,0
+94242.80c elastic,0
+94242.80c inelastic,0
+94242.80c fission,0
+94242.80c n2n,0
+94242.80c ngamma,0
+94242.80c np,0
+94242.80c nd,0
+94242.80c nt,0
+94242.80c n3he,0
+94242.80c nalpha,0
+94242.80c total nu,0
+94242.80c fission chi,0
+95241.80c elastic,0
+95241.80c inelastic,0
+95241.80c fission,0
+95241.80c n2n,0
+95241.80c ngamma,0
+95241.80c np,0
+95241.80c nd,0
+95241.80c nt,0
+95241.80c n3he,0
+95241.80c nalpha,0
+95241.80c total nu,0
+95241.80c fission chi,0
+38084.80c elastic,0
+38084.80c inelastic,0
+38084.80c fission,0
+38084.80c n2n,0
+38084.80c ngamma,0
+38084.80c np,0
+38084.80c nd,0
+38084.80c nt,0
+38084.80c n3he,0
+38084.80c nalpha,0
+38084.80c total nu,0
+38084.80c fission chi,0
+38086.80c elastic,0
+38086.80c inelastic,0
+38086.80c fission,0
+38086.80c n2n,0
+38086.80c ngamma,0
+38086.80c np,0
+38086.80c nd,0
+38086.80c nt,0
+38086.80c n3he,0
+38086.80c nalpha,0
+38086.80c total nu,0
+38086.80c fission chi,0
+38087.80c elastic,0
+38087.80c inelastic,0
+38087.80c fission,0
+38087.80c n2n,0
+38087.80c ngamma,0
+38087.80c np,0
+38087.80c nd,0
+38087.80c nt,0
+38087.80c n3he,0
+38087.80c nalpha,0
+38087.80c total nu,0
+38087.80c fission chi,0
+38088.80c elastic,0
+38088.80c inelastic,0
+38088.80c fission,0
+38088.80c n2n,0
+38088.80c ngamma,0
+38088.80c np,0
+38088.80c nd,0
+38088.80c nt,0
+38088.80c n3he,0
+38088.80c nalpha,0
+38088.80c total nu,0
+38088.80c fission chi,0
+56130.80c elastic,0
+56130.80c inelastic,0
+56130.80c fission,0
+56130.80c n2n,0
+56130.80c ngamma,0
+56130.80c np,0
+56130.80c nd,0
+56130.80c nt,0
+56130.80c n3he,0
+56130.80c nalpha,0
+56130.80c total nu,0
+56130.80c fission chi,0
+56132.80c elastic,0
+56132.80c inelastic,0
+56132.80c fission,0
+56132.80c n2n,0
+56132.80c ngamma,0
+56132.80c np,0
+56132.80c nd,0
+56132.80c nt,0
+56132.80c n3he,0
+56132.80c nalpha,0
+56132.80c total nu,0
+56132.80c fission chi,0
+56134.80c elastic,0
+56134.80c inelastic,0
+56134.80c fission,0
+56134.80c n2n,0
+56134.80c ngamma,0
+56134.80c np,0
+56134.80c nd,0
+56134.80c nt,0
+56134.80c n3he,0
+56134.80c nalpha,0
+56134.80c total nu,0
+56134.80c fission chi,0
+56135.80c elastic,0
+56135.80c inelastic,0
+56135.80c fission,0
+56135.80c n2n,0
+56135.80c ngamma,0
+56135.80c np,0
+56135.80c nd,0
+56135.80c nt,0
+56135.80c n3he,0
+56135.80c nalpha,0
+56135.80c total nu,0
+56135.80c fission chi,0
+56136.80c elastic,0
+56136.80c inelastic,0
+56136.80c fission,0
+56136.80c n2n,0
+56136.80c ngamma,0
+56136.80c np,0
+56136.80c nd,0
+56136.80c nt,0
+56136.80c n3he,0
+56136.80c nalpha,0
+56136.80c total nu,0
+56136.80c fission chi,0
+56137.80c elastic,0
+56137.80c inelastic,0
+56137.80c fission,0
+56137.80c n2n,0
+56137.80c ngamma,0
+56137.80c np,0
+56137.80c nd,0
+56137.80c nt,0
+56137.80c n3he,0
+56137.80c nalpha,0
+56137.80c total nu,0
+56137.80c fission chi,0
+56138.80c elastic,0
+56138.80c inelastic,0
+56138.80c fission,0
+56138.80c n2n,0
+56138.80c ngamma,0
+56138.80c np,0
+56138.80c nd,0
+56138.80c nt,0
+56138.80c n3he,0
+56138.80c nalpha,0
+56138.80c total nu,0
+56138.80c fission chi,0
+49113.80c elastic,0
+49113.80c inelastic,0
+49113.80c fission,0
+49113.80c n2n,0
+49113.80c ngamma,0
+49113.80c np,0
+49113.80c nd,0
+49113.80c nt,0
+49113.80c n3he,0
+49113.80c nalpha,0
+49113.80c total nu,0
+49113.80c fission chi,0
+49115.80c elastic,0
+49115.80c inelastic,0
+49115.80c fission,0
+49115.80c n2n,0
+49115.80c ngamma,0
+49115.80c np,0
+49115.80c nd,0
+49115.80c nt,0
+49115.80c n3he,0
+49115.80c nalpha,0
+49115.80c total nu,0
+49115.80c fission chi,0
+sio2.30t elastic,0
+sio2.30t inelastic,0
+sio2.30t fission,0
+sio2.30t n2n,0
+sio2.30t ngamma,0
+sio2.30t np,0
+sio2.30t nd,0
+sio2.30t nt,0
+sio2.30t n3he,0
+sio2.30t nalpha,0
+sio2.30t total nu,0
+sio2.30t fission chi,0
+al27.22t elastic,0
+al27.22t inelastic,0
+al27.22t fission,0
+al27.22t n2n,0
+al27.22t ngamma,0
+al27.22t np,0
+al27.22t nd,0
+al27.22t nt,0
+al27.22t n3he,0
+al27.22t nalpha,0
+al27.22t total nu,0
+al27.22t fission chi,0
+90232.80c elastic,0
+90232.80c inelastic,0
+90232.80c fission,0
+90232.80c n2n,0
+90232.80c ngamma,0
+90232.80c np,0
+90232.80c nd,0
+90232.80c nt,0
+90232.80c n3he,0
+90232.80c nalpha,0
+90232.80c total nu,0
+90232.80c fission chi,0
+73181.80c elastic,0
+73181.80c inelastic,0
+73181.80c fission,0
+73181.80c n2n,0
+73181.80c ngamma,0
+73181.80c np,0
+73181.80c nd,0
+73181.80c nt,0
+73181.80c n3he,0
+73181.80c nalpha,0
+73181.80c total nu,0
+73181.80c fission chi,0
+92232.80c elastic,0
+92232.80c inelastic,0
+92232.80c fission,0
+92232.80c n2n,0
+92232.80c ngamma,0
+92232.80c np,0
+92232.80c nd,0
+92232.80c nt,0
+92232.80c n3he,0
+92232.80c nalpha,0
+92232.80c total nu,0
+92232.80c fission chi,0
