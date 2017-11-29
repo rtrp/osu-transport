@@ -5,11 +5,10 @@ author: Doug, Jackson, & Tony
 ---
 
 # Upcoming Conferences
-* October 29-November 2, 2017 - [2017 American Nuclear Society Winter Meeting](http://www.ans.org/meetings/c_1)
 * June 17-21, 2017 - [2018 American Nuclear Society Annual Meeting](http://www.ans.org/meetings/file/766)
   - Summaries due January 12, 2018
-* January, 2018 - 2018 Oregon State University Student Winter Conference
-  - Abstracts due December, 2017
+* January 27, 2018 - [2018 Oregon State University Student Winter Conference](http://groups.engr.oregonstate.edu/ANS/content/annual-winter-conference-0)
+  - Abstracts due December 8, 2017
 * February 8, 2018 - [2018 Graduate Research Showcase](http://engineering.oregonstate.edu/2018-graduate-research-showcase)
   - Register by November 20, 2017
 * April 5-7, 2018 - [2018 American Nuclear Society Student Conference](http://www.ansstudentconference2018.com/)
@@ -17,13 +16,8 @@ author: Doug, Jackson, & Tony
 
 
 # Trainings and Workshops
-* October 17: 2:00 - 4:00 pm - [Introduction to Git](http://guides.library.oregonstate.edu/Library-Workshops-for-Grad-Students-Faculty)
+* December 11: 1:00 - 3:00 pm - [Introduction to Git](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_cAdzoWRwQWF5rVP)
   - Registration required
-* October 18: 4:00 - 5:00 pm - [Showcasing Your Research](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_4HCFqK9PaIqfIvH)
-* Octboer 23: 4:00 - 5:00 pm - [Intro to Zotero: Source Citation](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_8IJaSpJGGi8jbmY)
-* October 23: 5:00 - 6:00 pm - [Intermediate/Advanced Zotero](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_869CvPKnJfTO6Fu)
-* October 31: 3:00 - 4:00 pm - [Preservation of Data: Storage/Control](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_cvGraQiUBGff6Fn)
-* October 31: 4:00 - 5:00 pm - [Preservation of Data: Organization/Metadata](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_cvGraQiUBGff6Fn)
 
 
 # Community Outreach
