@@ -8,7 +8,7 @@ Jackson R. Harter
 
 <img src="{{ site.url }}users/harterj/images/jrhIdaho.jpg" height="300" width="300">
 
-I am in my 2nd year as a PhD student at Oregon State University. My advisor is Todd Palmer and my co-advisor is Alex Greaney[^1]. I am also a member of the  <a href="http://alexgreaney.com/" target ="blank">Computational Materials Group</a> at UC Riverside.
+I am in my 2nd year as a PhD student at Oregon State University. My advisor is Todd Palmer and my co-advisor is Alex Greaney[^1]. I am a member of the <a href="http://alexgreaney.com/" target ="blank">Computational Materials Group</a> at UC Riverside, and the President of the student section of the American Nuclear Society here at OSU.
 
 Email: <a href="mailto:harterj@oregonstate.edu" target="top"> harterj@oregonstate.edu </a>  
 You can find my resume [here](./files/jacksonResume.pdf).
@@ -17,8 +17,7 @@ You can find my resume [here](./files/jacksonResume.pdf).
 
 ## Research areas
 We are interested in simulating deterministic phonon transport using the code Rattlesnake (written in the
-<a href="http://mooseframework.org/" target="blank">MOOSE</a> framework) to predict thermal conductivity in nuclear fuels operating at high temperatures with isotopic defects and evolving microstructures. We are developing a framework to bridge the gap between the atomistic and engineering scale, and collaborate with <a href="http://www.engr.ucr.edu/faculty/me/AlexanderGreaney.html" target="blank">Dr. Alex Greaney</a> of UC Riverside and <a href="https://github.com/dschwen" target="blank">Daniel Schwen</a> of
-<a href="https://www.inl.gov/" target="blank">Idaho National Laboratory</a>.
+<a href="http://mooseframework.org/" target="blank">MOOSE</a> framework) to predict thermal conductivity in nuclear fuels operating at high temperatures with isotopic defects and evolving microstructures. We are developing a framework to bridge the gap between the atomistic and engineering scale, and collaborate with <a href="http://www.engr.ucr.edu/faculty/me/AlexanderGreaney.html" target="blank">Dr. Alex Greaney</a> and his research group at UC Riverside.
 
 
 We have shown Rattlesnake to be an effective and efficient engine for simulating homogeneous phonon transport; it solves the frequency independent equation of phonon radiative transfer in the Self-Adjoint Angular Flux formulation using the single mode relaxation time approximation. We are interested in phonon transport at high temperatures and therefore must implement multifrequency transport to model these physics effectively, in addition to considering contributions from anharmonic three- and four-phonon processes.
@@ -43,13 +42,12 @@ We have previously developed the capability of phonon transport in the gray appr
 ***
 
 ### Upcoming conferences
-1.  25th International Conference on Transport Theory [ICTT 2017](https://ictt-2017.llnl.gov/) (Monterey, CA)
-2.  NuMat 2018: The Nuclear Materials Conference [NuMat 2018](https://www.elsevier.com/events/conferences/the-nuclear-materials-conference) (Seattle, WA)
+1.  NuMat 2018: The Nuclear Materials Conference [NuMat 2018](https://www.elsevier.com/events/conferences/the-nuclear-materials-conference) (Seattle, WA)
 
 ***
 
 ### Publications
-* J. HARTER, T. PALMER, and P.A. GREANEY, "Deterministic Phonon Transport Predictions of Thermal Conductivity in Uranium Dioxide with Xenon Impurities", *Journal of Heat Transfer*, **in review**.
+* J. HARTER, L. DE SOUSA OLIVEIRA, A. TRUSZKOWSKA, T. PALMER, and P.A. GREANEY, "Deterministic Phonon Transport Predictions of Thermal Conductivity in Uranium Dioxide with Xenon Impurities", *J. Heat Transfer*. 2017; HT-16-1523; doi: [10.1115/1.4038554](http://heattransfer.asmedigitalcollection.asme.org/article.aspx?articleid=2664747).
 
 * J. HARTER, P. A. GREANEY, and T. PALMER, "Quantifying the Uncertainty in Deterministic Phonon Transport Calculations of Thermal Conductivity using Polynomial Chaos Expansions", *Trans. Am. Nucl. Soc*, **115**, 611-614 (2016).
 
