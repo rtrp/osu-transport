@@ -20,7 +20,7 @@ Some software available through [Citrix](http://it.engineering.oregonstate.edu/c
 
 
 ## Simulation Tools
-A brief and non-exhaustive list of software NSE has access to. Please note that some of these are export controlled software and require proper permissions. If you need access to them, just ask.
+A brief and non-exhaustive list of software NSE has access to. Please note that some of these are export controlled software and require proper permissions. If you need access to them, just ask. ([OSU VPN](http://oregonstate.edu/helpdocs/network-and-phone/virtual-private-network-vpn), [Access network drive](https://it.engineering.oregonstate.edu/accessing-engineering-file-space-using-windows-file-sharing))
 
 ##### [Rogue](https://it.engineering.oregonstate.edu/nuclear-science-and-engineering-computing-support) (NSE Linux Workstation)
 * [Attila](https://www.varian.com/x-ray-imaging-components/products/security-industrial-imaging/attila-software-suite) - Radiation Transport
