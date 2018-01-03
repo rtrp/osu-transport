@@ -25,7 +25,7 @@ A brief and non-exhaustive list of software NSE has access to. Please note that 
 ##### [Rogue](https://it.engineering.oregonstate.edu/nuclear-science-and-engineering-computing-support) (NSE Linux Workstation)
 * [Attila](https://www.varian.com/x-ray-imaging-components/products/security-industrial-imaging/attila-software-suite) - Radiation Transport
 * [CASMO/SIMULATE](http://www.studsvik.com/sv/Verksamhetsomraden/Bransle--och-materialteknik/Programvara-for-bransleoptimering/In-Core-Fuel-Management/CASMO5/) - LWR Lattice Physics and Fuel Management
-* [MCNP 5/6/X](https://mcnp.lanl.gov/) - General Monte Carlo Transport
+* [MCNP 5/6/X](https://mcnp.lanl.gov/) - General Monte Carlo Transport ([getting started](https://it.engineering.oregonstate.edu/nuclear-science-and-engineering-computing-support))
 * [MOOSE](http://mooseframework.com/) - General Purpose PDE Solver
 * [OpenMC](https://mit-crpg.github.io/openmc/)  - Monte Carlo Transport focused on neutron criticality problems
 * [PARCS](http://www.nrc.gov/about-nrc/regulatory/research/safetycodes.html) - Reactor Kinetics
@@ -35,7 +35,7 @@ A brief and non-exhaustive list of software NSE has access to. Please note that 
 ## Math Tools
 * [MATLAB](http://it.engineering.oregonstate.edu/site-license-matlab)
 * [MFEM](mfem.org) - finite element library
-* [Mathematica and Wolfram Alpha Pro](http://is.oregonstate.edu/service/software/mathematica) - 
+* [Mathematica and Wolfram Alpha Pro](http://is.oregonstate.edu/service/software/mathematica) -
 
 ## Documentation Tools
 * [LaTeX](https://www.latex-project.org/)
