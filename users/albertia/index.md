@@ -26,14 +26,15 @@ You can reach me via email at albertia@oregonstate.edu
 4. Nuclear fuels analysis
 
 ### Conference Attendance
-1. [ICTT 2017](https://ictt-2017.llnl.gov/) (Monterey, CA) - [Presentation](./files/ICTT2017-Alberti)
+1. [ICTT 2017](https://ictt-2017.llnl.gov/) (Monterey, CA)
 2. [SIAM DR17](http://www.siam.org/meetings/dr17/) (Pittsburgh, PA) - [Poster](./files/SIAM_Poster) presenter
-3. PHYSOR 2016 (Sun Valley, ID) - Presentation
+3. PHYSOR 2016 (Sun Valley, ID)
 
 ### Select Publications and Presentations
-1. A. Alberti. “Steady State Modeling of the Minimum Critical Core of the Transient Reactor Test Facility”, Masters of Science Thesis, Oregon State University, Corvallis, Oregon, October 2015.
+1. [ICTT 2017, Presentation](./files/ICTT2017-Alberti.pdf)
 2. A. Alberti, T. Palmer, J. Ortensi, and M. DeHart, Calculation of the TREAT Minimum Critical Core Using MAMMOTH and SERPENT. PHYSOR, Sun Valley, Idaho 2016, American Nuclear Society, 2016.
 3. [PHYSOR 2016, Presentation](./files/PHYSOR16_V01-alberti.pdf)
+4. A. Alberti. “Steady State Modeling of the Minimum Critical Core of the Transient Reactor Test Facility”, Masters of Science Thesis, Oregon State University, Corvallis, Oregon, October 2015.
 
 <!-- ### Other Interests
 Rock climbing, frontcountry and backcountry camping, hiking, grilling, off roading, and general outdoors adventures.  Music. Lots of music. I'm a beginner in woodworking and digital photography and enjoy doing minor auto repairs on my '99 Toyota 4Runner. I also enjoy casual sport shooting. Traveling and just generally exploring new places is also something I genuinely enjoy doing. -->
