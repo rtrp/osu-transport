@@ -6,7 +6,7 @@ author: Nick Whitman
 Nick Whitman
 ================================
 
-<img src="{{ site.url }}users/whitmann/images/headshot.jpg" height="449" width="449">
+<img src="{{ site.url }}users/whitmann/images/headshot.jpg" height="250" width="250">
 
 Email: <a href="mailto:whitmann@oregonstate.edu" target="top"> whitmann@oregonstate.edu </a>
 
