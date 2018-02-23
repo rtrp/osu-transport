@@ -11,7 +11,7 @@ Jackson R. Harter
 I am in my 2nd year as a PhD student at Oregon State University. My advisor is Todd Palmer and my co-advisor is Alex Greaney[^1]. I am a member of the <a href="http://alexgreaney.com/" target ="blank">Computational Materials Group</a> at UC Riverside, and the President of the student section of the American Nuclear Society here at OSU.
 
 Email: <a href="mailto:harterj@oregonstate.edu" target="top"> harterj@oregonstate.edu </a>  
-You can find my resume [here](./files/jacksonResume.pdf).
+You can find my resume [here](./files/jacksonResumePublic.pdf).
 
 ***
 
@@ -37,17 +37,17 @@ We have previously developed the capability of phonon transport in the gray appr
   * Thermal boundary resistance physics
   * Frequency dependent phonon transport
   * Convergence acceleration of phonon transport simulations
-  * Simulating anharmonic interaction between phonons
+  * Phonon-phonon scattering
 
 ***
 
-### Upcoming conferences
+<!-- ### Upcoming conferences
 1.  NuMat 2018: The Nuclear Materials Conference [NuMat 2018](https://www.elsevier.com/events/conferences/the-nuclear-materials-conference) (Seattle, WA)
 
 ***
-
+ -->
 ### Publications
-* J. HARTER, L. DE SOUSA OLIVEIRA, A. TRUSZKOWSKA, T. PALMER, and P.A. GREANEY, "Deterministic Phonon Transport Predictions of Thermal Conductivity in Uranium Dioxide with Xenon Impurities", *J. Heat Transfer*. 2017; HT-16-1523; doi: [10.1115/1.4038554](http://heattransfer.asmedigitalcollection.asme.org/article.aspx?articleid=2664747).
+* J. HARTER, L. DE SOUSA OLIVEIRA, A. TRUSZKOWSKA, T. PALMER, and P.A. GREANEY, "Deterministic Phonon Transport Predictions of Thermal Conductivity in Uranium Dioxide with Xenon Impurities", ASME. *J. Heat Transfer*, **140**(5), 051301-051301-11 (2018). doi: [10.1115/1.4038554](http://heattransfer.asmedigitalcollection.asme.org/article.aspx?articleID=2664747).
 
 * J. HARTER, P. A. GREANEY, and T. PALMER, "Quantifying the Uncertainty in Deterministic Phonon Transport Calculations of Thermal Conductivity using Polynomial Chaos Expansions", *Trans. Am. Nucl. Soc*, **115**, 611-614 (2016).
 
@@ -69,7 +69,7 @@ We have previously developed the capability of phonon transport in the gray appr
 ***
 
 ### Personal interests
-I love Oregon and the west coast. I'm into fly fishing, yoga, shooting guns, cooking, H.P. Lovecraft, old science fiction, rare cooking/science books, computer games, board games, and have many more interests.
+I love Oregon and the west coast. I'm into fly fishing, yoga, shooting guns, cooking, H.P. Lovecraft, old science fiction, rare cooking/science books, computer games, board games, and much more.
 
 ***
 
