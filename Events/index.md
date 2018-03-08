@@ -8,7 +8,7 @@ author: Doug, Jackson, & Tony
 * April 5-7, 2018 - [2018 American Nuclear Society Student Conference](http://www.ansstudentconference2018.com/)
 * June 17-21, 2018 - [2018 ANS Annual Meeting](http://ansannual.org/)
   - Philadelphia, PA
-* June 9-13, 2019 - [2019 ANS Annual Meeting](http://ansannual.org/)
+* June 9-13, 2019 - 2019 ANS Annual Meeting
   - Minneapolis, MN
 
 
