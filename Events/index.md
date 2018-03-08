@@ -5,19 +5,19 @@ author: Doug, Jackson, & Tony
 ---
 
 # Upcoming Conferences
-* June 17-21, 2017 - [2018 American Nuclear Society Annual Meeting](http://www.ans.org/meetings/file/766)
-  - Summaries due January 12, 2018
-* January 27, 2018 - [2018 Oregon State University Student Winter Conference](http://groups.engr.oregonstate.edu/ANS/content/annual-winter-conference-0)
-  - Abstracts due December 8, 2017
-* February 8, 2018 - [2018 Graduate Research Showcase](http://engineering.oregonstate.edu/2018-graduate-research-showcase)
-  - Register by November 20, 2017
 * April 5-7, 2018 - [2018 American Nuclear Society Student Conference](http://www.ansstudentconference2018.com/)
-  - Abstracts due (typically January)
+* June 17-21, 2018 - [2018 ANS Annual Meeting](http://ansannual.org/)
+  - Philadelphia, PA
+* June 9-13, 2019 - [2019 ANS Annual Meeting](http://ansannual.org/)
+  - Minneapolis, MN
 
 
 # Trainings and Workshops
-* December 11: 1:00 - 3:00 pm - [Introduction to Git](https://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_cAdzoWRwQWF5rVP)
+* April 11: 1:00 - 3:00 pm - [Introduction to Git](http://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_cAdzoWRwQWF5rVP)
   - Registration required
+* April 16: 2:00 - 3:30 pm - [Introduction to LaTeX](http://osuvalleylibrary.az1.qualtrics.com/SE/?SID=SV_aaxrOxkiZT2ymYB)
+  - Registration required
+* [Library Workshops for Grad Students & Faculty](https://guides.library.oregonstate.edu/Library-Workshops-for-Grad-Students-Faculty)
 
 
 # Community Outreach
@@ -43,8 +43,10 @@ The First Annual [Walk for T1D: For a world without type 1 diabetes](http://www2
 
 * [Season 1: Episode 5](http://engineering.oregonstate.edu/episode-5-odds-ends)
 
-  The Monte Carlo method conjures images of a suave gambler beating the house in Monaco. In reality, Monte Carlo methods are computational algorithms that use randomness to solve problems. 
+  The Monte Carlo method conjures images of a suave gambler beating the house in Monaco. In reality, Monte Carlo methods are computational algorithms that use randomness to solve problems.
 
   In this episode we hear from [Todd Palmer](http://ne.oregonstate.edu/todd-s-palmer), professor of nuclear engineering, about his use of Monte Carlo simulations in nuclear fuel research. In addition, find out how [Haizhong Wang](http://cce.oregonstate.edu/wang), assistant professor in transportation engineering, is incorporating Monte Carlo to model tsunami evacuation routes in the Cascadia Subduction Zone.
-  
+
 # Upcoming Defenses
+* [Aaron Tamashiro](https://rtrp.github.io/osu-transport/users/tamashia/)
+  - TBD
