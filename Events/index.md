@@ -49,8 +49,8 @@ The First Annual [Walk for T1D: For a world without type 1 diabetes](http://www2
 
 # Upcoming Defenses
 * [Doug Woods](https://rtrp.github.io/osu-transport/users/woodsdou/)
-  - Date: June 4
+  - Date: June 4, 2018
   - Time: 2 pm
-  - Location: TBD
+  - Location: Radiation Center C124
 * [Aaron Tamashiro](https://rtrp.github.io/osu-transport/users/tamashia/)
   - TBD
