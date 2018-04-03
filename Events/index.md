@@ -48,5 +48,9 @@ The First Annual [Walk for T1D: For a world without type 1 diabetes](http://www2
   In this episode we hear from [Todd Palmer](http://ne.oregonstate.edu/todd-s-palmer), professor of nuclear engineering, about his use of Monte Carlo simulations in nuclear fuel research. In addition, find out how [Haizhong Wang](http://cce.oregonstate.edu/wang), assistant professor in transportation engineering, is incorporating Monte Carlo to model tsunami evacuation routes in the Cascadia Subduction Zone.
 
 # Upcoming Defenses
+* [Doug Woods](https://rtrp.github.io/osu-transport/users/woodsdou/)
+  - Date: June 4
+  - Time: 2 pm
+  - Location: TBD
 * [Aaron Tamashiro](https://rtrp.github.io/osu-transport/users/tamashia/)
   - TBD
