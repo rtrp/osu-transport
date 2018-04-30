@@ -1,4 +1,5 @@
 # Aaron James Reynolds
+
 <img src="{{ site.url }}users/reynolaa/images/gitpic.jpg" height="300">
 
 [Resume](./files/Resume_AJR.pdf)
