@@ -8,8 +8,6 @@
 I am a graduate student working in the Radiation Transport and Reactor Physics group at Oregon State University.
 I focus on the development of computational tools for Molten Salt Reactors. Dr. Todd S. Palmer is my advisor.
 
-
-
 ## Research Interests
 
 Molten salt reactors (MSRs) are a class of next-generation reactor concepts that benefits from a large negative
