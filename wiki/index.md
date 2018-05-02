@@ -14,6 +14,7 @@ Some software available through [Citrix](http://it.engineering.oregonstate.edu/c
 * [C++](http://www.learncpp.com/)
 * [Python3](https://docs.python.org/3/), [Python2](https://docs.python.org/2/)
 * [MATLAB](http://www.mathworks.com/help/matlab/)
+  - [FREE - Matlab’s Online Training Courses](https://matlabacademy.mathworks.com/)
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - what this website was written in ::
 * And most importantly.... [Google](https://www.google.com/)
   -  Leads to StackExchange mostly. *Can* be a great reference and a cool place to ask the programming community questions.
