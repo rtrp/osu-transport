@@ -4,6 +4,18 @@ layout: default
 author: Doug, Jackson, & Tony
 ---
 
+# Upcoming Defenses
+* [Jackson Keppen](https://rtrp.github.io/osu-transport/users/keppenj/)
+- Date: May 14, 2018
+- Time: 2 pm
+- Location: Learning Innovation Center 360
+* [Doug Woods](https://rtrp.github.io/osu-transport/users/woodsdou/)
+- Date: June 4, 2018
+- Time: 2 pm
+- Location: Radiation Center C124
+* [Aaron Tamashiro](https://rtrp.github.io/osu-transport/users/tamashia/)
+- TBD
+
 # Upcoming Conferences
 * April 5-7, 2018 - [2018 American Nuclear Society Student Conference](http://www.ansstudentconference2018.com/)
 * June 17-21, 2018 - [2018 ANS Annual Meeting](http://ansannual.org/)
@@ -46,11 +58,3 @@ The First Annual [Walk for T1D: For a world without type 1 diabetes](http://www2
   The Monte Carlo method conjures images of a suave gambler beating the house in Monaco. In reality, Monte Carlo methods are computational algorithms that use randomness to solve problems.
 
   In this episode we hear from [Todd Palmer](http://ne.oregonstate.edu/todd-s-palmer), professor of nuclear engineering, about his use of Monte Carlo simulations in nuclear fuel research. In addition, find out how [Haizhong Wang](http://cce.oregonstate.edu/wang), assistant professor in transportation engineering, is incorporating Monte Carlo to model tsunami evacuation routes in the Cascadia Subduction Zone.
-
-# Upcoming Defenses
-* [Doug Woods](https://rtrp.github.io/osu-transport/users/woodsdou/)
-  - Date: June 4, 2018
-  - Time: 2 pm
-  - Location: Radiation Center C124
-* [Aaron Tamashiro](https://rtrp.github.io/osu-transport/users/tamashia/)
-  - TBD
