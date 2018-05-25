@@ -1,4 +1,10 @@
-# Aaron James Reynolds
+---
+title: Aaron-Personal
+layout: default
+author: Aaron James Reynolds
+---
+Aaron James Reynolds
+==============
 
 <img src="{{ site.url }}users/reynolaa/images/gitpic.jpg" height="300">
 
