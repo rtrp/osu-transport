@@ -5,30 +5,25 @@ author: Doug, Jackson, & Tony
 ---
 
 # Upcoming Defenses
-* [Jackson Keppen](https://rtrp.github.io/osu-transport/users/keppenj/)
-- Date: May 14, 2018
-- Time: 2 pm
-- Location: Learning Innovation Center 360
 * [Doug Woods](https://rtrp.github.io/osu-transport/users/woodsdou/)
-- Date: June 4, 2018
-- Time: 2 pm
-- Location: Radiation Center C124
+  - Date: June 4, 2018
+  - Time: 2 pm
+  - Location: Radiation Center C124
 * [Aaron Tamashiro](https://rtrp.github.io/osu-transport/users/tamashia/)
-- TBD
+  - TBD
 
 # Upcoming Conferences
-* April 5-7, 2018 - [2018 American Nuclear Society Student Conference](http://www.ansstudentconference2018.com/)
 * June 17-21, 2018 - [2018 ANS Annual Meeting](http://ansannual.org/)
   - Philadelphia, PA
+* November 11-15, 2018 - [2018 ANS Winter Meeting and Technology Expo](http://answinter.org/)
+  - Orlando, FL
 * June 9-13, 2019 - 2019 ANS Annual Meeting
   - Minneapolis, MN
+* November 17-21, 2019 - 2019 ANS Winter Meeting and Nuclear Technology Expo
+  - Washington DC
 
 
 # Trainings and Workshops
-* April 11: 1:00 - 3:00 pm - [Introduction to Git](http://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_cAdzoWRwQWF5rVP)
-  - Registration required
-* April 16: 2:00 - 3:30 pm - [Introduction to LaTeX](http://osuvalleylibrary.az1.qualtrics.com/SE/?SID=SV_aaxrOxkiZT2ymYB)
-  - Registration required
 * [Library Workshops for Grad Students & Faculty](https://guides.library.oregonstate.edu/Library-Workshops-for-Grad-Students-Faculty)
 
 
