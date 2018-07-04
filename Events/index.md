@@ -5,19 +5,15 @@ author: Doug, Jackson, & Tony
 ---
 
 # Upcoming Defenses
-* [Doug Woods](https://rtrp.github.io/osu-transport/users/woodsdou/)
-  - Date: June 4, 2018
-  - Time: 2 pm
-  - Location: Radiation Center C124
 * [Aaron Tamashiro](https://rtrp.github.io/osu-transport/users/tamashia/)
   - TBD
+* [Ben Pharn](https://rtrp.github.io/osu-transport/users/pharnb/)
+  - August 23, 2018
 
 # Upcoming Conferences
-* June 17-21, 2018 - [2018 ANS Annual Meeting](http://ansannual.org/)
-  - Philadelphia, PA
 * November 11-15, 2018 - [2018 ANS Winter Meeting and Technology Expo](http://answinter.org/)
   - Orlando, FL
-* June 9-13, 2019 - 2019 ANS Annual Meeting
+* June 9-13, 2019 - [2019 ANS Annual Meeting](http://ansannual.org/)
   - Minneapolis, MN
 * November 17-21, 2019 - 2019 ANS Winter Meeting and Nuclear Technology Expo
   - Washington DC
