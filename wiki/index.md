@@ -47,8 +47,11 @@ A brief and non-exhaustive list of software NSE has access to. Please note that 
     * Basic style file:
       - Here is a [basic style file](./LaTeX_docs/standard.sty) that is used to format a LaTeX file.
       - Doug Woods has been kind enough to supply a [LaTeX Demo](./LaTeX_docs/LatexDemo.zip) for new users to learn tex.
-    * MS Thesis
+    * MS Thesis and PhD Dissertation
       - You can use his [MS Thesis in LaTeX](./LaTeX_docs/DougsMSThesis.zip) as a template. Execute pdflatex on MS_Thesis.tex to generate the pdf.
+      - For the [PhD Dissertation in LaTeX](./LaTeX_docs/Woods2018Dissertation.zip) example, you may need to add "-shell-escape" command in your typesetter. It is set up to generate pdf files for each figure in your document so they do not need to be generated every single typeset (saving a lot of time). To obtain the "TABLE OF CONTENTS (Continued)", "LIST OF FIGURES (Continued)", and "LIST OF TABLES (Continued)" for each subsequent page, you must manually add the commands "\contheading", "\contlotheading", and "\contlofheading" to the Dissertation.toc, Dissertation.lot, and Dissertation.lof files, respectively. You must add them after a line item (in Dissertation.toc/lot/lof) that appears on a page (in the typeset document) that does not have the proper heading. Another trick to know is that subsequent typesetting resets these heading commands so you must add them again for the final typeset.
+    * Graphics in LaTeX
+      - [Here](./LaTeX_docs/TeXGraphics.zip) are some example graphics that are generated inside the document. This can be a very convenient way to displaying results because it is easy to reformat the graphics without having to regenerate them inside of Matlab.
     * [Beamer](https://www.ctan.org/pkg/beamer?lang=en)
       - A tool to create technical presentations that is based on LaTeX.
       - If you want to get into beamer, feel free to check out this [reference](./references/beameruserguide.pdf) and the [example](./LaTeX_docs/DougsDefense.zip) that Doug Woods has provided.
