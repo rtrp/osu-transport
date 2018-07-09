@@ -72,7 +72,7 @@ Using 4th order finite elements and S12 level-symmetric angular quadrature, we d
 
 2. <a name="Woods2018NSEHO"></a>Douglas N. Woods, Thomas A. Brunner, and Todd S. Palmer, "High Order Finite Element *S<sub>N</sub>* Radiation Transport on Meshes with Curved Surfaces", *Nuclear Science and Engineering*, **In Review**.
 
-3. <a name="WoodsDissertation"></a>Douglas N. Woods, "Discrete Ordinates Radiation Transport using High-Order Finite Element Spatial Discretizations on Meshes with Curved Surfaces", PhD Dissertation **In Review**.
+3. <a name="WoodsDissertation"></a>Douglas N. Woods. *[Discrete Ordinates Radiation Transport using High-Order Finite Element Spatial Discretizations on Meshes with Curved Surfaces](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/9k41zm092)*, PhD Dissertation, Oregon State University, 2018.
 
 4. <a name="ANS_DSA"></a>Douglas N. Woods, and Todd S. Palmer, "Diffusion Synthetic Acceleration for High Order *S<sub>N</sub>* Transport on Meshes with Curved Surfaces", *Transactions of the American Nuclear Society*, **116**, 639-642 (2017).
 
