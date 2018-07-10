@@ -4,19 +4,22 @@ layout: default
 author: Doug, Jackson, & Tony
 ---
 
+# Upcoming Defenses
+* [Aaron Tamashiro](https://rtrp.github.io/osu-transport/users/tamashia/)
+  - TBD
+* [Ben Pharn](https://rtrp.github.io/osu-transport/users/pharnb/)
+  - August 23, 2018
+
 # Upcoming Conferences
-* April 5-7, 2018 - [2018 American Nuclear Society Student Conference](http://www.ansstudentconference2018.com/)
-* June 17-21, 2018 - [2018 ANS Annual Meeting](http://ansannual.org/)
-  - Philadelphia, PA
-* June 9-13, 2019 - 2019 ANS Annual Meeting
+* November 11-15, 2018 - [2018 ANS Winter Meeting and Technology Expo](http://answinter.org/)
+  - Orlando, FL
+* June 9-13, 2019 - [2019 ANS Annual Meeting](http://ansannual.org/)
   - Minneapolis, MN
+* November 17-21, 2019 - 2019 ANS Winter Meeting and Nuclear Technology Expo
+  - Washington DC
 
 
 # Trainings and Workshops
-* April 11: 1:00 - 3:00 pm - [Introduction to Git](http://osuvalleylibrary.az1.qualtrics.com/jfe/form/SV_cAdzoWRwQWF5rVP)
-  - Registration required
-* April 16: 2:00 - 3:30 pm - [Introduction to LaTeX](http://osuvalleylibrary.az1.qualtrics.com/SE/?SID=SV_aaxrOxkiZT2ymYB)
-  - Registration required
 * [Library Workshops for Grad Students & Faculty](https://guides.library.oregonstate.edu/Library-Workshops-for-Grad-Students-Faculty)
 
 
@@ -46,11 +49,3 @@ The First Annual [Walk for T1D: For a world without type 1 diabetes](http://www2
   The Monte Carlo method conjures images of a suave gambler beating the house in Monaco. In reality, Monte Carlo methods are computational algorithms that use randomness to solve problems.
 
   In this episode we hear from [Todd Palmer](http://ne.oregonstate.edu/todd-s-palmer), professor of nuclear engineering, about his use of Monte Carlo simulations in nuclear fuel research. In addition, find out how [Haizhong Wang](http://cce.oregonstate.edu/wang), assistant professor in transportation engineering, is incorporating Monte Carlo to model tsunami evacuation routes in the Cascadia Subduction Zone.
-
-# Upcoming Defenses
-* [Doug Woods](https://rtrp.github.io/osu-transport/users/woodsdou/)
-  - Date: June 4, 2018
-  - Time: 2 pm
-  - Location: Radiation Center C124
-* [Aaron Tamashiro](https://rtrp.github.io/osu-transport/users/tamashia/)
-  - TBD
