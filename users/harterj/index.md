@@ -8,7 +8,7 @@ Jackson R. Harter
 
 <img src="{{ site.url }}users/harterj/images/jrhIdaho.jpg" height="300" width="300">
 
-I am in my third year as a PhD student at Oregon State University. My advisor is Todd Palmer and my co-advisor is Alex Greaney[^1]; I am also member of the <a href="http://alexgreaney.com/" target ="blank">Computational Materials Group</a> at UC Riverside.
+I am in my third year as a PhD student at Oregon State University. My advisor is Todd Palmer and my co-advisor is Alex Greaney[^1]; I am also a member of the <a href="http://alexgreaney.com/" target ="blank">Computational Materials Group</a> at UC Riverside.
 
 Email: <a href="mailto:harterj@oregonstate.edu" target="top"> harterj@oregonstate.edu </a>  
 You can find my resume [here](./files/jacksonResumePublic.pdf).
