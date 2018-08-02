@@ -47,7 +47,7 @@ We have previously developed the capability of phonon transport in the gray appr
 ***
  -->
 ### Publications
-* S. Nimmala, S. Hosseini, J. Harter, T. Palmer, E. Lenz, and P.A. Greaney. "Characterizing Macroscopic Thermal Resistance Across Contacting Interfaces Through Local Understanding of Thermal Transport", *MRS Advances*, 1-7 (2018). doi: [10.1557/adv.2018.485](https://doi.org/10.1557/adv.2018.485).
+* S. Nimmala, S. Hosseini, J. Harter, T. Palmer, E. Lenz, and P.A. Greaney, "Characterizing Macroscopic Thermal Resistance Across Contacting Interfaces Through Local Understanding of Thermal Transport", *MRS Advances*, 1-7 (2018). doi: [10.1557/adv.2018.485](https://doi.org/10.1557/adv.2018.485).
 
 * J. Harter, L. de Sousa Oliveira, A. Truszkowska, T. Palmer, and P.A. Greaney, "Deterministic Phonon Transport Predictions of Thermal Conductivity in Uranium Dioxide with Xenon Impurities", ASME. *J. Heat Transfer*, **140**(5), 051301-051301-11 (2018). doi: [10.1115/1.4038554](http://heattransfer.asmedigitalcollection.asme.org/article.aspx?articleID=2664747).
 
@@ -55,14 +55,14 @@ We have previously developed the capability of phonon transport in the gray appr
 
 * J. Harter, P. A. Greaney, and T. Palmer, "Characterization of Thermal Conductivity using Deterministic Phonon Transport in Rattlesnake," *Trans. Am. Nucl. Soc*, **112**, 829–832 (2015).
 
-* J. Harter, "Predicting Thermal Conductivity in Nuclear Fuels using Rattlesnake-Based Deterministic Phonon Transport Simulations.", Master's Thesis. (2015).
+* J. Harter, "Predicting Thermal Conductivity in Nuclear Fuels using Rattlesnake-Based Deterministic Phonon Transport Simulations", Master's Thesis. (2015).
 
 ***
 
 ### Recent conferences and presentations
 * J. Harter, N. Whitman, T. Palmer, and P.A. Greaney, "Deterministic phonon transport as a verification tool for spent nuclear fuel", Institute of Nuclear Materials Management Discovery Workshop, *Pacific Northwest National Laboratory*, Richland, WA, May 2018.
 
-* J. Harter, T. Palmer, and P.A. Greaney, ["Deterministic phonon transport and applications in nanoscale heat transfer"](https://github.com/rtrp/osu-transport/gh-pages/users/harterj/files/UofA-phonon.mp4), *University of Arizona*, Tuscon, AZ, Apr 2018.
+* J. Harter, T. Palmer, and P.A. Greaney, ["Deterministic phonon transport and applications in nanoscale heat transfer"](https://github.com/rtrp/osu-transport/blob/gh-pages/users/harterj/files/UofA-phonon.mp4), *University of Arizona*, Tuscon, AZ, Apr 2018.
 
 * J. Harter, T. Palmer, and P.A. Greaney, "Frequency dependence in deterministic phonon transport simulations", *Applied Mathematics and Computation Seminar*, Corvallis, OR, Mar 2018.
 
