@@ -62,7 +62,7 @@ We have previously developed the capability of phonon transport in the gray appr
 ### Recent conferences and presentations
 * J. Harter, N. Whitman, T. Palmer, and P.A. Greaney, "Deterministic phonon transport as a verification tool for spent nuclear fuel", Institute of Nuclear Materials Management Discovery Workshop, *Pacific Northwest National Laboratory*, Richland, WA, May 2018.
 
-* J. Harter, T. Palmer, and P.A. Greaney, ["Deterministic phonon transport and applications in nanoscale heat transfer"](https://github.com/rtrp/osu-transport/blob/gh-pages/users/harterj/files/UofA-phonon.mp4), *University of Arizona*, Tuscon, AZ, Apr 2018.
+* J. Harter, T. Palmer, and P.A. Greaney, ["Deterministic phonon transport and applications in nanoscale heat transfer"](https://github.com/rtrp/osu-transport/blob/gh-pages/users/harterj/files/UofA-phonon.mp4?raw=true), *University of Arizona*, Tuscon, AZ, Apr 2018.
 
 * J. Harter, T. Palmer, and P.A. Greaney, "Frequency dependence in deterministic phonon transport simulations", *Applied Mathematics and Computation Seminar*, Corvallis, OR, Mar 2018.
 
