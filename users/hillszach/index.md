@@ -18,7 +18,7 @@ Email: hillsz[at]oregonstate[dot]edu
 
 ## Personal Summary
 
-In the Fall, I am entering my second year of Nuclear Engineering graduate education at Oregon State University under advisor Dr. Todd Palmer. Born in Kansas City and raised in Overland Park, KS, I chose to pursue an undergraduate education in science and technology at the University of Kansas in Lawrence, KS. I began college as a policy debater and learning about carbon driven climate change motivated me to pursue clean energy technology.  My education has explored the air pollution problem and many different research driven ideas for a solution. I have come to understand nuclear technology as most promising for future innovation to cheap, clean energy.
+In the Fall, I am entering my second year of Nuclear Engineering graduate education at Oregon State University under advisor Dr. Todd Palmer. Born in Kansas City and raised in Overland Park, KS, I chose to pursue an undergraduate education in science and technology at the University of Kansas in Lawrence, KS. I began college as a policy debater and learning about carbon driven climate change motivated me to pursue clean energy technology.  My education has explored the air pollution problem and many different research driven ideas for a solution. I have come to understand nuclear technology as the most promising choice for future innovation in cheap, clean energy.
 
 ***
 
