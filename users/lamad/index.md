@@ -13,7 +13,14 @@ I am currently a third year graduate student in Nuclear Engineering at OSU, work
 
 I have worked on two different project (stochastic mxing of materials, and multiband cross section generations) during my first two years with Dr. Palmer. I've also had the opportunity to interned at Lawrence Livermore National Laboratory for two summers (2017 and 2018).
 
-###Publications
+### Publications
 
 1. Coline Larmier, Adam Lam, Patrick Brantley, Fausto Malvagi, Todd Palmer, Andrea Zoia, ''Monte Carlo chord length sampling for d-dimensional Markov binary mixtures,'' J Quant. Spectrosc. Radiat. Transfer, 204 (2018), pp. Pages 256-271
 
+2. Adam Lam, Todd Palmer, Jonathan Walsh, ''Demonstration of Multigroup Multiband Cross Section Generation in Monte Carlo Simulations,'' Journal of Computational Transport Theory. Pending
+
+### Research Interests
+1. Transport
+2. Nuclear Data
+3. Fusion
+4. Reactor Physics
