@@ -20,7 +20,7 @@ I am a second year graduate student pursuing a Ph.D. at Oregon State University 
 Lithium Aluminate is a ceramic breeder material that is of interest in the fusion community. Lithium Aluminate drastically changes microstructure and porosity as a function of neutron irradiation. These parameters directly impact the thermal performance properties of the ceramic. Certainty in thermal performance parameters is necessary for accurate and reliable modeling. The current fuel performance tools used by PNNL do not agree well with experimental data.
 Due to phonon transport being the primary heat transport mechanism in ceramic materials, Oregon State University and PNNL have partnered to develop a higher-fidelity mechanistic model based on phonon transport to approximate the thermal conductivity tensor in irradiated Lithium Aluminate. This model will eventually depend on the material microstructure, vacancy densities, defects and various other parameters that highly impact heat transport at the macro to micro-scale.
 
-* Currently we are developing a method to solve the Boltzmann Transport Equation for Phonons using the Second-Order Self-Adjoint Angular Flux (SAAF) discrete ordinates (S<sub>N</sub>) formation in Finite Elements with the option of using curvilinear and non-uniform meshes.
+* Currently we are developing a method to solve the Boltzmann Transport Equation using the Second-Order Self-Adjoint Angular Flux (SAAF) discrete ordinates (S<sub>N</sub>) formation in Finite Elements with the option of using curvilinear and non-uniform meshes.
 
 ***
 
