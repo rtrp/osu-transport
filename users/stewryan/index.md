@@ -1,4 +1,4 @@
----
+﻿---
 title: Ryan-personal
 layout: default
 author: Ryan Stewart
@@ -28,7 +28,6 @@ Feel free to email me at stewryan@oregonstate.edu.
 2. D. LaBrier, R. Stewart, et al., “Design of an In-Pile Experimental Loop for Fast Test Reactor 	Conditions,” Transactions of the American Nuclear Society, vol. 119, 2018, pp. 1271-1274.
 3. E. Lum, C. Pope, R. Stewart, et al. "Evaluation of Run 138B at Experimental Breeder     	Reactor II, A Prototypic Liquid Metal Fast Breeder Reactor," International Handbook of 	Evaluated Reactor Physics Benchmark Experiments, OECD, 2018.
 4. R. Stewart, C. Pope, and E. Ryan, "Fast Spectrum Reactor Fuel Assembly Sensitivity 	Analysis," Annals of Nuclear Energy, vol. 110, 2017, pp. 1091-1097.
-
 
 ### Other Interests
 
