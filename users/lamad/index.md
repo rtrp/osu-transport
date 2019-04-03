@@ -6,7 +6,7 @@ author: Adam Lam
 Adam Lam
 ================================
 
-<img src="{{ site.url }}users/harterj/images/jrh-sit.jpg" height="375" width="600">
+<img src="{{ site.url }}users/lamad/images/adam.jpg" height="375" width="600">
 
 Email: <a href="mailto:lamad@oregonstate.edu" target="top"> lamad@oregonstate.edu </a>
 
