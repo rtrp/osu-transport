@@ -27,7 +27,7 @@ I have worked on two different project (stochastic mxing of materials, and multi
 
 ### Publications
 
-1. Coline Larmier, Adam Lam, Patrick Brantley, Fausto Malvagi, Todd Palmer, Andrea Zoia, ''Monte Carlo chord length sampling for d-dimensional Markov binary mixtures,'' J Quant. Spectrosc. Radiat. Transfer, 204 (2018), pp. Pages 256-271
+1. Coline Larmier, Adam Lam, Patrick Brantley, Fausto Malvagi, Todd Palmer, Andrea Zoia, ''Monte Carlo chord length sampling for d-dimensional Markov binary mixtures,'' Journal of Quantitative Spectroscopy and Radiative Transfer, 204 (2018), pp. Pages 256-271
 
 2. Adam Lam, Todd Palmer, Jonathan Walsh, ''Demonstration of Multigroup Multiband Cross Section Generation in Monte Carlo Simulations,'' Journal of Computational and Theoretical Transport Theory (2019).
 
