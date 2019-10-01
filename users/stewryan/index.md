@@ -1,4 +1,4 @@
----
+﻿---
 title: Ryan-personal
 layout: default
 author: Ryan Stewart
@@ -8,15 +8,15 @@ author: Ryan Stewart
 
 <img src="{{ site.url }}users/stewryan/images/cover_picture.jpg" width="450">
 
-I am a first year PhD student at Oregon State University working under Dr. Todd Palmer. I obtained my masters degree from Idaho State University (ISU) while working under Dr. Chad Pope.
+I am a second year PhD student at Oregon State University working under Dr. Todd Palmer. I obtained my masters degree from Idaho State University (ISU) while working under Dr. Chad Pope.
 
 My masters work focused on helping create a benchmark model for the Experimental Breeder Reactor II (EBR-II) for the International Reactor Physics Experiment Evaluation Project ([IRPhEP](http://irphep.inl.gov/)). The IRPhEP handbook is utilized by the reactor physics community as a tool to aid in the validation of calculational techniques and data. The focus of my work was to determine the viability of homogenization to specific areas of the core in the hopes of reducing the size of the input file, and the time required to run a simulation. To ensure the process produced accurate results, a sensitivity analysis was performed on a driver assembly for both a heterogeneous and homogeneous model. A full copy can be found [here](./files/ryan_thesis.pdf).
 
 For the summer of 2017, I worked in conjunction with Idaho National Lab (INL) and ISU on developing and implementing Functional Expansion Tallies (FETs) in the neutronics code Shift for the Exascale Computing Project. The FETs are meant to create a seamless transition for data from neutronics to computational fluid dynamics codes to allow for fully coupled reactor physics problems to be solved. A short paper on the work can be found [here](./files/Report.pdf).
 
-Currently, I am working with Dr. Palmer to procure funding for additional fast reactor research with the proposed Versatile Fast Neutron Source at INL.
+During my first year at OSU, I explored a small design space in the form of plutonium content for a fixed fissile mass for a prototypic sodium fast reactor. Along with this, I worked/interned at TerraPower, LLC in the field of neutronics and explored how to optimize a plutonium burner given constraints on the plutonium isotopics, disposition rate, and other various reactor physics parameters. I am currently working on novel optimization schemes for sodium fast reactors.
 
-I can be reached via email at stewryan@oregonstate.edu.
+Feel free to email me at stewryan@oregonstate.edu.
 
 ### Research Interests
 1. Fast Reactor Core Analysis
@@ -24,7 +24,10 @@ I can be reached via email at stewryan@oregonstate.edu.
 3. Reactor Benchmarking
 
 ### Publications 
-1. R. Stewart, C. Pope and E. Ryan, "Fast spectrum reactor fuel assembly sensitivity analysis", Annals of Nuclear Energy, vol. 110, pp. 1091-1097, 2017.
+1. R. Stewart, and T. Palmer, “Metallic Fuel Design Space for Sodium Fast Reactors,” Transactions of the American Nuclear Society, vol. 119, 2018, pp. 1116-1119.
+2. D. LaBrier, R. Stewart, et al., “Design of an In-Pile Experimental Loop for Fast Test Reactor Conditions,” Transactions of the American Nuclear Society, vol. 119, 2018, pp. 1271-1274.
+3. E. Lum, C. Pope, R. Stewart, et al. "Evaluation of Run 138B at Experimental Breeder Reactor II, A Prototypic Liquid Metal Fast Breeder Reactor," International Handbook of Evaluated Reactor Physics Benchmark Experiments, OECD, 2018.
+4. R. Stewart, C. Pope, and E. Ryan, "Fast Spectrum Reactor Fuel Assembly Sensitivity Analysis," Annals of Nuclear Energy, vol. 110, 2017, pp. 1091-1097.
 
 ### Other Interests
 
