@@ -54,7 +54,7 @@ and Signature Discovery Workshop** *Richland, Washington* May, 2018
 
 ## Work Experience
 * ***TerraPower, LLC*** , Mentors: Jacob Hader & Oded Doron, *June - September, 2019*
-  **Nuclear Design Group - Shielding Methods and Analysis**
+  * **Nuclear Design Group - Shielding Methods and Analysis**
     * Performed verification and validation for Attila's variance reduction plugin for MCNP in the Sodium Fast Reactor design space. The *Shielding Integral Benchmark Archive and Database* <a href="https://www.oecd-nea.org/science/wprs/shielding/" target="top"> **(SINBAD)** </a> *Japanese American Shielding Program for Experimental Research* <a href="https://www.oecd-nea.org/science/wprs/shielding/sinbad/JAS_IHX/IHX_A.HTM" target ="top"> **(JASPER)** </a> series of experiments were chosen to examine neutron transport in sodium and the subsequent sodium activation in the intermediate heat exchanger (IHX). This work was performed to investigate biases and bounding limits for sodium activation in SFR systems.
 
 * ***Pacific Northwest National Laboratory (PNNL)***
