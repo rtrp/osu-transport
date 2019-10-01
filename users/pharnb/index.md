@@ -6,10 +6,29 @@ author: Ben Pharn
 Ben Pharn
 ================================
 
-I am a first year Master's student here at Oregon State University.  I received my Bachelor of Science degree here as well.  I became a nuclear engineer in order to fulfill my dream of seeing a world powered by nuclear energy.  
+<img src="{{ site.url }}users/pharnb/images/image.jpg">
 
-Email: <a href="mailto:pharnb@oregonstate.edu" target="top"> pharnb@oregonstate.edu </a>
+I am a first year Master's student here at Oregon State University, having completed my undergraduate degree here as well.  I was born and raised in Southern California, where the majority of my family still resides.
 
-# Research
+<a href="mailto:pharnb@oregonstate.edu" target="top"> Email</a>  
+[Resume](./files/resume.pdf)
 
-I work under Todd Palmer, and I am currently working on a project to help develop safeguards for small modular reactors. 
+# Focus
+
+I dream of seeing a world powered by nuclear energy.  To that end, I have decided to focus on nuclear security and safeguards in order to help advance my dream
+
+
+I work under Todd Palmer, and I am currently working on a project to help develop safeguards for small modular reactors for Idaho National Laboratory.
+
+## Affiliations
+
+* American Nuclear Society: September 2012 - Present
+  * Member
+  * Local Student Section Webmaster September 2015 - June 2016
+
+* Institute of Nuclear Materials Management: September 2015 - Present
+  * Member
+
+## Personal Interests
+
+* I like to read in my spare time, and generally listen to music whenever I am doing work.  I am also an avid player of Dungeons and Dragons and other tabletop games.  
