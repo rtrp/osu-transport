@@ -18,4 +18,4 @@ Along with this we have provided an interactive section (via Google Colab/Jypter
 
 # Interactive Media
 
-Check out an introduction to Juypter Notebooks [HERE](./interactive/juypter_intro.ipynb)
+Check out an introduction to Juypter Notebooks [HERE](https://colab.research.google.com/github/ryanstwrt/osu-transport/blob/gh-pages/users/stewryan/juypter_intro.ipynb) (Note: This will take you to a Google Colab page)
