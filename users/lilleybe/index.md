@@ -8,7 +8,7 @@ Ben Lilley
 
 <img src="{{ site.url }}users/lilleybe/images/headshot.jpg" height="417" width="317">
 
-I'm an MS student at Oregon State. I grew up in Oregon, but studied mechanical engineering and physics for my undergraduate degrees in other states (WA and MO). I've also spent time in the New England area  and in North Carolina. You can reach me at <a href="mailto:lilleybe@oregonstate.edu" target="top"> lilleybe@oregonstate.edu</a>.
+I'm a PhD student at Oregon State. I grew up in Oregon, but studied mechanical engineering and physics for my undergraduate degrees in other states (WA and MO). I've also spent time in the New England area  and in North Carolina. You can reach me at <a href="mailto:lilleybe@oregonstate.edu" target="top"> lilleybe@oregonstate.edu</a>.
 
 ***
 
