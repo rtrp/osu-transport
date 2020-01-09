@@ -8,7 +8,7 @@ author: Ryan Stewart
 
 <img src="{{ site.url }}users/stewryan/images/cover_picture.jpg" width="450">
 
-I am a third year PhD student at Oregon State University working under Dr. Todd Palmer. I obtained my masters degree from Idaho State University (ISU) while working under Dr. Chad Pope.
+I am a third year Ph.D. student at Oregon State University working under Dr. Todd Palmer. I obtained my masters degree from Idaho State University (ISU) while working under Dr. Chad Pope.
 
 My masters work focused on helping create a benchmark model for the Experimental Breeder Reactor II (EBR-II) for the International Reactor Physics Experiment Evaluation Project ([IRPhEP](http://irphep.inl.gov/)). The IRPhEP handbook is utilized by the reactor physics community as a tool to aid in the validation of calculational techniques and data. The focus of my work was to determine the viability of homogenization to specific areas of the core in the hopes of reducing the size of the input file, and the time required to run a simulation. To ensure the process produced accurate results, a sensitivity analysis was performed on a driver assembly for both a heterogeneous and homogeneous model. A full copy can be found [here](./files/ryan_thesis.pdf).
 
