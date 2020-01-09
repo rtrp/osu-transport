@@ -10,15 +10,19 @@ author: Ryan Stewart
 
 I am a third year Ph.D. student at Oregon State University working under Dr. Todd Palmer. I obtained my masters degree from Idaho State University (ISU) while working under Dr. Chad Pope.
 
-My masters work focused on helping create a benchmark model for the Experimental Breeder Reactor II (EBR-II) for the International Reactor Physics Experiment Evaluation Project ([IRPhEP](http://irphep.inl.gov/)). The IRPhEP handbook is utilized by the reactor physics community as a tool to aid in the validation of calculational techniques and data. The focus of my work was to determine the viability of homogenization to specific areas of the core in the hopes of reducing the size of the input file, and the time required to run a simulation. To ensure the process produced accurate results, a sensitivity analysis was performed on a driver assembly for both a heterogeneous and homogeneous model. A full copy can be found [here](./files/ryan_thesis.pdf).
+My masters work focused on helping create a benchmark model for the Experimental Breeder Reactor II (EBR-II) for the International Reactor Physics Experiment Evaluation Project ([IRPhEP](http://irphep.inl.gov/)). 
+The IRPhEP handbook is utilized by the reactor physics community as a tool to aid in the validation of calculational techniques and data. 
+The focus of my work was to determine the viability of homogenization to specific areas of the core in the hopes of reducing the size of the input file, and the time required to run a simulation. 
+To ensure the process produced accurate results, a sensitivity analysis was performed on a driver assembly for both a heterogeneous and homogeneous model. A full copy can be found [here](./files/ryan_thesis.pdf).
 
-For the summer of 2017, I worked in conjunction with Idaho National Lab (INL) and ISU on developing and implementing Functional Expansion Tallies (FETs) in the neutronics code Shift for the Exascale Computing Project. The FETs are meant to create a seamless transition for data from neutronics to computational fluid dynamics codes to allow for fully coupled reactor physics problems to be solved. A short paper on the work can be found [here](./files/Report.pdf).
+For the summer of 2017, I worked in conjunction with Idaho National Lab (INL) and ISU on developing and implementing Functional Expansion Tallies (FETs) in the neutronics code Shift for the Exascale Computing Project. 
+FETs are meant to create a seamless transition for data from neutronics to computational fluid dynamics codes to allow for fully coupled reactor physics problems to be solved. A short paper on the work can be found [here](./files/Report.pdf).
 
 During my time at OSU, I have examined the material and geometric design space for a small prototypic sodium fast test reactor.
 This has included the effects of driving a sodium fast reactor with plutonium versus uranium fuel, and the effect fuel height/pin diameter on criticality, reactor safety parameters, and core burnup.
 Together this has generated a design space by which we can perform optimization on, and I am currently investigating different techniques for design optimization.
 Along the way I built a python framework for designing and generating input files for fast reactors called FRIDGe (Fast Reactor Input Deck Generator).
-Papers for FRIDGe and metallic design space can be found [here](../files/fridge_joss.pdf) and [here](Material_Design_Space.pdf).
+Papers for FRIDGe and metallic design space can be found [here](./files/fridge_joss.pdf) and [here](./files/Material_Design_Space.pdf).
 
 Along with this, I am looking at eloquent methods for solving large multi-tiered optimization problems.
 Much of this work will focus on supplementing full core calculations with surrogate models, and approaching the problem from a multi-agent stance to speed up convergence on a set of optimal solutions. 
