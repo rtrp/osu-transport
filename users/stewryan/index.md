@@ -8,14 +8,17 @@ author: Ryan Stewart
 
 <img src="{{ site.url }}users/stewryan/images/cover_picture.jpg" width="450">
 
-I am a third year Ph.D. student at Oregon State University working under Dr. Todd Palmer. I obtained my masters degree from Idaho State University (ISU) while working under Dr. Chad Pope.
+I am a third year Ph.D. student at Oregon State University working under Dr. Todd Palmer, but living in Idaho Falls where I am working at Idaho National Laboratory (INL) to complete my research.
+I obtained my masters degree (in nuclear science and engineering) from Idaho State University (ISU) while working under Dr. Chad Pope.
+Along with this, I obtained my bachelors degree at Washington State University (WSU) in physics.
+Throughout my education I've been a reactor operator at two research reactors (WSU's TRIGA reactor and ISU's AGN-201), which really pushed me to pursuing my degrees in nuclear engineering.
 
 My masters work focused on helping create a benchmark model for the Experimental Breeder Reactor II (EBR-II) for the International Reactor Physics Experiment Evaluation Project ([IRPhEP](http://irphep.inl.gov/)). 
 The IRPhEP handbook is utilized by the reactor physics community as a tool to aid in the validation of calculational techniques and data. 
 The focus of my work was to determine the viability of homogenization to specific areas of the core in the hopes of reducing the size of the input file, and the time required to run a simulation. 
 To ensure the process produced accurate results, a sensitivity analysis was performed on a driver assembly for both a heterogeneous and homogeneous model. A full copy can be found [here](./files/ryan_thesis.pdf).
 
-For the summer of 2017, I worked in conjunction with Idaho National Lab (INL) and ISU on developing and implementing Functional Expansion Tallies (FETs) in the neutronics code Shift for the Exascale Computing Project. 
+For the summer of 2017, I worked in under Dr. Leslie Kerby in conjunction with INL and ISU on developing and implementing Functional Expansion Tallies (FETs) in the neutronics code Shift for the Exascale Computing Project. 
 FETs are meant to create a seamless transition for data from neutronics to computational fluid dynamics codes to allow for fully coupled reactor physics problems to be solved. A short paper on the work can be found [here](./files/Report.pdf).
 
 During my time at OSU, I have examined the material and geometric design space for a small prototypic sodium fast test reactor.
@@ -33,7 +36,8 @@ Feel free to email me at stewryan@oregonstate.edu.
 ### Research Interests
 1. Fast Reactor Core Analysis
 2. Multi-Objective Optimization
-3. Applications of Machine Learning to Reactor Physics
+3. Machine Learning Applications for Reactor Physics
+4. Applications of Multi-Agent Sytems to Reactor Physics/Optimization
 
 ### Publications
 1. R. Stewart, E. Lum, and C. Pope, “Design of an experimental breeder reactor run 138B reactor physics benchmark evaluation management application,” Journal of Nuclear Science and Technology, pp. 1-12, 2019, doi:10.1080/00223131.2019.1680325.
