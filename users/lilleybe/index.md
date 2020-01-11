@@ -17,7 +17,7 @@ My MS research involved using the fast reactor cross section code MC**2 and the 
 
 <img src="{{ site.url }}users/lilleybe/images/labeled-Attila-model.png" height="488" width="689">
 
-My PhD research is focused on the optimization of fuel shuffling for a NuScale-sized small modular core. I will use CASMO to generate a lattice library. These lattices can be assembled randomly or with an optimization tool (e.g., genetic algorithm, simulated annealing) into a full core. This core is evaluated according to safety limits and cost effectiveness, allowing the core designer to choose among the best designs.
+My PhD research is focused on the optimization of fuel shuffling for a NuScale-sized small modular core. I will use CASMO to generate a lattice library. These lattices can be assembled randomly or with an optimization tool (e.g., genetic algorithm, simulated annealing) into a full core. These cores are evaluated with the SIMULATE neutron diffusion code, and grouped according to how they meet safety limits and cost effectiveness, allowing the core designer to choose among the best designs.
 
 ***
 
