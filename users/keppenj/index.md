@@ -6,7 +6,7 @@ author: Jackson Keppen
 Jackson Keppen
 ================================
 
-<img src="{{ site.url }}users/keppenj/Images/jacksonjpg" height="375" width="600">
+<img src="{{ site.url }}users/keppenj/Images/jackson.jpg" height="375" width="600">
 
 Hello!
 
@@ -16,7 +16,7 @@ I am a second year Master's student at Oregon State University, studying nuclear
 
 My Master's research is focused on the feasibility of a thermal spectrum thorium breeder reactor that can operate at steady state without chemical reprocessing or additional fissile fuel. A large portion of the work for it has been coupling the neutronics and depletion code suite, SCALE, to a black-box optimization code called Gnowee.
 
- ### Research Interests
+### Research Interests
 
  - Breeder-Burner Reactor Design
  - Design Optimization
