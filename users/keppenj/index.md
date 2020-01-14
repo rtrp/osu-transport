@@ -10,7 +10,7 @@ Jackson Keppen
 
 Hello!
 
-I am a second year Master's student at Oregon State University, studying nuclear engineering under Dr. Camille Palmer and Dr. Todd Palmer. I received my bachelors degree in nuclear engineering from Oregon State in 2018. I currently work at NuScale Power as an engineering intern in the Office of Technology. I am also a licensed operator on the Oregon State TRIGA Reactor. I interned at Palo Verde Nuclear Generating Station in the Nuclear Analysis department in 2016, and began working at NuScale as an intern in the Regulatory Affairs department in 2017.
+I am a second year Master's student at Oregon State University, studying nuclear engineering under Dr. Camille Palmer and Dr. Todd Palmer. I received my Bachelor's degree in nuclear engineering from Oregon State in 2018. I currently work at NuScale Power as an engineering intern in the Office of Technology. I am also a licensed operator on the Oregon State TRIGA Reactor. I interned at Palo Verde Nuclear Generating Station in the Nuclear Analysis department in 2016, and began working at NuScale as an intern in the Regulatory Affairs department in 2017.
 
 ## Research
 
