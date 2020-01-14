@@ -6,7 +6,7 @@ author: Jackson Keppen
 Jackson Keppen
 ================================
 
-<img src="{{ site.url }}users/keppenj/Images/jackson.jpg" height="375" width="600">
+<img src="./Images/jackson.jpg" height="375" width="600">
 
 Hello!
 
