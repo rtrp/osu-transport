@@ -5,7 +5,7 @@ author: Doug Woods
 ---
 Doug Woods - In Memoriam
 ==============
-# Memories
+## Memories
 
 <img src="{{ site.url }}users/woodsdou/MemoriamPictures/Dressy.jpg" width="400">
 
