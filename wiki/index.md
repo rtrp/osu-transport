@@ -19,7 +19,6 @@ Some software available through [Citrix](http://it.engineering.oregonstate.edu/c
 * And most importantly.... [Google](https://www.google.com/)
   -  Leads to StackExchange mostly. *Can* be a great reference and a cool place to ask the programming community questions.
 
-
 ## Simulation Tools
 A brief and non-exhaustive list of software NSE has access to. Please note that some of these are export controlled software and require proper permissions. If you need access to them, just ask. ([OSU VPN](http://oregonstate.edu/helpdocs/network-and-phone/virtual-private-network-vpn), [Access network drive](https://it.engineering.oregonstate.edu/accessing-engineering-file-space-using-windows-file-sharing))
 
@@ -64,6 +63,15 @@ A brief and non-exhaustive list of software NSE has access to. Please note that 
 * [GitHub](http://www.github.com)
   - Your one-stop-shop for version control. Students can obtain a paid, premium account for free through [GitHub's education](https://education.github.com/) program.  
   - The learning curve for using Git effectively can be a little daunting. Thankfully, GitHub has [free training](https://services.github.com/training/). Myself (Tony) and a few others took the GitHub for Developer's training and it is a *game changer*.
+* [TravisCI](https://travis-ci.org/)
+  - Travis-CI can be utilized by software developers to ensure working code is pushed to your repository before you release a new public version.
+  - This tests all of your unit tests and ensures they are passing, and will inform you if your newest pushed code breaks any tests.
+* [Coveralls](https://coveralls.io/)
+  - Coveralls helps developers ensure their code has adequate test coverage, which provides confidence that their code is adequately tested and stable.
+  - This can be integrated with git and Travis-CI to create a seemless transition between local and remote repositories.
+
+* Resources for Git/TravicCI/Coveralls can be found [here](https://softwaredevengresearch.github.io/syllabus/#course-overview), which are a series of lecture notes from ME 599 Software Development of Engineers taught by Dr. Neimeyer.
+* Other resources for [Coveralls](https://docs.travis-ci.com/user/coveralls/) and [Travic-CI](https://docs.travis-ci.com/user/tutorial/) can be found in the links.
 
 ## Editors
 There are *countless* text editors out there. It's really just finding which one works best for you. Here are a few of our (the admins) favorites.
@@ -79,3 +87,8 @@ There are *countless* text editors out there. It's really just finding which one
 ## Visualization Tools
 * [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit/)
   - Open source.
+
+## Journal of Open Source Software
+The Journal of Open Source Software (JOSS) is an open-source journal for software developers to write a short paper about a piece of code they've written.
+JOSS is peer-reviewed, and can be used to increase awarness of code and provide a source for others to cite.
+Their website can be found [here](https://joss.theoj.org/).
