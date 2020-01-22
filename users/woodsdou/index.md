@@ -8,11 +8,17 @@ Doug Woods - In Memoriam
 # Memories
 
 <img src="{{ site.url }}users/woodsdou/MemoriamPictures/Dressy.jpg" width="400">
+
 <img src="{{ site.url }}users/woodsdou/MemoriamPictures/Drinks1.jpg" width="400">
+
 <img src="{{ site.url }}users/woodsdou/MemoriamPictures/Dinner1.jpg" width="400">
+
 <img src="{{ site.url }}users/woodsdou/MemoriamPictures/Drinks2.jpg" width="400">
+
 <img src="{{ site.url }}users/woodsdou/MemoriamPictures/BBQ.jpg" width="400">
+
 <img src="{{ site.url }}users/woodsdou/MemoriamPictures/FootballGame.jpg" width="400">
+
 <img src="{{ site.url }}users/woodsdou/MemoriamPictures/TailgateQ.jpg" width="400">
 
 ***
