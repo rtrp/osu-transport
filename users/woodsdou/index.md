@@ -19,7 +19,7 @@ Doug Woods - In Memoriam
 
 <img src="{{ site.url }}users/woodsdou/MemoriamPictures/FootballGame.jpg" width="400">
 
-<img src="{{ site.url }}users/woodsdou/MemoriamPictures/TailgateQ.jpg" width="400">
+<img src="{{ site.url }}users/woodsdou/MemoriamPictures/Tailgate.jpg" width="400">
 
 ***
 
