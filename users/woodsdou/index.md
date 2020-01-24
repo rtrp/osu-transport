@@ -3,24 +3,8 @@ title: Doug-personal
 layout: default
 author: Doug Woods
 ---
-Doug Woods - In Memoriam
+Doug Woods
 ==============
-
-## Memories
-
-<img src="{{ site.url }}users/woodsdou/MemoriamPictures/Dressy.jpg" width="400">
-
-<img src="{{ site.url }}users/woodsdou/MemoriamPictures/Drinks1.jpg" width="400">
-
-<img src="{{ site.url }}users/woodsdou/MemoriamPictures/Dinner1.jpg" width="400">
-
-<img src="{{ site.url }}users/woodsdou/MemoriamPictures/Drinks2.jpg" width="400">
-
-<img src="{{ site.url }}users/woodsdou/MemoriamPictures/BBQ.jpg" width="400">
-
-<img src="{{ site.url }}users/woodsdou/MemoriamPictures/FootballGame.jpg" width="400">
-
-<img src="{{ site.url }}users/woodsdou/MemoriamPictures/Tailgate.jpg" width="400">
 
 <a href="mailto:woodsdouoregonstate.edu" target="top"> woodsdou@oregonstate.edu </a>  
 [Resume](./Woods_Public.pdf)
