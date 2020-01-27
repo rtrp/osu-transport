@@ -6,7 +6,7 @@ author: Emory Colvin
 Emory Colvin
 ==============
 
-<img src="{{ site.url }}users/reynolaa/images/colvinempic.jpg" height="300">
+<img src="{{ site.url }}users/colvinem/images/colvinempic.jpg" height="300">
 
 [Resume](./files/Colvin-resume.pdf)
 
