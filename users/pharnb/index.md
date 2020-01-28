@@ -6,29 +6,6 @@ author: Ben Pharn
 Ben Pharn
 ================================
 
-<img src="{{ site.url }}users/pharnb/images/image.jpg">
+Ben Pharn graduated from Oregon State University in 2019 with a Master's in Nuclear Science and Engineering.
 
-I am a first year Master's student here at Oregon State University, having completed my undergraduate degree here as well.  I was born and raised in Southern California, where the majority of my family still resides.
-
-<a href="mailto:pharnb@oregonstate.edu" target="top"> Email</a>  
-[Resume](./files/resume.pdf)
-
-# Focus
-
-I dream of seeing a world powered by nuclear energy.  To that end, I have decided to focus on nuclear security and safeguards in order to help advance my dream
-
-
-I work under Todd Palmer, and I am currently working on a project to help develop safeguards for small modular reactors for Idaho National Laboratory.
-
-## Affiliations
-
-* American Nuclear Society: September 2012 - Present
-  * Member
-  * Local Student Section Webmaster September 2015 - June 2016
-
-* Institute of Nuclear Materials Management: September 2015 - Present
-  * Member
-
-## Personal Interests
-
-* I like to read in my spare time, and generally listen to music whenever I am doing work.  I am also an avid player of Dungeons and Dragons and other tabletop games.  
+His thesis work was title *Incorporating Statistical Uncertainty into Nuclear Material Diversion Pathway Analysis using Probabilistic Risk Assessment* and can be found [here](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/cn69m9553).
