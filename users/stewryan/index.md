@@ -28,7 +28,7 @@ Along the way I built a python framework for designing and generating input file
 Papers for FRIDGe and metallic design space can be found [here](./files/fridge_joss.pdf) and [here](./files/Material_Design_Space.pdf).
 
 Along with this, I am looking at eloquent methods for solving large multi-tiered optimization problems.
-Much of this work will focus on supplementing full core calculations with surrogate models, and approaching the problem from a multi-agent stance to speed up convergence on a set of optimal solutions. 
+Much of this work will focus on supplementing full core calculations with surrogate models (a  Jupyter notebook highlighting this can be seen [[here](https://github.com/ryanstwrt/surrogate_modeling/blob/master/Surrogate_Model_Hyper_Parameter_Study.ipynb)) , and approaching the problem from a multi-agent stance to speed up convergence on a set of optimal solutions. 
 This method will examine how a multi-agent blackboard system can solve a multi-tiered multi-objective optimization problem for determining reactor experimental constraints for a prototypic test reactor.
 
 Feel free to email me at stewryan@oregonstate.edu.
