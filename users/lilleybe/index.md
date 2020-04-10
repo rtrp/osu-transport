@@ -15,8 +15,6 @@ I'm a PhD student at Oregon State. I grew up in Oregon, but studied mechanical e
 ## Research
 My MS research involved using the fast reactor cross section code MC**2 and the neutron transport codes MCNP and Attila. My work focused on the evaluation of an experimental sodium-cooled loop for materials testing in the large-I position of the Advanced Test Reactor.
 
-<img src="{{ site.url }}users/lilleybe/images/labeled-Attila-model.jpg" height="482" width="678">
-
 My PhD research is focused on the optimization of fuel shuffling for a NuScale-sized small modular core. I will use CASMO to generate a lattice library. These lattices can be assembled randomly or with an optimization tool (e.g., genetic algorithm, simulated annealing) into a full core. These cores are evaluated with the SIMULATE neutron diffusion code, and grouped according to how they meet safety limits and cost effectiveness, allowing the core designer to choose among the best designs.
 
 ***
