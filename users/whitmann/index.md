@@ -30,6 +30,7 @@ My current research involves solving the radiative transport equation for phonon
 <img src="{{ site.url }}users/whitmann/images/temp-profile.png" height="250" width="250">
 
 * Thermal conductivity profiles also show depression at the boundary as expected and match kinetic theory in the interior of the domain where application of diffuse treatment is expected
+
 <img src="{{ site.url }}users/whitmann/images/k-profile.jpg" height="250" width="250"> <img src="{{ site.url }}users/whitmann/images/k-diff.jpg" height="250" width="250">
 
 ***
