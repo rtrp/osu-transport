@@ -27,7 +27,7 @@ My current research involves solving the radiative transport equation for phonon
 
 * Preliminary results simulating temperature profiles in silicon and lithium aluminate match previously published work
 
-<img src="{{ site.url }}users/whitmann/images/temp-profile.png" height="500" width="500">
+<img src="{{ site.url }}users/whitmann/images/temp-profile.png" width="500">
 
 * Thermal conductivity profiles also show depression at the boundary as expected and match kinetic theory in the interior of the domain where application of diffuse treatment is expected
 
