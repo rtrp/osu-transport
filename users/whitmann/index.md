@@ -42,7 +42,7 @@ My current research involves solving the radiative transport equation for phonon
 
 * **N. WHITMAN**, T. TRAHAN, and J. HUTCHINSON, "Validation of MCATK: Comparison to Subcritical Copper and Polyethylene Reflected Plutonium Experiments at NCERC", *Trans. Am. Nucl. Soc*, (In Review).
 
-* **N. WHITMAN**, and J. HADER, "Attila and MCNP6.2 Validation with the JASPER-IHX Benchmark for Sodium-cooled Fast Reactor Shielding Applications", *Trans. Am. Nucl. Soc.*, (to be updated).
+* **N. WHITMAN**, and J. HADER, "Attila and MCNP6.2 Validation with the JASPER-IHX Benchmark for Sodium-cooled Fast Reactor Shielding Applications", *Trans. Am. Nucl. Soc.*, **121**, 1267-1270 (2019).
 
 * **N. WHITMAN**, T. HUGHES, J. KELSEY, A. MORELL-PACHECO, and P. TSVETKOV, "VASIMR Interfaced High Temperature Gas-Cooled Fast Reactor for Space Applications", *Trans. Am. Nucl. Soc.*, **115**, 80-83 (2016).
 
