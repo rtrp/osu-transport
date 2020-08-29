@@ -28,7 +28,7 @@ Along the way I built a python framework for designing and generating input file
 Papers for FRIDGe and metallic design space can be found [here](./files/fridge_joss.pdf) and [here](./files/Material_Design_Space.pdf).
 
 Along with this, I am looking at eloquent methods for solving large multi-tiered optimization problems.
-Much of this work will focus on supplementing full core calculations with surrogate models, and approaching the problem from a multi-agent stance to speed up convergence on a set of optimal solutions. 
+Much of this work will focus on supplementing full core calculations with surrogate models (a  Jupyter notebook highlighting this can be seen [here](https://github.com/ryanstwrt/surrogate_modeling/blob/master/Surrogate_Model_Hyper_Parameter_Study.ipynb)) , and approaching the problem from a multi-agent stance to speed up convergence on a set of optimal solutions. 
 This method will examine how a multi-agent blackboard system can solve a multi-tiered multi-objective optimization problem for determining reactor experimental constraints for a prototypic test reactor.
 
 Feel free to email me at stewryan@oregonstate.edu.
@@ -40,13 +40,16 @@ Feel free to email me at stewryan@oregonstate.edu.
 4. Applications of Multi-Agent Systems to Reactor Physics/Optimization
 
 ### Publications
-1. R. Stewart, C. Blakely, H. Zhang, “Investigation ofa Two-Year Cycle Pressurized Water Reactor Core Design with Increased Enrichment and Extended Burnup Limits,” Nuclear Engineering and Design, (Submitted for Internal Review).2. D. LaBrier, B. Lilley, A. Higgins, R. Stewart, et al, “Design of an Experimental Test Loop for Fast Spectrum Test Conditions,” Annals ofNuclear Energy, (Submitted for Internal Review).
+1. R. Stewart, C. Blakely, H. Zhang, “Investigation ofa Two-Year Cycle Pressurized Water Reactor Core Design with Increased Enrichment and Extended Burnup Limits,” Nuclear Engineering and Design, (Submitted for Internal Review).
+2. D. LaBrier, B. Lilley, A. Higgins, R. Stewart, et al, “Design of an Experimental Test Loop for Fast Spectrum Test Conditions,” Annals ofNuclear Energy, (Submitted for Internal Review).
 3. R. Stewart, E. Lum, and C. Pope, “Design of an experimental breeder reactor run 138B reactor physics benchmark evaluation management application,” Journal of Nuclear Science and Technology, pp. 1-12, 2019, doi:10.1080/00223131.2019.1680325.
 4. E. Lum, C. Pope, R. Stewart, et al. "Evaluation of Run 138B at Experimental Breeder Reactor II, A Prototypic Liquid Metal Fast Breeder Reactor," International Handbook of Evaluated Reactor Physics Benchmark Experiments, OECD, 2018.
 5. R. Stewart, C. Pope, and E. Ryan, "Fast Spectrum Reactor Fuel Assembly Sensitivity Analysis," Annals of Nuclear Energy, vol. 110, 2017, pp. 1091-1097.
 
 ### Conference Publications
-1. R. Stewart, T.S. Palmer, S. Bays, “Towards an Agent-Based Blackboard System for Reactor Design Optimization,” ANS Mathematics and Computational Methods 2021, (Submitted for Internal Review).2. N. Martin, R. Stewart, Z. Xu, S. Bays, “Development of a Griffin Reactor Physics Analysis Code Model for the Versatile Test Reactor,” ANS Mathematics and Computational Methods 2021, (Submitted for Internal Review).3. R. Stewart and T.S. Palmer “Utilizing a Reduced-Order Model and Physical Programming for Preliminary Reactor Design Optimization,” in PHYSOR2020: Transition to a Scalable Nuclear Future.
+1. R. Stewart, T.S. Palmer, S. Bays, “Towards an Agent-Based Blackboard System for Reactor Design Optimization,” ANS Mathematics and Computational Methods 2021, (Submitted for Internal Review).
+2. N. Martin, R. Stewart, Z. Xu, S. Bays, “Development of a Griffin Reactor Physics Analysis Code Model for the Versatile Test Reactor,” ANS Mathematics and Computational Methods 2021, (Submitted for Internal Review).
+3. R. Stewart and T.S. Palmer “Utilizing a Reduced-Order Model and Physical Programming for Preliminary Reactor Design Optimization,” in PHYSOR2020: Transition to a Scalable Nuclear Future.
 4. R. Stewart, and T. Palmer, “Geometric Design Space for Sodium Fast Reactors,”	Transactions of the American Nuclear Society, vol. 121, 2019, pp. 1532-1535.
 5. R. Stewart, and T. Palmer, “Fast Reactor Input Deck Generator (FRIDGe),” Transactions of the American Nuclear Society, vol. 121, 2019, pp. 1514-1517.
 6. R. Stewart, and T. Palmer, “Metallic Fuel Design Space for Sodium Fast Reactors,” Transactions of the American Nuclear Society, vol. 119, 2018, pp. 1116-1119.
@@ -56,7 +59,6 @@ Feel free to email me at stewryan@oregonstate.edu.
 1. F. Gleicher, R. Stewart, S. Bays, “Misuse Detection for a Generalized SFR Test Reactor,” INL, Idaho Falls, INL/EXT-20-00467, July 2019.
 2. H. Zhang, C. Blakely, J. Yu, R. Stewart, and M. Asgari, “Fuel Rod Non-Burst Potential under LOCA Conditions for an Existing Plant with Extended Burnup Exceeding the Current Burnup Limit by 20\%,” INL, Idaho Falls, INL/EXT-19-55888, Oct. 2019.
 3. R. Stewart, “FRIDGe: Fast Reactor Input Deck Generator,” Journal ofOpen Source Software, 4 (40), 1489. https://doi.org/10.21105/joss. 01486.
-
 
 ### Other Interests
 
