@@ -38,7 +38,7 @@ Hey weary traveler, looking for some light reading? Inquire at the links below.
 * <a href="derivations/in-hour-equation/in-hour-equation.pdf" download>In-hour equations</a>
 * <a href="derivations/neutrons-slowing-down/neutrons-slowing-down.pdf" download>Neutron flux when slowing down in hydrogen without absorption</a>
 * <a href="derivations/numerical-soln-to-prkes/numerical-soln-toprkes.pdf" download>Numerical solution to PRKEs</a>
-* <a href="derivations/perturbation-theory/pertubation-theory.pdf" download>Pertubation theory</a>
+* <a href="derivations/perturbation-theory/perturbation-theory.pdf" download>Perturbation theory</a>
 * <a href="derivations/prompt-jump-approx/prompt-jump-approx.pdf" download>Prompt jump approximation</a>
 * <a href="derivations/soln-to-prkes-one-dnp-group/soln-to-prkes-one-dnp-group.pdf" download>Analytic solution to PRKEs with one delayed neutron precursor group</a>
 * <a href="derivations/transport-to-diffusion/transport-to-diffusion.pdf" download>Transport equation to diffusion equation</a>
