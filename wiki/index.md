@@ -88,6 +88,10 @@ There are *countless* text editors out there. It's really just finding which one
 * [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit/)
   - Open source.
 
+## Derivations
+Hey there weary traveler, looking for some light reading? Inquire at the links below.
+* <a href="derivations/prkes/prkes.pdf" download>Pouint Reactor Kinetics Equations</a>
+
 ## Journal of Open Source Software
 The Journal of Open Source Software (JOSS) is an open-source journal for software developers to write a short paper about a piece of code they've written.
 JOSS is peer-reviewed, and can be used to increase awarness of code and provide a source for others to cite.
