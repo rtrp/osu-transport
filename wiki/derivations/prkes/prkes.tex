@@ -1,0 +1,85 @@
+% Author: Aaron James Reynolds
+% Date: January 14th, 2020
+
+\documentclass[]{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\geometry{textwidth=500pt}
+
+\begin{document}
+		\section*{\textbf{Point reactor kinetics equations}} Start: Diffusion and precursor concentration equations. Main assumption: $\phi(r,t) = vn(t)\psi(r)$\\\\ Start with diffusion equation
+	\[
+	\frac{1}{v}\frac{\partial \phi}{\partial t} - \nabla \cdot D\nabla\phi + \Sigma_a\phi = \nu \Sigma_f(1-\beta)\phi+\sum_{i=1}^{6}\lambda_i C_i
+	\]
+	Assume D is constant in space and $\nabla^2\phi + B_g^2\phi = 0$
+	\[
+	\frac{1}{v}\frac{\partial \phi}{\partial t} + DB_g^2\phi + \Sigma_a\phi = \nu \Sigma_f(1-\beta)\phi+\sum_{i=1}^{6}\lambda_i C_i
+	\]
+	Assume separability $\phi(r,t) = vn(t)\psi(r)$ and $C_i(r,t) = C_i(t)\psi(r)$
+	\[
+	\frac{1}{v}\frac{\partial}{\partial t}vn(t)\psi(r) + DB_g^2 vn(t)\psi(r) + \Sigma_avn(t)\psi(r) = \nu \Sigma_f(1-\beta)vn(t)\psi(r) +\sum_{i=1}^{6}\lambda_i C_i(t)\psi(r)
+	\]
+	Divide through by spatial dependence and simplify.
+	\[
+	\frac{\partial}{\partial t}n(t)= v[-DB_g^2 - \Sigma_a +\nu \Sigma_f(1-\beta)]n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+	\]
+	Pull out $\Sigma_a$. $\frac{D}{\Sigma_a} = L^2$.
+	\[
+	\frac{\partial}{\partial t}n(t)= -v\Sigma_a[L^2B_g^2 + 1 -\frac{\nu \Sigma_f}{\Sigma_a}(1-\beta)]n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+	\]
+	The probability of non-leakage is $P_{NL} = \frac{1}{L^2B_g^2 + 1}$
+	\[
+	\frac{\partial}{\partial t}n(t)= -v\Sigma_a[\frac{1}{P_{NL}} -\frac{\nu \Sigma_f}{\Sigma_a}(1-\beta)]n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+	\]
+	\[
+	\frac{\partial}{\partial t}n(t)= -\frac{v\Sigma_a}{P_{NL}}[1 -P_{NL}\frac{\nu \Sigma_f}{\Sigma_a}(1-\beta)]n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+	\]
+	The prompt neutron lifetime is $\ell = \frac{P_{NL}}{v\Sigma_a}$
+	\[
+	\frac{\partial}{\partial t}n(t)= -\frac{1}{\ell}[1 -P_{NL}\frac{\nu \Sigma_f}{\Sigma_a}(1-\beta)]n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+	\]
+	\[
+	\frac{\partial}{\partial t}n(t)= \frac{1}{\ell}[P_{NL}\frac{\nu \Sigma_f}{\Sigma_a}(1-\beta)-1]n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+	\]
+	The multiplication factor is $k=P_{NL}\frac{\nu \Sigma_f}{\Sigma_a}$
+	\[
+	\frac{\partial}{\partial t}n(t)= \frac{1}{\ell}[k(1-\beta)-1]n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+	\]
+	Prompt neutron lifetime is $\ell=\frac{1}{k\Lambda}$
+	\[
+	\frac{\partial}{\partial t}n(t)= \frac{1}{k\Lambda}[k-k\beta)-1]n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+	\]
+	\[
+	\frac{\partial}{\partial t}n(t)= \frac{1}{\Lambda}[\frac{k-1}{k}-\frac{k\beta}{k}]n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+	\]
+	Reactivity is $\rho=\frac{k-1}{k}$. The following is the first equation of the PRKEs.
+	\[
+	\frac{\partial}{\partial t}n(t)= \frac{\rho-\beta}{\Lambda}n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+	\]
+	Now, consider the delayed neutron precursor equation.
+	\[
+	\frac{\partial C_i}{\partial t} = \nu\Sigma_f\beta_i\phi-\lambda_i C_i \quad i=1...6
+	\]
+	Assume separability $\phi(r,t) = vn(t)\psi(r)$ and $C_i(r,t) = C_i(t)\psi(r)$
+	\[
+	\frac{\partial}{\partial t}C_i(t)\psi(r) = \nu\Sigma_f\beta_i vn(t)\psi(r)-\lambda_iC_i(t)\psi(r)
+	\]
+	\[
+	\frac{\partial}{\partial t}C_i(t) = \nu\Sigma_f\beta_i vn(t)-\lambda_iC_i(t)
+	\]
+	Consider $\ell = \frac{P_{NL}}{v\Sigma_a}$ from before. Neutron velocity is $v = \frac{P_{NL}}{\ell\Sigma_a}$
+	\[
+	\frac{\partial}{\partial t}C_i(t) = \frac{\beta_i} {\ell}P_{NL}\frac{\nu\Sigma_f}{\Sigma_a}n(t)-\lambda_iC_i(t)
+	\]
+	\[
+	\frac{\partial}{\partial t}C_i(t) = \frac{\beta_i} {\ell}kn(t)-\lambda_iC_i(t)
+	\]
+	Again, $\ell=\frac{1}{k\Lambda}$.
+	\[
+	\frac{\partial}{\partial t}C_i(t) = \frac{\beta_i} {k\Lambda}kn(t)-\lambda_iC_i(t)
+	\]
+	\[
+	\frac{\partial}{\partial t}C_i(t) =\frac{\beta_i}{\Lambda}n(t)-\lambda_iC_i(t) \quad i=1...6
+	\]
+	Above is the second equation of the PRKEs.
+\end{document}

@@ -1,0 +1,70 @@
+% Author: Aaron James Reynolds
+% Date: January 14th, 2020
+
+\documentclass[]{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\geometry{textwidth=500pt}
+
+\begin{document}
+		\section*{\textbf{Solution to PRKEs with one delayed neutron group}} 
+		Start: PRKEs. Assume: one delayed neutron precursor group and $C_i(t) =C_ie^{st}$ and $n(t) =ne^{st}$.\\\\
+		Start with the neutron concentration equation.
+		\[
+		\frac{\partial}{\partial t}n(t)= \frac{\rho-\beta}{\Lambda}n(t)+\lambda C(t)
+		\]
+		Assume $n(t) =ne^{st}$ and $C(t) =Ce^{st}$
+		\[
+		\frac{\partial}{\partial t}ne^{st}= \frac{\rho-\beta}{\Lambda}ne^{st}+\lambda Ce^{st}
+		\]
+		\[
+		sne^{st}= \frac{\rho-\beta}{\Lambda}ne^{st}+\lambda Ce^{st}
+		\]
+		\[
+		sn= \frac{\rho-\beta}{\Lambda}n+\lambda C
+		\]
+		Apply same treatment to precursor concentration equation.
+		\[
+		\frac{\partial}{\partial t}C(t) =\frac{\beta}{\Lambda}n(t)-\lambda C(t)
+		\]
+		\[
+		\frac{\partial}{\partial t}Ce^{st} =\frac{\beta}{\Lambda}ne^{st}-\lambda Ce^{st}
+		\]
+		\[
+		sCe^{st} =\frac{\beta}{\Lambda}ne^{st}-\lambda Ce^{st}
+		\]
+		\[
+		sC =\frac{\beta}{\Lambda}n-\lambda C
+		\]
+		Using the $sn$ and $sC$ equations, solve for s, yielding solutions of the following form.
+		\[
+		n(t) = n_1e^{s_1t}+n_2e^{s_2t}
+		\]
+		\[
+		C(t) = C_1e^{s_1t}+C_2e^{s_2t}
+		\]
+		Assume $n(0) = n_0$ and $\frac{\partial}{\partial t}C(0)=0$ to obtain an expression for $C_0$
+		\[
+		\frac{\partial}{\partial t}C(t) =\frac{\beta}{\Lambda}n(t)-\lambda C(t)
+		\]
+		\[
+		0 =\frac{\beta}{\Lambda}n_0-\lambda C_0
+		\]
+		\[
+		C_0 =\frac{\beta n_0}{\lambda\Lambda}
+		\]
+		Solve for $n_1, n_2, c_1, c_2$ using the following four equations by inserting the general solutions into the PRKEs.
+		\[
+		n(0)=n_0 = n_1+n_2
+		\]
+		\[
+		C(0)=C_0 = C_1+C_2
+		\]
+		\[
+		\frac{\partial}{\partial t}n(t)= \frac{\rho-\beta}{\Lambda}n(t)+\lambda C(t)
+		\]
+		\[
+		\frac{\partial}{\partial t}C(t) =\frac{\beta}{\Lambda}n(t)-\lambda C(t)
+		\]
+			
+\end{document}
