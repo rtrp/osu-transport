@@ -11,7 +11,7 @@ Aaron James Reynolds
 [LinkedIn](https://www.linkedin.com/in/aaron-james-reynolds-23b0b9a1/)
 
 I am a graduate student working in the Radiation Transport and Reactor Physics group at Oregon State University.
-I focus on the development of computational tools for Molten Salt Reactors. Dr. Todd S. Palmer is my advisor.
+I focus on the development of computational tools for circulating fuel reactors. Dr. Todd S. Palmer is my advisor.
 
 ## Research Interests
 
@@ -29,7 +29,8 @@ This motivates the development of multiscale, multiphysics computational methods
 
 My research aims to develop such tools, facilitated by the the use of __quasi-diffusion methods__. 
 
-![Homogeneous simulation](https://github.com/aaronjamesreynolds/osu-transport/blob/gh-pages/users/reynolaa/images/homogeneous.gif)
+![Homogeneous simulation](images/homogeneous.gif)
+
 Additionally, I have spent the summers of 2018 and 2019 at Oak Ridge National Lab (ORNL) with the NESLS program. 
 While there I worked in the Consortium for the Advanced Simulation of Light Water Reactors (CASL) developing on the Virtual Environment for Reactor Applications (VERA). 
 Specifically, my work involved extending the __fuel performance modeling__ capabilities of __VERA__ to include some __accident tolerant fuel materials__ and enabling __control rod depletion__ in __MPACT__.  
