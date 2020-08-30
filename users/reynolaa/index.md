@@ -19,10 +19,17 @@ __Molten salt reactors__ (MSRs) are a class of next-generation reactor concepts 
 temperature coefficient of reactivity, on-line refueling and fission-product removal, and elimination of costly fuel fabrication.
 
 In one branch of MSR concepts, fissile fuel is mixed throughout a circulating molten salt coolant,
-creating a fluid-fuel mixture. In a fluid-fuel system, delayed neutron precursors can move from the location
-of the initiating fission event before decaying. This can significantly affect the criticality and design of a system. Current modeling software is oriented towards solid-fuel designs and cannot properly model this phenomenon. Similarly, current modeling software cannot properly model on-line refueling and fission-product removal. This motivates the development of multiscale, multiphysics computational methods and tools which can.
+creating a fluid-fuel mixture. 
+In a fluid-fuel system, delayed neutron precursors can move from the location
+of the initiating fission event before decaying. 
+This can significantly affect the criticality and design of a system. 
+Current modeling software is oriented towards solid-fuel designs and cannot properly model this phenomenon. 
+Similarly, current modeling software cannot properly model on-line refueling and fission-product removal. 
+This motivates the development of multiscale, multiphysics computational methods and tools which can.
 
 My research aims to develop such tools, facilitated by the the use of __quasi-diffusion methods__. 
+
+![Homogeneous simulation]({{ site.url }}users/reynolaa/images/homogeneous.gif)
 
 Additionally, I have spent the summers of 2018 and 2019 at Oak Ridge National Lab (ORNL) with the NESLS program. 
 While there I worked in the Consortium for the Advanced Simulation of Light Water Reactors (CASL) developing on the Virtual Environment for Reactor Applications (VERA). 
