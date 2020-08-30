@@ -29,8 +29,7 @@ This motivates the development of multiscale, multiphysics computational methods
 
 My research aims to develop such tools, facilitated by the the use of __quasi-diffusion methods__. 
 
-![Homogeneous simulation]({{ site.url }}users/reynolaa/images/homogeneous.gif)
-
+![Homogeneous simulation](https://github.com/aaronjamesreynolds/osu-transport/blob/gh-pages/users/reynolaa/images/homogeneous.gif)
 Additionally, I have spent the summers of 2018 and 2019 at Oak Ridge National Lab (ORNL) with the NESLS program. 
 While there I worked in the Consortium for the Advanced Simulation of Light Water Reactors (CASL) developing on the Virtual Environment for Reactor Applications (VERA). 
 Specifically, my work involved extending the __fuel performance modeling__ capabilities of __VERA__ to include some __accident tolerant fuel materials__ and enabling __control rod depletion__ in __MPACT__.  
