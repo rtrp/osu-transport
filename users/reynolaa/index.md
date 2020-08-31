@@ -52,6 +52,16 @@ Specifically, my work involved extending the __fuel performance modeling__ capab
 
 ## Published and Presented Work
 
+(In progress)
+Reynolds, Aaron J., Palmer, Todd S.
+"A Multilevel Nonlinear Projective Method and Residual-Balanced Iterative Algorithm for Circulating Fuel Reactor Kinetics" 
+M&C 2021 organized by the American Nuclear Society.
+
+(Accepted) 
+Reynolds, Aaron J., Stimpson, Shane G., Graham, Aaron M.
+"Initial Control Rod Depletion Development in MPACT." 
+Transaction of the American Nuclear Society to be presented at 2020 American Nuclear Society Meeting & Expo.
+
 Reynolds, Aaron J., Palmer, Todd S. 
 "A Projective Method for Solving the Single-Group Space-Time Neutron Kinetics Equations with Precursor Advection." 
 Conference paper and presentation for M&C 2019 organized by the American Nuclear Society.
