@@ -13,9 +13,9 @@ Aaron James Reynolds
 I am a graduate student working in the Radiation Transport and Reactor Physics group at Oregon State University.
 I focus on the development of computational tools for circulating fuel reactors. Dr. Todd S. Palmer is my advisor.
 
-## Research Interests
+# Research Interests
 
-# Circulating fuel reactor kinetics
+## Circulating fuel reactor kinetics
 
 __Molten salt reactors__ (MSRs) are a class of next-generation reactor concepts that benefits from a large negative
 temperature coefficient of reactivity, on-line refueling and fission-product removal, and elimination of costly fuel fabrication.
@@ -29,22 +29,22 @@ This can significantly affect the criticality and design of a system.
 ![Homogeneous simulation](images/homogeneous.gif)
 
 Consider the above simulation in cylindrical geometry with dimensions approximately equal to the those in the Molten Salt Reactor Experiment (R = 70cm and Z = 150cm). 
-The nuclear data is made up, but features negative temperature feedback.
+The nuclear data is made up, but features negative temperature coefficient of reactivity.
 
-* __0.25 seconds__ The flux is initially centered where the delay neutron precursors peak, which is not at midline due to precursor advection
-* __2.00 seconds__As the precursors move, the flux follows 
-* __3.00 seconds__As the flux grows, more energy is deposited in the core and the temperature increases
-* __4.50 seconds__The negative temperature feedback becomes significant and the flux shifts to the inlet of the core
+* __0.25 seconds__ the flux is initially centered where the delay neutron precursors peak, which is not at midline due to precursor advection
+* __2.00 seconds__ as the precursors move, the flux follows 
+* __3.00 seconds__ as the flux grows, more energy is deposited in the core and the temperature increases
+* __4.50 seconds__ the negative temperature feedback becomes significant and the flux shifts to the inlet of the core
 
 Three delayed neutron precursor groups are shown. 
 Group 0 is the longest live, Group 5 is the shortest lived, and Group 3 is somewhere in between.
 
-* Significant recirculation of the Group 0 precursors is observed, but in Group 5, where the delayed neutron precursors decay rapidly, very little it seen.
+* Significant recirculation of the Group 0 precursors is observed, but in Group 5, where the delayed neutron precursors decay rapidly, very little recirculation is seen.
 
-This simulation was produced with QuasiMolto, a code I developed for my dissertation research.
-QuasiMolto uses a multilevel nonlinear projective method to produce the transport solution above, and can do so for an arbitrary number of neutron energies and delayed neutron precursor groups.
+This simulation was produced with __QuasiMolto__, a code I developed for my dissertation research.
+QuasiMolto uses a __multilevel nonlinear projective method__ to produce the __transport solution__ above, and can do so for an arbitrary number of neutron energies and delayed neutron precursor groups.
 
-# Oak Ridge National Laboratory
+## Oak Ridge National Laboratory
 
 Additionally, I have spent the summers of 2018 and 2019 at Oak Ridge National Lab (ORNL) with the NESLS program. 
 While there I worked in the Consortium for the Advanced Simulation of Light Water Reactors (CASL) developing on the Virtual Environment for Reactor Applications (VERA). 
@@ -60,7 +60,7 @@ Reynolds, Aaron J., Stimpson, Shane G., Gardner, Russell.
 "Initial Accident Tolerant Fuel/Cladding Extensions to the VERA to Bison Offline Coupling." 
 Conference paper and presentation for Global/Top Fuel 2019 organized by the American Nuclear Society.
 
-## Other Interests
+# Other Interests
 
 I am a self-published singer-songwriter whose neighbors have learned to tolerate the guitar, banjo, and harmonica.
 I'm also an avid runner, reader, and amateur watchmaker.
