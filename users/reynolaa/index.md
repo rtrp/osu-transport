@@ -15,6 +15,8 @@ I focus on the development of computational tools for circulating fuel reactors.
 
 ## Research Interests
 
+# Circulating fuel reactor kinetics
+
 __Molten salt reactors__ (MSRs) are a class of next-generation reactor concepts that benefits from a large negative
 temperature coefficient of reactivity, on-line refueling and fission-product removal, and elimination of costly fuel fabrication.
 
@@ -23,13 +25,26 @@ creating a fluid-fuel mixture.
 In a fluid-fuel system, delayed neutron precursors can move from the location
 of the initiating fission event before decaying. 
 This can significantly affect the criticality and design of a system. 
-Current modeling software is oriented towards solid-fuel designs and cannot properly model this phenomenon. 
-Similarly, current modeling software cannot properly model on-line refueling and fission-product removal. 
-This motivates the development of multiscale, multiphysics computational methods and tools which can.
-
-My research aims to develop such tools, facilitated by the the use of __quasi-diffusion methods__. 
 
 ![Homogeneous simulation](images/homogeneous.gif)
+
+Consider the above simulation in cylindrical geometry with dimensions approximately equal to the those in the Molten Salt Reactor Experiment (R = 70cm and Z = 150cm). 
+The nuclear data is made up, but features negative temperature feedback.
+
+* __0.25 seconds__ The flux is initially centered where the delay neutron precursors peak, which is not at midline due to precursor advection
+* __2.00 seconds__As the precursors move, the flux follows 
+* __3.00 seconds__As the flux grows, more energy is deposited in the core and the temperature increases
+* __4.50 seconds__The negative temperature feedback becomes significant and the flux shifts to the inlet of the core
+
+Three delayed neutron precursor groups are shown. 
+Group 0 is the longest live, Group 5 is the shortest lived, and Group 3 is somewhere in between.
+
+* Significant recirculation of the Group 0 precursors is observed, but in Group 5, where the delayed neutron precursors decay rapidly, very little it seen.
+
+This simulation was produced with QuasiMolto, a code I developed for my dissertation research.
+QuasiMolto uses a multilevel nonlinear projective method to produce the transport solution above, and can do so for an arbitrary number of neutron energies and delayed neutron precursor groups.
+
+# Oak Ridge National Laboratory
 
 Additionally, I have spent the summers of 2018 and 2019 at Oak Ridge National Lab (ORNL) with the NESLS program. 
 While there I worked in the Consortium for the Advanced Simulation of Light Water Reactors (CASL) developing on the Virtual Environment for Reactor Applications (VERA). 
