@@ -54,7 +54,7 @@ Specifically, my work involved extending the __fuel performance modeling__ capab
 
 (In progress)
 Reynolds, Aaron J., Palmer, Todd S.
-"A Multilevel Nonlinear Projective Method and Residual-Balanced Iterative Algorithm for Circulating Fuel Reactor Kinetics" 
+"A Multilevel Nonlinear Projective Method and Residual-Balanced Iterative Algorithm for Circulating Fuel Reactor Kinetics." 
 M&C 2021 organized by the American Nuclear Society.
 
 (Accepted) 
