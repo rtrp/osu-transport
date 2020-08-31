@@ -41,7 +41,7 @@ Group 0 is the longest live, Group 5 is the shortest lived, and Group 3 is somew
 
 * Significant recirculation of the Group 0 precursors is observed, but in Group 5, where the delayed neutron precursors decay rapidly, very little recirculation is seen.
 
-This simulation was produced with __QuasiMolto__ ([repository here](https://github.com/aaronjamesreynolds/QuasiMolto)), a code I developed as part of my dissertation research.
+This simulation was produced with __QuasiMolto__ ([repository here](https://github.com/aaronjamesreynolds/QuasiMolto)), a computational tool I developed as part of my dissertation research.
 QuasiMolto uses a __multilevel nonlinear projective method__ to produce the __transport solution__ above, and can do so for an arbitrary number of neutron energies and delayed neutron precursor groups.
 
 ## Oak Ridge National Laboratory
