@@ -29,7 +29,7 @@ This can significantly affect reactor kinetics when compared to a solid-fuel sys
 ![Homogeneous simulation](images/homogeneous.gif)
 
 Consider the above simulation in cylindrical geometry with dimensions approximately equal to the those in the Molten Salt Reactor Experiment (R = 70cm and Z = 150cm). 
-The nuclear data is made up, but features negative temperature coefficient of reactivity.
+The nuclear data is made up, but features a negative temperature coefficient of reactivity.
 
 * __0.25 seconds__ the flux is initially centered where the delay neutron precursors peak, which is not at midline due to precursor advection
 * __2.00 seconds__ as the precursors move, the flux follows 
@@ -46,9 +46,9 @@ QuasiMolto uses a __multilevel nonlinear projective method__ to produce the __tr
 
 ## Oak Ridge National Laboratory
 
-I have spent the summers of 2018 and 2019 at Oak Ridge National Lab (ORNL) with the NESLS program. 
-While there I worked in the Consortium for the Advanced Simulation of Light Water Reactors (CASL) developing on the Virtual Environment for Reactor Applications (VERA). 
-Specifically, my work involved extending the __fuel performance modeling__ capabilities of __VERA__ to include some __accident tolerant fuel materials__ and enabling __control rod depletion__ in __MPACT__.  
+I have spent the summers of 2018 and 2019 at Oak Ridge National Laboratory with the NESLS program. 
+While there I worked in the Consortium for the Advanced Simulation of Light Water Reactors developing on the Virtual Environment for Reactor Applications (VERA). 
+Specifically, my work involved extending the __fuel performance modeling__ capabilities of __VERA__ to include some __accident tolerant fuel materials__ and enabling __control rod depletion__ in __MPACT__. 
 
 ## Published and Presented Work
 
