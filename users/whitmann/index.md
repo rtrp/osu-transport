@@ -76,7 +76,7 @@ My current research involves solving the radiative transport equation for phonon
 ## Work Experience
 * ***Los Alamos National Laboratory (LANL)***
   * **XCP-3: Monte Carlo Methods, Codes, and Applications**, Mentors: Travis Trahan (XCP-3) and Jesson Hutchinson (NEN-2), *June - September 2020*
-    * Verification and validation of the Subcritical Reflected alpha-Plutonium (SCRaP) experiments performed at NCERC using the Monte Carlo Application ToolKit (MCATK) software. The SCRaP experiments involved sixteen configurations of an alpha-phase, weapons grade Plutonium sphere surrounded by varying layers of copper and polyethylene reflectors and two Helium-3 multiplicity counters. Analysis included comparisons of MCATK to MCNP and measured values of multiplication factor, multiplication, count rates, and other counting parameters such as Feynman variance-to-mean.
+    * Verification and validation of the Subcritical Reflected alpha-Plutonium (SCRaP) experiments performed at NCERC using the Monte Carlo Application ToolKit (MCATK) software. The SCRaP experiments involved sixteen configurations of an alpha-phase, weapons-grade Plutonium sphere surrounded by varying layers of copper and polyethylene reflectors and two helium-3 multiplicity counters. Analysis included comparisons of MCATK to MCNP and measured values of multiplication factor, multiplication, count rates, and other counting parameters such as Feynman variance-to-mean.
 
 * ***TerraPower, LLC***
   * **Nuclear Design Group - Shielding Methods and Analysis**, Mentors: Jacob Hader & Oded Doron, *June - September, 2019*
