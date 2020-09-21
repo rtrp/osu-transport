@@ -20,10 +20,6 @@ You can also reach out to any of us and we would be more than happy to answer an
 Our old wiki page had some useful information, but mind you, it may be a bit out of date...
 [Old Wiki](./old_wiki/index.md)
 
-# Papers of Interest
-
-%[Optimization](./optimization/index.md)
-
 # Interactive Media
 
 Our research group is in the process of transitioning much of our work to Jupyter notebooks, which will allow us to share our work here and allow others view what we have been up to.
