@@ -22,7 +22,7 @@ Our old wiki page had some useful information, but mind you, it may be a bit out
 
 # Papers of Interest
 
-[Optimization](./optimization/index.md)
+%[Optimization](./optimization/index.md)
 
 # Interactive Media
 
