@@ -29,4 +29,4 @@ Below is a selection of our work.
 Additional work is constantly being updated, so come back and see what else is new.
 
 ### Ryan Stewart
-Hyper-parameter tuning for Surrogate Model Generation - [link](https://github.com/ryanstwrt/surrogate_modeling/blob/master/Surrogate_Model_Hyper_Parameter_Study.ipynb)
+Multi-Agent Blackboard System Benchmark - [link](https://github.com/ryanstwrt/multi_agent_blackboard_system/blob/master/test/bb_benchmark.ipynb)
