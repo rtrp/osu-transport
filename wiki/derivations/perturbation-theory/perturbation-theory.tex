@@ -1,0 +1,42 @@
+% Author: Aaron James Reynolds
+% Date: January 14th, 2020
+
+\documentclass[]{article}
+\usepackage{geometry}
+\usepackage{graphicx,float}
+\geometry{textwidth=500pt}
+
+\begin{document}
+		\section*{\textbf{Perturbation theory}} Start: two diffusion equations characterized by $\Sigma_a$, $\phi$, $k$ and $\Sigma_a'$, $\phi'$, $k'$ respectively.\\\\
+		Start with two steady-state diffusion equations.
+		\[
+		-D\nabla^2\phi+\Sigma_a\phi = \frac{1}{k}\nu\Sigma_f\phi
+		\]
+		\[
+		-D\nabla^2\phi'+\Sigma_a'\phi' = \frac{1}{k'}\nu\Sigma_f\phi'
+		\]
+		Integrate each equation over the complementary flux (assume 1D).
+		\[
+		\int-D\nabla^2\phi\phi' dx+\int\Sigma_a\phi\phi' dx = \int\frac{1}{k}\nu\Sigma_f\phi\phi' dx
+		\]
+		\[
+		\int-D\nabla^2\phi'\phi dx+\int\Sigma_a'\phi'\phi dx = \int\frac{1}{k'}\nu\Sigma_f\phi'\phi dx
+		\]
+		Subtract the second equation from the first.
+		\[
+		\int\Sigma_a\phi\phi' dx -\int\Sigma_a'\phi'\phi dx = \int\frac{1}{k}\nu\Sigma_a\phi\phi' dx-\int\frac{1}{k'}\nu\Sigma_f\phi'\phi dx
+		\]
+		Define $\delta\Sigma_a = \Sigma_a - \Sigma_a'$ and combine like terms.
+		\[
+		\int\delta\Sigma_a\phi\phi' dx = \left(\frac{1}{k}-\frac{1}{k'}\right)\int\nu\Sigma_f\phi\phi' dx
+		\]
+		Consider $\Delta\rho=\rho'-\rho$
+		\[
+		\Delta\rho=\rho'-\rho=\frac{k'-1}{k'}-\frac{k-1}{k}=\frac{(k'-1)k-(k-1)k'}{kk'}=\frac{k'k-k-k'k+k'}{kk'} = \frac{1}{k}-\frac{1}{k'}
+		\]
+		Solve for $\Delta\rho$
+		\[
+		\Delta\rho=\frac{\int\delta\Sigma_a\phi\phi' dx}{\int\nu\Sigma_f\phi\phi' dx}
+		\]
+		
+		\end{document}

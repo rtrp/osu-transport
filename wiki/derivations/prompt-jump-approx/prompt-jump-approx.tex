@@ -1,0 +1,69 @@
+% Author: Aaron James Reynolds
+% Date: January 14th, 2020
+
+\documentclass[]{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\geometry{textwidth=500pt}
+
+\begin{document}
+		\section*{\textbf{Prompt jump}} Start: PRKE. Assume: $\frac{\partial C(0)}{\partial t}=0$ and a single precursor group.\\\\
+		Start with the delayed neutron precursor concentration equation at $t=0$.
+		\[
+		\frac{\partial}{\partial t}C(0) =\frac{\beta}{\Lambda}n(0)-\lambda C(0) 
+		\]
+		Assume $\frac{\partial C(0)}{\partial t}=0$
+		\[
+		0 =\frac{\beta}{\Lambda}n(0)-\lambda C(0) 
+		\]
+		\[
+		C(0) =\frac{\beta}{\lambda\Lambda}n(0)
+		\]
+		Consider the neutron concentration equation and insert $C(0) =\frac{\beta}{\lambda\Lambda}n(0)$
+		\[
+		\frac{\partial}{\partial t}n(t)= \frac{\rho-\beta}{\Lambda}n(t)+\lambda C(0)
+		\]
+		\[
+		\frac{\partial}{\partial t}n(t)- \frac{\rho-\beta}{\Lambda}n(t)=\frac{\beta}{\Lambda}n(0)
+		\]
+		Multiply by an integrating factor $e^{-\alpha t}$ where $\alpha = \frac{\rho-\beta}{\Lambda}$
+		\[
+		\frac{\partial n(t)}{\partial t}e^{-\alpha t}-\alpha n(t)e^{-\alpha t}=\frac{\beta}{\Lambda}n(0)e^{-\alpha t}
+		\]
+		\[
+		\frac{\partial}{\partial t}n(t)e^{-\alpha t}=\frac{\beta}{\Lambda}n(0)e^{-\alpha t}
+		\]
+		Integrate with respect to $t$ from 0 to $t$.
+		\[
+		\int_{0}^{t}\frac{\partial}{\partial t}n(t)e^{-\alpha t}=\int_{0}^{t}\frac{\beta}{\Lambda}n(0)e^{-\alpha t}
+		\]
+		\[
+		n(t)e^{-\alpha t}-n(0)=-\frac{\beta}{\alpha\Lambda}n(0)e^{-\alpha t} + \frac{\beta}{\alpha\Lambda}n(0)
+		\]
+		Divide by $n(0)$ and $e^{-\alpha t}$
+		\[
+		\frac{n(t)}{n(0)}e^{-\alpha t}=\frac{\beta}{\alpha\Lambda}(1-e^{-\alpha t}) +1
+		\]
+		\[
+		\frac{n(t)}{n(0)}=\frac{\beta}{\alpha\Lambda}(e^{\alpha t}-1) +e^{\alpha t}
+		\]
+		\[
+		\frac{n(t)}{n(0)}=-\frac{\beta}{\alpha\Lambda}+e^{\alpha t}(1+\frac{\beta}{\alpha\Lambda})
+		\]
+		Recall $\alpha = \frac{\rho-\beta}{\Lambda}$
+		\[
+		\frac{n(t)}{n(0)}=-\frac{\beta}{\Lambda}\frac{\Lambda}{\rho-\beta}+e^{\alpha t}(1+\frac{\beta}{\Lambda}\frac{\Lambda}{\rho-\beta})
+		\]
+		\[
+		\frac{n(t)}{n(0)}=\frac{\beta}{\beta-\rho}+e^{\alpha t}(1-\frac{\beta}{\beta-\rho})
+		\]
+		Assume $\beta>>\rho$
+		\[
+		\frac{n(t)}{n(0)}=\frac{\beta}{\beta-\rho} = \frac{1}{1-\$}
+		\]
+		Above is the in-hour equation. If the system is not initially critical, the following equation applies.
+		\[
+		\frac{n_2}{n_1}=\frac{\beta-\rho_1}{\beta-\rho_2} = \frac{1-\$_1}{1-\$_2}
+		\]
+			
+\end{document}
