@@ -29,10 +29,8 @@ Check out an introduction to Juypter Notebooks [HERE](https://colab.research.goo
 Below is a selection of our work.
 Additional work is constantly being updated, so come back and see what else is new.
 
-### Ryan Stewart
-Hyper-parameter tuning for Surrogate Model Generation - [link](https://github.com/ryanstwrt/surrogate_modeling/blob/master/Surrogate_Model_Hyper_Parameter_Study.ipynb)
-
 # Derivations
+
 Hey weary traveler, looking for some light reading? Inquire at the links below. 
 * <a href="derivations/prkes/prkes.pdf" download>Point reactor kinetics equations (PRKEs)</a>
 * <a href="derivations/in-hour-equation/in-hour-equation.pdf" download>In-hour equations</a>
@@ -46,3 +44,7 @@ Hey weary traveler, looking for some light reading? Inquire at the links below.
 
 Find an error? Raise an issue or, better yet, fix it (see wiki/derivations/README.txt) and put in a pull request!
 
+### Ryan Stewart
+
+Hyper-parameter tuning for Surrogate Model Generation - [link](https://github.com/ryanstwrt/surrogate_modeling/blob/master/Surrogate_Model_Hyper_Parameter_Study.ipynb)
+Multi-Agent Blackboard System Benchmark - [link](https://github.com/ryanstwrt/multi_agent_blackboard_system/blob/master/test/bb_benchmark.ipynb)
