@@ -1,4 +1,10 @@
-# Creating a personal RTRP page
+---
+title: RTRP-how-to-make-my-webpage
+layout: default
+author: Aaron James Reynolds
+---
+Creating a personal RTRP page
+==============
 
 1.  Create a GitHub account.
 
