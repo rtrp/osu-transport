@@ -40,23 +40,19 @@ Creating a personal RTRP page
     Here's some information on me.
     ```
        
-1.  Add your directory so Git knows to keep track of the files there. 
-
-    `git add myDirectory`
-
 1.  Add a link to your newly created page to `osu-transport/index.html`. Add this under the appropriate category, replacing `myDirectory`, `myFullName`, and `myGitName` with the appropriate information. 
 
     `<li><a href="{{ site.url }}users/myDirectory/">myFullName</a> (<a href="https://github.com/myGitName" class="user-mention">@myGitName</a>)</li> `
     
-1. Navigate to the top of the repository (```osu-transport```) and check to see what files have been modified and/or created.
+1. Navigate to the top of the repository (```osu-transport```) and check to see what files/directories have been modified and/or created.
 
     `git status`
 
-1. Stage the files that have been modified and/or created which you want to be incorporated into the RTRP webpage. 
+1. Stage the files/directories that have been modified and/or created which you want to be incorporated into the RTRP webpage. 
 
     `git add pathTo/file`
     
-    *  Alternatively, if you want to incorporate ALL the    modified and/or created files, you can do `git add *`. This is quicker, but is not the best habit to get into. You might accidentally add an unwanted file by mistake.
+    *  Alternatively, if you want to incorporate ALL the modified and/or created files/directories, you can do `git add *`. This is quicker, but is not the best habit to get into. You might accidentally add an unwanted file by mistake.
    
 1.  Commit the changes you've made. Be sure to write an informative, but brief, commit message.
 
