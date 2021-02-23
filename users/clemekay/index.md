@@ -8,9 +8,8 @@ author: Kayla Clements
 
 Email: clemekay@oregonstate.edu
 
-***
 
-##About Me
+## About Me
 
 I'm currently a first year graduate student at Oregon State University under Dr. Todd Palmer. I work with the Center for Exascale Monte Carlo Neutron Transport (CEMeNT), a PSAAP-III focused investigatory center led by OSU and partners Notre Dame University and North Carolina State University. The center's goal is to advance Monte Carlo neutron transport capabilities, and I work under the main thrust area of Predictive Science. More information for CEMeNT can be found [here](https://cement-psaap.github.io). My current research interests include time-dependent monte-carlo, dynamic-mode decomposition solutions, and parallel computing.  
 
