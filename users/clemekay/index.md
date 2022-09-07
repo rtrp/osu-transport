@@ -5,7 +5,7 @@ author: Kayla Clements
 ---
 # Kayla Clements
 
-<img src="{{ site.url }}users/clemekay/images/me.jpg">
+<img src="{{ site.url }}users/clemekay/images/me.jpg" height="300">
 --------------
 
 Email me: [clemekay@oregonstate.edu](mailto:clemekay@oregonstate.edu)
