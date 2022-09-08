@@ -5,7 +5,7 @@ author: Eric Hudec
 ---
 # Eric Hudec
 
-<img src="{{ site.url }}users/ehudec/images/Ashlea and I.JPEG" height="403" width="302">
+<img src="users/ehudec/images/Ashlea and I.JPEG" height="403" width="302">
 --------------
 
 Contact: [hudece@oregonstate.edu](mailto:hudece@oregonstate.edu)
