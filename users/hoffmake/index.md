@@ -14,6 +14,8 @@ I am a second year MS student working part time for Los Alamos National Laborato
 
 My research interests include reactor design, Monte Carlo simulation, and numerical methods. I got my bachelor's degree in Nuclear Engineering from Oregon State University in 2021.
 
+***
+
 # Work Experience
 
 ## Microreactor UM fuel depletion, Los Alamos National Laboratory
@@ -21,14 +23,15 @@ My research interests include reactor design, Monte Carlo simulation, and numeri
 - Performed sensitivity studies on size and number of depletion regions using a TRISO fueled, graphite moderated, and heat pipe cooled microreactor model.
 - Wrote Python scripts for data processing.
 - Ran depletion studies using unstructured mesh elements as depletion zones.
-- Continuing the work for LANL during the school year as part of thesis research.
+- Continuing work for LANL during the school year as part of thesis research.
 
+***
 
 # Previous Work
 
 ## Graduate Research Assistant, Oregon State University
-- Made SERPENT model of fuel rod in Sandia National Laboratory's Annular Core Research Reactor, for use in full core depletion study.
-- Performed comparison depletion studies using MCNP models.
+- Made SERPENT model of fuel rod from Sandia National Laboratory's Annular Core Research Reactor, for use in full core depletion study.
+- Performed comparison depletion study using MCNP model.
 
 ## Graduate Teaching Assistant, Oregon State University
 - Helped teach Neutronics I & II. Made answer keys, graded homework/tests, taught review sessions, and answered student questions.
