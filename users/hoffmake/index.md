@@ -3,7 +3,7 @@ title: Keenan-personal
 layout: default
 author: Keenan Hoffman
 ---
-# Keenan J Hoffman
+# Keenan Hoffman
 <img src="images/Mug.jpeg" height="300">
 <img src="images/Pug.JPG" height="300">
 
