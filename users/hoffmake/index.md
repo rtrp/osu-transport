@@ -4,10 +4,8 @@ layout: default
 author: Keenan Hoffman
 ---
 # Keenan J Hoffman
-
-<img src="{{ site.url }}users/hoffmake/images/Mug.jpg" height="300">
-<img src="{{ site.url }}users/hoffmake/images/Pug.jpg" height="300">
---------------
+<img src="images/Mug.jpg" height="300">
+<img src="images/Pug.jpg" height="300">
 
 Email me: [hoffmake@oregonstate.edu](mailto:hoffmake@oregonstate.edu)
 
