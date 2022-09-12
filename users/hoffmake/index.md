@@ -4,8 +4,8 @@ layout: default
 author: Keenan Hoffman
 ---
 # Keenan J Hoffman
-<img src="images/Mug.jpg" height="300">
-<img src="images/Pug.jpg" height="300">
+<img src="images/Mug.jpeg" height="300">
+<img src="images/Pug.JPG" height="300">
 
 Email me: [hoffmake@oregonstate.edu](mailto:hoffmake@oregonstate.edu)
 
@@ -16,7 +16,8 @@ My research interests include reactor design, Monte Carlo simulation, and numeri
 
 # Work Experience
 
-## Microreactor UM fuel depletion, Los Alamos National Laboratory (Summer Internship, NEN-5)
+## Microreactor UM fuel depletion, Los Alamos National Laboratory
+- Systems Design and Analysis (NEN-5)
 - Performed sensitivity studies on size and number of depletion regions using a TRISO fueled, graphite moderated, and heat pipe cooled microreactor model.
 - Wrote Python scripts for data processing.
 - Ran depletion studies using unstructured mesh elements as depletion zones.
@@ -25,11 +26,11 @@ My research interests include reactor design, Monte Carlo simulation, and numeri
 
 # Previous Work
 
-## Graduate Research Assistant, Oregon State University (Spring Assistantship, OSU)
+## Graduate Research Assistant, Oregon State University
 - Made SERPENT model of fuel rod in Sandia National Laboratory's Annular Core Research Reactor, for use in full core depletion study.
 - Performed comparison depletion studies using MCNP models.
 
-## Graduate Teaching Assistant, Oregon State University (Fall-Winter Assistantship, OSU)
+## Graduate Teaching Assistant, Oregon State University
 - Helped teach Neutronics I & II. Made answer keys, graded homework/tests, taught review sessions, and answered student questions.
 
 
