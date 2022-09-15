@@ -1,0 +1,45 @@
+% Author: Aaron James Reynolds
+% Date: January 14th, 2020
+
+\documentclass[]{article}
+\usepackage{geometry}
+\usepackage{graphicx,float}
+\geometry{textwidth=500pt}
+
+\begin{document}
+		\section*{\textbf{Transport to One-Speed Diffusion}}
+		Start: Transport equation. Assume: isotropic scattering, one energy group, Fick's law.\\\\
+		Start with the transport equation:
+		\[
+		\left[\frac{1}{v}\frac{\partial}{\partial t} + \vec{\Omega} \cdot \nabla +\Sigma_t(\vec{r}, E, t)\right]\psi(\vec{r},\vec{\Omega}, E, t) = \int_{4\pi}d\vec{\Omega '}\int_{0}^{\infty}dE' \Sigma_s(\vec{\Omega '}\rightarrow\vec{\Omega}, E' \rightarrow E)\psi(\vec{r},\vec{\Omega '}, E', t)+S 
+		\]
+		Where $S$ is a source. The fission term would be:
+		\[
+		\frac{X_p(E)}{4\pi}\int_{0}^{E}dE'\nu(E')\Sigma_f(E')\phi(\vec{r}, E', t)
+		\]
+		To arrive at the diffusion equation, start by integrating over all angles. The terms, in order, are:
+		\[
+		\frac{1}{v}\frac{\partial}{\partial t}\int_{4\pi}d\Omega\psi(\vec{r},\vec{\Omega}, E, t) = \frac{1}{v}\frac{\partial}{\partial t}\phi(\vec{r}, E, t)
+		\]
+		\[
+		\int_{4\pi}d\Omega(\vec{\Omega} \cdot \nabla \psi(\vec{r},\vec{\Omega}, E, t)) = \nabla \cdot\int_{4\pi}d\Omega(\vec{\Omega} \psi(\vec{r},\vec{\Omega}, E, t)) = \nabla \cdot \vec{J} 
+		\]
+		\[
+		\int_{4\pi}d\Omega\Sigma_t(\vec{r}, E, t)\psi(\vec{r},\vec{\Omega}, E, t) = \Sigma_t(\vec{r}, E, t)\phi(\vec{r}, E, t) 
+		\]
+		\[
+		\int_{4\pi}d\vec{\Omega}\int_{4\pi}d\vec{\Omega '}\int_{0}^{\infty}dE' \Sigma_s(\vec{\Omega '}\rightarrow\vec{\Omega}, E' \rightarrow E)\psi(\vec{r},\vec{\Omega '}, E', t) = \int_{0}^{\infty}dE' \Sigma_s( E' \rightarrow E)\phi(\vec{r}, E', t)
+		\]
+		Assume one speed, producing the following equation:
+		\[
+		\frac{1}{v}\frac{\partial}{\partial t}\phi(\vec{r}, t) + \nabla \cdot \vec{J} +\Sigma_t(\vec{r}, t)\phi(\vec{r}, t) =  \Sigma_s(\vec{r}, t)\phi(\vec{r}, E', t)+S
+		\]
+		\[
+		\frac{1}{v}\frac{\partial}{\partial t}\phi(\vec{r}, t) + \nabla \cdot \vec{J} +\Sigma_a(\vec{r}, t)\phi(\vec{r}, t) = S	
+		\]
+		Substitute with Fick's Law $\vec{J} = -D\nabla\phi$
+		\[
+		\frac{1}{v}\frac{\partial}{\partial t}\phi(\vec{r}, t) - \nabla \cdot D\nabla\phi +\Sigma_a(\vec{r}, t)\phi(\vec{r}, t) = S	
+		\]
+		
+		\end{document}

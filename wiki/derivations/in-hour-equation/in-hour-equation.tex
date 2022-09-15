@@ -1,0 +1,73 @@
+% Author: Aaron James Reynolds
+% Date: January 14th, 2020
+
+\documentclass[]{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\geometry{textwidth=500pt}
+
+\begin{document}
+		\section*{\textbf{In-hour equation}} Start: PRKEs. Assume: $C_i(t) =C_ie^{st}$ and $n(t) =ne^{st}$\\\\
+		Start with the delayed neutron precursor concentration equation.
+		\[
+		\frac{\partial}{\partial t}C_i(t) =\frac{\beta_i}{\Lambda}n(t)-\lambda_iC_i(t) \quad i=1...6
+		\]
+		Assume $C_i(t) =C_ie^{st}$ and $n(t) =ne^{st}$
+		\[
+		\frac{\partial}{\partial t}C_ie^{st} =\frac{\beta_i}{\Lambda}ne^{st}-\lambda_iC_ie^{st}
+		\]
+		\[
+		sC_ie^{st} =\frac{\beta_i}{\Lambda}ne^{st}-\lambda_iC_ie^{st}
+		\]
+		Divide through by common terms.
+		\[
+		sC_i =\frac{\beta_i}{\Lambda}n-\lambda_iC_i
+		\]
+		\[
+		C_i =\frac{\beta_i}{\Lambda(s+\lambda_i)}n
+		\]
+		Now consider neutron concentration equation.
+		\[
+		\frac{\partial}{\partial t}n(t)= \frac{\rho-\beta}{\Lambda}n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+		\]
+		Assume $C_i(t) =C_ie^{st}$ and $n(t) =ne^{st}$
+		\[
+		\frac{\partial}{\partial t}ne^{st}= \frac{\rho-\beta}{\Lambda}ne^{st}+\sum_{i=1}^{6}\lambda_i C_ie^{st}
+		\]
+		\[
+		sne^{st}= \frac{\rho-\beta}{\Lambda}ne^{st}+\sum_{i=1}^{6}\lambda_i C_ie^{st}
+		\]
+		Insert $C_i =\frac{\beta_i}{\Lambda(s+\lambda_i)}n$
+		\[
+		sne^{st}= \frac{\rho-\beta}{\Lambda}ne^{st}+\sum_{i=1}^{6}\lambda_i \frac{\beta_i}{\Lambda(s+\lambda_i)}ne^{st}
+		\]
+		Divide through by common terms.
+		\[
+		s= \frac{\rho-\beta}{\Lambda}+\sum_{i=1}^{6}\lambda_i \frac{\beta_i}{\Lambda(s+\lambda_i)}
+		\]
+		Multiply both sides by $\Lambda$. $\Lambda = \ell(1-\rho)$
+		\[
+		s\Lambda= \rho-\beta+\sum_{i=1}^{6}\lambda_i \frac{\beta_i}{(s+\lambda_i)}
+		\]
+		\[
+		s\ell(1-\rho)= \rho-\beta+\sum_{i=1}^{6}\lambda_i \frac{\beta_i}{(s+\lambda_i)}
+		\]
+		\[
+		\rho(s\ell+1)-s\ell= \beta-\sum_{i=1}^{6}\lambda_i \frac{\beta_i}{(s+\lambda_i)}
+		\]
+		Bring $\beta$ into summation.
+		\[
+		\rho(s\ell+1)-s\ell= \sum_{i=1}^{6}\beta_i-\lambda_i \frac{\beta_i}{(s+\lambda_i)}
+		\]
+		\[
+		\rho(s\ell+1)-s\ell= \sum_{i=1}^{6}\beta_i\left(1-\frac{\lambda_i}{(s+\lambda_i)}\right)
+		\]
+		\[
+		\rho(s\ell+1)-s\ell= \sum_{i=1}^{6}\beta_i\frac{s}{(s+\lambda_i)}
+		\]
+		\[
+		\rho=\frac{s\ell}{s\ell+1}+ \frac{1}{s\ell+1}\sum_{i=1}^{6}\beta_i\frac{s}{(s+\lambda_i)}
+		\]
+		Above is the in-hour equation. It is used to calculate the reactivity needed to put a nuclear reactor on a particular period.
+		
+		\end{document}

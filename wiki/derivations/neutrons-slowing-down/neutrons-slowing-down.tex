@@ -1,0 +1,56 @@
+% Author: Aaron James Reynolds
+% Date: January 14th, 2020
+
+\documentclass[]{article}
+\usepackage{geometry}
+\usepackage{graphicx,float}
+\geometry{textwidth=500pt}
+
+\begin{document}
+		\section*{\textbf{Neutrons Slowing Down in Hydrogen without Absorption}}
+		Start: diffusion equation. Assume: Steady state, infinite medium, A=1, no absorption, and a source of neutrons $S(E)$ that exists from $E_* <E<E_0$.\\\\
+		Start with the diffusion equation. 
+		\[
+		\frac{1}{v}\frac{\partial \phi(E)}{\partial t} - \nabla \cdot D\nabla\phi(E) + \Sigma_t(E)\phi(E) = \int_{0}^{\infty}\Sigma_s(E'\rightarrow E)\phi(E')dE'+ S
+		\]
+		Assume steady state and remove the first term. Assume an infinite medium and remove the second term. 
+		\[
+		\Sigma_t(E)\phi(E) = \int_{0}^{\infty}\Sigma_s(E'\rightarrow E)\phi(E')dE'+ S
+		\]
+		Assume $\Sigma_s(E'\rightarrow E) = \frac{\Sigma_s(E')}{(1-\alpha)E'}$ for $E<E'<\frac{E}{\alpha}$. (Found from plotting energy vs. uniform probability of scattering between $\alpha\Sigma_s$ and $\Sigma_s$)
+		\[
+		\Sigma_t(E)\phi(E) = \int_{E}^{E/\alpha}\frac{\Sigma_s(E')}{(1-\alpha)E'}\phi(E')dE'+ S(E)
+		\]
+		Assume slowing down in hydrogen without absorption. $\Sigma_t = \Sigma_s$ and $\alpha = \frac{A-1}{A+1}^2 = 0$
+		\[
+		\Sigma_s(E)\phi(E) = \int_{E}^{\infty}\frac{\Sigma_s(E')}{E'}\phi(E')dE'+ S(E)
+		\]
+		Define $F(E)=\Sigma_s(E)\phi(E)$ take the derivative with respect to $E$.
+		\[
+		\frac{\partial}{\partial E}F(E) = \frac{\partial}{\partial E}\int_{E}^{\infty}\frac{F(E')}{E'}dE'+ \frac{\partial}{\partial E}S(E)
+		\]
+		\[
+		\frac{\partial}{\partial E}F(E) =-\frac{F(E)}{E}+ \frac{\partial}{\partial E}S(E)
+		\]
+		\[
+		\frac{\partial F(E)}{\partial E}E+F(E) = \frac{\partial S(E)}{\partial E}E + S(E) - S(E)
+		\]
+		\[
+		\frac{\partial}{\partial E}F(E)E = \frac{\partial}{\partial E}S(E)E - S(E)
+		\]
+		Integrate with respect to $E'$ from $E$ to $E_0$
+		\[
+		\int_{E}^{E_0}\frac{\partial}{\partial E}F(E)E = \int_{E}^{E_0}\frac{\partial}{\partial E}S(E)E - \int_{E}^{E_0}S(E')
+		\]
+		\[
+		-F(E)E = -S(E)E - \int_{E}^{E_0}S(E')dE'
+		\]  
+		\[
+		F(E) = S(E) + \frac{1}{E}\int_{E}^{E_0}S(E')dE'
+		\]
+		Recall $F(E) = \Sigma_s(E)\phi(E)$ and $S(E) = 0$ for $E<E_*$
+		\[
+		\phi(E) = \frac{1}{\Sigma_s(E)}\left[S(E) + \frac{1}{E}\int_{E_*}^{E_0}S(E')dE'\right]
+		\]
+		
+		\end{document}

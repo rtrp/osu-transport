@@ -1,0 +1,72 @@
+% Author: Aaron James Reynolds
+% Date: January 14th, 2020
+
+\documentclass[]{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\geometry{textwidth=500pt}
+
+\begin{document}
+		\section*{\textbf{Numerical solution to the PRKEs}} Start: PRKEs. Assume: $\sum_{i=1}^{6}\lambda_i C_i=\textrm{constant}$ and $\int_{0}^{t}n(t) = \frac{n(t)+n(0)}{2}$\\\\
+		Start with the neutron concentration equation.
+		\[
+		\frac{\partial}{\partial t}n(t)= \frac{\rho-\beta}{\Lambda}n(t)+\sum_{i=1}^{6}\lambda_i C_i(t)
+		\]
+		\[
+		\frac{\partial}{\partial t}n(t)-\frac{\rho-\beta}{\Lambda}n(t)= \sum_{i=1}^{6}\lambda_i C_i(t)
+		\]
+		Define $A=\frac{\rho-\beta}{\Lambda}$ and multiply by an integrating factor $e^{-At}$
+		\[
+		\frac{\partial n(t)}{\partial t}e^{-At}-An(t)e^{-At}= \sum_{i=1}^{6}\lambda_i C_i(t)e^{-At}
+		\]
+		\[
+		\frac{\partial}{\partial t}\left[n(t)e^{-At}\right]= \sum_{i=1}^{6}\lambda_i C_i(t)e^{-At}
+		\]
+		Integrate with respect to $t$ from 0 to $t$.
+		\[
+		n(t)e^{-At}-n(0)= \int_{0}^{t}\sum_{i=1}^{6}\lambda_i C_i(t)e^{-At}
+		\]
+		Assume $\sum_{i=1}^{6}\lambda_i C_i=\textrm{constant}$
+		\[
+		n(t)e^{-At}-n(0)= \sum_{i=1}^{6}\lambda_i C_i(t)\int_{0}^{t}e^{-At}dt
+		\]
+		\[
+		n(t)e^{-At}-n(0)= \sum_{i=1}^{6}\lambda_i C_i(t)\frac{1}{-A}(e^{-At}-1)
+		\]
+		\[
+		n(t)=n(0)e^{At} +\sum_{i=1}^{6}\lambda_i C_i(t)\frac{1}{-A}(1-e^{At})
+		\]
+		\[
+		n(t)=n(0)e^{At} +\sum_{i=1}^{6}\lambda_i C_i(t)\frac{1}{A}(e^{At}-1)
+		\]
+		Apply same treatment to delayed neutron precursor equation.
+		\[
+		\frac{\partial}{\partial t}C_i(t) =\frac{\beta_i}{\Lambda}n(t)-\lambda_iC_i(t) \quad i=1...6
+		\]
+		\[
+		\frac{\partial}{\partial t}C_i(t)+\lambda_iC_i(t) =\frac{\beta_i}{\Lambda}n(t)
+		\]
+		Multiply by an integrating factor of $e^{\lambda t}$
+		\[
+		\frac{\partial C_i(t)}{\partial t}e^{\lambda_i t}+\lambda_iC_i(t)e^{\lambda_i t} =\frac{\beta_i}{\Lambda}n(t)e^{\lambda_i t}
+		\]
+		\[
+		\frac{\partial}{\partial t}\left[C_i(t)e^{\lambda_i t}\right] =\frac{\beta_i}{\Lambda}n(t)e^{\lambda_i t}
+		\]
+		Integrate with respect to $t$ from 0 to $t$.
+		\[
+		C_i(t)e^{\lambda_i t} - C_i(0) =\int_{0}^{t} \frac{\beta_i}{\Lambda}n(t)e^{\lambda_i t}dt
+		\]
+		Assume $\int_{0}^{t}n(t) = \frac{n(t)+n(0)}{2}$
+		\[
+		C_i(t)e^{-\lambda_i t} - C_i(0) =\frac{\beta_i}{\Lambda}\frac{n(t)+n(0)}{2}\int_{0}^{t} e^{\lambda_i t}dt
+		\]
+		\[
+		C_i(t)e^{-\lambda_i t} =C_i(0)+\frac{\beta_i}{\Lambda}\frac{n(t)+n(0)}{2}\frac{1}{\lambda_i}(e^{\lambda_i t}-1)
+		\]
+		\[
+		C_i(t) =C_i(0)e^{-\lambda_i t}+\frac{\beta_i}{\Lambda}\frac{n(t)+n(0)}{2}\frac{1}{\lambda_i}(1-e^{-\lambda_i t})\quad i=1...6
+		\]
+		For the numerical solution, replace $t$ with a time step, and n(t) and n(0) are adjacent time steps.
+		
+		\end{document}

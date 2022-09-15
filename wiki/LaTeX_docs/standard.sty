@@ -1,0 +1,44 @@
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp,gensymb} %textcomp gets rid of warnings for "not defining" \perthousand and \micro.             
+
+%% Set Defaults on Lists
+\usepackage{enumitem}
+\setlist{itemsep=2pt} % adjust vertical spacing
+
+%% Math Packages
+\usepackage{amsmath} % math
+\usepackage{amsfonts} % math fonts
+\usepackage{amssymb} % math symbols
+\usepackage{bm} % bold math
+
+%% Graphics Packages
+\usepackage{graphicx} % import graphics package
+\usepackage{epstopdf} %allow for eps files to be put in pdf
+\usepackage{pgfgantt} % Gantt chart
+\usepackage{tikz} % the money maker.
+\usepackage{tikz-3dplot} % advanced money maker
+\usetikzlibrary{patterns, shapes.geometric, arrows,calc} % makes the money maker prettier
+\usepackage{pgfplots} % the money maker mk. II
+
+%% Define colors
+\usepackage{color}
+\definecolor{light-gray}{gray}{0.95} % number between 0 (black) and 1 (white)
+
+% Page Layout
+\usepackage[left=1in,right=1in,top=1.2in,bottom=1.2in]{geometry}
+
+% Formatting
+\usepackage{hyperref} % clickable hyperlinks to sections and figures/tables and using \url{}
+\usepackage[section]{placeins} % to use /FloatBarrier which puts a physical barrier on floats relative to the text
+\usepackage{multicol} % to use columns
+\usepackage{threeparttable} % Can use footnotes inside a table
+\usepackage{multirow} % to have a table entry span multiple rows
+\usepackage{fancyhdr} % for header formatting
+\lhead{} % left header
+\chead{} % center header
+\rhead{\thepage} % puts page number in right header
+\lfoot{} % left footer
+\cfoot{} % center footer
+\rfoot{} % right footer
+\renewcommand\headrule{} % removes the line across the header
+
