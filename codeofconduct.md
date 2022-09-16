@@ -32,8 +32,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Todd Palmer is available to help group members contact security or local law enforcement, navigate official University reporting channels, 
 or otherwise assist those experiencing harassment to feel safe in the research environment.
 
-If Todd is the cause of the concern or you would prefer he not be involved, official concerns can be addressed by contacting the 
-UIUC WeCare office, or the Campus Office of Diversity, Equity and Access.
+If Todd is the cause of the concern or you would prefer he not be involved, official concerns can be addressed by contacting OSU's Equal Opportunity and Access office, or the OSU Office of Institutional Diversity.
 
 We expect research group members to follow these rules in all professional settings including the office, conferences, workshop venues, 
 and group-related social events. We additionally expect members to treat each other professionally with respect to their work and workspaces, 
