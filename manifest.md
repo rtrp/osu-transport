@@ -6,7 +6,7 @@ author: Todd Palmer
 # Manifesto
 
 This part of the website is intended to be a living document capturing the norms and processes used in the RTRP research group.   
-These sections were inspired by the <a href="http://http://arfc.npre.illinois.edu/" target="_blank" >AFRC</a> web pages authored by Katy Huff at UIUC.
+These sections were inspired by the <a href="http://arfc.npre.illinois.edu/" target="_blank" >AFRC</a> web pages authored by Katy Huff at UIUC.
 
 ## Mission
 
