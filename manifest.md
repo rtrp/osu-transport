@@ -6,7 +6,7 @@ author: Todd Palmer
 # Manifesto
 
 This part of the website is intended to be a living document capturing the norms and processes used in the RTRP research group.   
-These sections were inspired by the AFRC web pages authored by Katy Huff at UIUC.
+These sections were inspired by the <a href="http://arfc.npre.illinois.edu/" target="_blank" >AFRC</a> web pages authored by Katy Huff at UIUC.
 
 ## Mission
 
@@ -15,7 +15,7 @@ energy production, medicine, industrial uses of radiation, and national security
 
 ## Expectations
 
-The section on expectations addresses mutual expectations among members of the group, with special attention to student-advisor expectations. Again, a great deal of this section came from Lab Carpentry and DXL, but other inspiration also came from Chris Blattman, Paul Wilson, Carl Boettiger, Titus Brown and lots of posts on the Professor Hacker Blog.
+The section on expectations addresses mutual expectations among members of the group, with special attention to student-advisor expectations. Much of this section is verbatim from the <a href="http://arfc.npre.illinois.edu/" target="_blank" >AFRC</a> website, and much of it originated from Lab Carpentry and DXL, but other inspiration also came from Chris Blattman, Paul Wilson, Carl Boettiger, Titus Brown and lots of posts on the Professor Hacker Blog.
 
 ## Code of Conduct
 
@@ -24,4 +24,4 @@ In addition to institutional standards, this group upholds our own evolving code
 
 ## Guides
 
-The guides are a set of overviews and checklists for mastering the practical, administrative, and computational infrastructure ARFC relies on for various common tasks. All research group members should contribute to this section early and often. If you’re new to the research group, you’ll want to use the getting started guide. Additionally, the various channels through which we communicate both internally and externally are documented in a set of communication guides. Finally, approaches to productively working with Katy are captured in some of the guides as well.
+The guides are a set of overviews and checklists for mastering the practical, administrative, and computational infrastructure RTRP relies on for various common tasks. All research group members should contribute to this section early and often. If you’re new to the research group, you’ll want to use the getting started guide. Additionally, the various channels through which we communicate both internally and externally are documented in a set of communication guides. Finally, approaches to productively working with TP are captured in some of the guides as well.  [This section is under construction...]

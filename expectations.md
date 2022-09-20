@@ -81,4 +81,4 @@ Undergraduate students in the research group have a few core responsibilities. F
 
 ## Credit
 
-I borrowed liberally from Katy Huff's AFCR web pages, which were in turn, inspired by Lab Carpentry and its implementation at the Data Exploration Laboratory and the Lab for Data Intensive Biology.
+I borrowed liberally from Katy Huff's <a href="http://arfc.npre.illinois.edu/" target="_blank" >AFRC</a> web pages, which were in turn, inspired by Lab Carpentry and its implementation at the Data Exploration Laboratory and the Lab for Data Intensive Biology.
