@@ -40,7 +40,6 @@ with constructive criticism, without dismissive behavior, and without disruption
 
 ## Original source and credit:
 
-This is a modified version of the Code of Conduct from Katy Huff's AFCR group webpage, and originated from http://2012.jsconf.us/#/about and 
-The Ada Initiative with edits from DXL and the Data Intensive Biology Lab.
+This is a modified version of the Code of Conduct from Katy Huff's <a href="http://arfc.npre.illinois.edu/" target="_blank" >AFRC</a> group webpage, and originated from http://2012.jsconf.us/#/about and The Ada Initiative with edits from DXL and the Data Intensive Biology Lab.
 
 Please help by translating or improving: https://github.com/leftlogic/confcodeofconduct.com.
