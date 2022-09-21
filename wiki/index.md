@@ -1,11 +1,10 @@
 ---
 title: Wiki
 layout: default
-author: Ryan Stewart
+author: Ryan Stewart, Kayla Clements
 ---
 
 # RTRP Wiki
-
 Welcome!
 This wiki page is for current or future students who are interested in Dr. Palmer's research group.
 Our interests vary from accelerated transport methods, to core design, isotope production, and the use of advanced computational techniques to solve large scale problems.
@@ -15,17 +14,18 @@ Along with this we have provided an interactive section (via Google Colab/Jypter
 If you're interested in attending OSU, please feel free to visit our individual pages and see what we are working on.
 You can also reach out to any of us and we would be more than happy to answer any questions about our work, funding, or general life at OSU.
 
-# Useful References
 
-Our old wiki page had some useful information, but mind you, it may be a bit out of date...
+
+# Useful References
+* Current students: how do I create my RTRP webpage? [How to](./start_my_page.md)
+* Cheat sheet for [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), what this website is written in
+* Interactive tutorial on using git both locally and remotely (ie with something like GitHub): [Learn Git Branching](https://learngitbranching.js.org)
+* Our old wiki page had some useful information, but mind you, it may be a bit out of date...
 [Old Wiki](./old_wiki/index.md)
 
-How do I create my RTRP webpage?
-[How to](./start_my_page.md)
 
 
 # Interactive Media
-
 Our research group is in the process of transitioning much of our work to Jupyter notebooks, which will allow us to share our work here and allow others view what we have been up to.
 New to Jupyter notebooks? 
 Check out an introduction to Juypter Notebooks [HERE](https://colab.research.google.com/github/ryanstwrt/osu-transport/blob/gh-pages/users/stewryan/juypter_intro.ipynb) (Note: This will take you to a Google Colab page)
@@ -33,7 +33,6 @@ Below is a selection of our work.
 Additional work is constantly being updated, so come back and see what else is new.
 
 # Derivations
-
 Hey weary traveler, looking for some light reading? Inquire at the links below. 
 * <a href="derivations/prkes/prkes.pdf" download>Point reactor kinetics equations (PRKEs)</a>
 * <a href="derivations/in-hour-equation/in-hour-equation.pdf" download>In-hour equations</a>
