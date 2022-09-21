@@ -17,7 +17,7 @@ You can also reach out to any of us and we would be more than happy to answer an
 
 
 # Useful References
-* Current students: how do I create my RTRP webpage? [How to](./start_my_page.md)
+* Current students: How do I create my RTRP webpage? [How to](./start_my_page.md)
 * Cheat sheet for [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), what this website is written in
 * Interactive tutorial on using git both locally and remotely (ie with something like GitHub): [Learn Git Branching](https://learngitbranching.js.org)
 * Our old wiki page had some useful information, but mind you, it may be a bit out of date...
