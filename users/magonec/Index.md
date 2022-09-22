@@ -5,7 +5,7 @@ author: Christopher Magone
 ---
 # Christopher Magone
 
-<img src="GradResearch/../../../../A56C50CC-6818-46B4-B692-F0BE3642EDF5.jpg" height="400" width="300">
+<img src="Images/Pic.jpg" height="400" width="300">
 
 --------------
 
