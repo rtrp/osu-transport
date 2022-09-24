@@ -5,7 +5,7 @@ author: Christopher Magone
 ---
 # Christopher Magone
 
-<img src="Images/Pic.jpg" height="400" width="300">
+<img src="{{ site.url }}users/magonec/Images/Pic.jpg" height="400" width="300">
 
 --------------
 
