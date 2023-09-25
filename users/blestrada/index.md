@@ -5,7 +5,7 @@ author: Benji Estrada
 ---
 # Benji Estrada
 
-<img src="images/pfp.jpg">
+<img src="{{ site.url }}users/blestrada/images/pfp.jpg" height="300">
 --------------
 
 Email: [estradbe@oregonstate.edu](mailto:estradbe@oregonstate.edu)
