@@ -7,7 +7,7 @@ author: Eric Hudec
 
 ## email: [hudece@oregonstate.edu](mailto:hudece@oregonstate.edu) cell: 217-341-5975
 
-<img src="images/selfie_y2.JPEG" height="300" width="300"> <img src="images/porter.JPEG" height="300" width="300">
+<img src="images/selfie_y2.jpeg" height="300" width="300"> <img src="images/porter.jpeg" height="300" width="300">
 --------------
 
 
