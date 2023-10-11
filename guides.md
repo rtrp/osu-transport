@@ -5,52 +5,33 @@ author: palmerts
 ---
 # Guides #
 
-This page is an index of the growing set of guides behind the operations of the research group. It is intended to be a living document capturing the overviews and checklists for mastering the practical, administrative, and computational infrastructure that ARFC relies on for various common tasks. All research group members should contribute to this section early and often. If possible, link to GitHub repositories, gists, or Jupyter notebooks when there is a guide item that can be captured in one.
+This page is an index of the growing set of guides behind the operations of the research group. It is intended to be a living document capturing the overviews and checklists for mastering the practical, administrative, and computational infrastructure that RTRP relies on for various common tasks. All research group members should contribute to this section early and often. If possible, link to GitHub repositories, gists, or Jupyter notebooks when there is a guide item that can be captured in one.
 
 ## Getting Started
 
 You’re new to the research group. There are a lot of tasks to get done before you can really fly.
 
-* Handle HR stuff.
-* Get a GitHub account
-* Add yourself to the communication channels.
-* If you have an office, work with TP and the School of NSE office to get a key.
+* Create a GitHub account.
+* [Install](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and configure git.
+* Follow [these](./wiki/start_my_page.md) instructions to add yourself to the RTRP website. 
+* If you'd like a desk in the Merryfield graduate student office, work with TP to get access added to your OSU ID.
 * Activate your OSU and COE computer accounts, and begin using your official OSU email address.
-    Get a Zotero account.
-    Join the ARFC Zotero group.
-* Request licenses for export controlled software. (Ask Katy if any are needed for your project.)
-* Read the Code of Conduct.
-* Download Katy Huff's book. Browse it now and use it as a reference when you are lost.
+* [Request licenses](https://rsicc.ornl.gov/) for export controlled software. (Ask TP if any are needed for your project.)
+* Read the [Code of Conduct](./codeofconduct.md) and [Expectations](./expectations.md).
+* Download Katy Huff's book, [Effective Computation in Physics](http://lilith.fisica.ufmg.br/~dickman/transfers/comp/textos/Effective%20Computation%20in%20Physics%20(Python).pdf). Browse it now and use it as a reference when you are lost.
 * Install a text editor of your choosing. (e.g. vim, emacs, atom, or xo).
-* Install git.
-* Configure git.
-    Install the Zotero desktop application.
-    Learn how to use Zotero.
-    Learn how to access articles through the university library.
-    Add yourself to this website.
-    Email Katy your:
-        GitHub username (Katy will add you to the ARFC github organization.)
-        Email address(es) to invite to the group:
-            Google Drive directory.
-            Box Directory
-            Email List
-            Slack
-    Register for classes.
-    Explore Chambana.
+* The [university library](https://library.oregonstate.edu/) allows you to checkout textbooks and view journal articles. They also have many workshops and guides, including [this general research guide](https://guides.library.oregonstate.edu/nuclearengineering) specifically for OSU's Nuclear Engineering programs.
+Register for classes.
+* Additional resources:
+  * The NSE Graduate Student Handbook for your matriculation year
+  * [The School of Nuclear Science and Engineering's Graduate Advising page](https://engineering.oregonstate.edu/NSE/mynse/graduate-advising)
+  * [The Graduate School's current students resources page](https://gradschool.oregonstate.edu/current-students)
 
-## Dealing with TP
-
-Here are some ways to interact with me that will make my life (and sometimes yours) easier.
-
-* Scheduling to meet with TP
-* Requesting a recommendation letter
-* Requesting comments on a document
-* Requesting help with software
-* Asking TP to be on your PhD committee
 
 ## Communication
 
-We communicate through many channels. Use the communication guide to understand and be prepared to make use of the various meetings, listhosts, chat media, calendars, twitter accounts, and whatnot that tie us together.
+We communicate primarily through Slack ([Download the desktop application here](https://slack.com/downloads/)). Once TP has added you to the RTRP slack page, check out the group's available channels: in the left sidebar of the desktop app, click Channels > Manage > Browse channels. 
+
 
 ## Writing
 
