@@ -1,5 +1,5 @@
 ---
-title: overleaftemplates
+title: resources
 layout: default
 author: clemekay
 ---
