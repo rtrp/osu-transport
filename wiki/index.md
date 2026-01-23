@@ -1,7 +1,7 @@
 ---
 title: Wiki
 layout: default
-author: Ryan Stewart, Kayla Clements
+author: Ryan Stewart, Kayla Clements, Melek Derman
 ---
 
 # RTRP Wiki
@@ -14,8 +14,6 @@ Along with this we have provided an interactive section (via Google Colab/Jypter
 If you're interested in attending OSU, please feel free to visit our individual pages and see what we are working on.
 You can also reach out to any of us and we would be more than happy to answer any questions about our work, funding, or general life at OSU.
 
-
-
 # Useful References
 * Current students: How do I create my RTRP webpage? [How to](./start_my_page.md)
 * Cheat sheet for [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), what this website is written in
@@ -23,8 +21,9 @@ You can also reach out to any of us and we would be more than happy to answer an
 * Our old wiki page had some useful information, but mind you, it may be a bit out of date...
 [Old Wiki](./old_wiki/index.md)
 
-
-
+# RTRP Presentation and Poster Templates
+* PowerPoint and Beamer templates are available for download **[here](https://github.com/melekderman/MyDocs/tree/main/templates/RTRP)**.
+  
 # Interactive Media
 Our research group is in the process of transitioning much of our work to Jupyter notebooks, which will allow us to share our work here and allow others view what we have been up to.
 New to Jupyter notebooks? 
