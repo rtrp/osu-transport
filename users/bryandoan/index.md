@@ -5,6 +5,8 @@ author: Bryan Doan
 ---
 # Bryan Doan
 
+<img src="images/bryandoan_rtrp.jpg" height="300">
+
 Email: [doanbry@oregonstate.edu](mailto:doanbry@oregonstate.edu)
 
 I am a first year graduate student working in the Radiation Transport and Reactor Physics research group under the direction of Dr. Todd Palmer. 
