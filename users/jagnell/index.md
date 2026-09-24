@@ -5,7 +5,7 @@ author: Jack Agnell
 ---
 # Jack Agnell
 
-<img src="images/jagnell.jpeg" height="300">
+<img src="images/jagnell.jpg" height="300">
 --------------
 
 Email: [agnellj@oregonstate.edu](mailto:agnellj@oregonstate.edu)
